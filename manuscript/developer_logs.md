@@ -12,7 +12,7 @@ screenshots can only do the game so much justice (no different than
 cliffnotes for a book). A Dark Room will take anywhere from an hour
 and half to three hours to complete. So, take the time and do so :-).
 
-#Month 1, Day 1 - Jun 29, 2013: Picking the Development Environment
+#Day 1 - Jul 1, 2013: Picking the Development Environment
 
 Starting off, I knew I didn't want to write an app in Objective C and
 XCode again. During my time off, I had already built apps using
@@ -52,7 +52,7 @@ for a complex physics and modeling system is a sure fire way to never
 have a game built. You may even want to start with just wrapping a web
 page in your app and just use Html and JavaScript. Start small.
 
-#Month 1, Day 9 - Jul 7, 2013: A Week Later. First Playtest by a Non-Gamer
+#Day 7 - Jul 7, 2013: A Week Later. First Playtest by a "Non-Gamer"
 
 I got huts working and had implemented population growth. The game was
 far from complete. But I took the chance and showed it to a non
@@ -88,31 +88,101 @@ mechanics and trying to appease everyone will just lead to a dilluted
 experience that won't satisfy anyone. I cover this idea of creating
 niche apps in the chapter titled: Making Small, Sustainable Income.
 
-**Jul 12, 2013: The First Road Block in Developing A Dark Room** <a href="#firstroadblock"><small>permalink</small></a>
+A couple of tips when beta testing:
 
-I hit my first road block. When I reached out to Michael about porting the game to iOS, I actually hadn't finished playing the web version. I never bought the compass to set out onto the Dusty Path. I thought I was making extremely good progress, but then I saw the complexity of the outside world. The economy management part of the game, that I had been coding on, was just the tip of the iceberg.
+1. Learn to avoid feedback you don't need (for me it was \"it needs
+   pictures\"). Try to understand why they are giving you that
+   feedback. Read up on the 5 Whys on Wikipedia. See my chapter
+   called: Genin Tsuikyu (Root Cause Analysis) for an interesting bit
+   of creative writing.
 
-The Dusty Path was really hard to fit on a small screen. It took me 10 days to figure out how to approach the next part of the game. I made tiny sample apps and tried different variations of pinch and zoom techniques, scrolling techniques, "follow the player" techniques, and skeuomorphic stuff. Before this day I thought I was so close to finishing the implementation of game....
+2. Try to do your beta testing in person. Watch the tester play the
+   game. If they do something surprising, ask why they did X vs Y. For
+   in person testing, pick a new person every time (having fresh eyes
+   on your game is incredibly important).
 
-<a id="stabbingcocoaui"> </a>
+3. Don't use up all your beta tests all at once. If you release your
+   game to all of your beta testers, then you'll probably end up
+   getting the same feedback from all of them, and then no subsequent
+   feedback when you make updates. So just release the game to one or
+   two people at a time, ramping up as you get closer to completion.
 
-**Jul 21, 2013: I Want to Stab Cocoa UI In the Face** <a href="#stabbingcocoaui"><small>permalink</small></a>
+#Day 12 - Jul 12, 2013: Road Blocks
 
-I settled on a "follow the player" implementation where the map would center when the player moved on the map. You could scroll around the map if you needed, but as soon as you moved again, it would refocus to your current location. I had to use two layers of overlapping labels to represent landmarks and terrain (Cocoa UILabels can only have one format/font). It took 5 days to get the labels lined up and scrolling correctly. Fifteen days, just gone on trying to display a map.
+I hit my first road block. When I reached out to Michael about porting
+the game to iOS, I actually hadn't finished playing the web version. I
+never bought the compass to set out onto the Dusty Path. I thought I
+was making extremely good progress, but then I saw the complexity of
+the outside world. The economy management part of the game, that I had
+been coding on, was just the tip of the iceberg.
 
-<a id="myversion"> </a>
+The Dusty Path was really hard to fit on a small screen. It took me 10
+days to figure out how to approach the next part of the game. I made
+tiny sample apps and tried different variations of pinch and zoom
+techniques, scrolling techniques, "follow the player" techniques, and
+skeuomorphic stuff. Before this day I thought I was so close to
+finishing the implementation of game...
 
-**Jul 26, 2013: Making the iOS Version My Own** <a href="#myversion"><small>permalink</small></a>
+##Postmortem
 
-At this point I needed to take a break from the Dusty Path and do some polish and playtesting. The pacing in the game was an issue. It was too slow to get started. I didn't know if it was because I had played it so many times, or if the game was actually just too slow to get going on a mobile medium.
+I still to this day deal with Imposter Syndrome. A Dark Room was an
+amazing success, but was it because of my complete redesign or am I
+kidding myself and simply standing on the shoulders of a giant
+(Michael). My two other games haven't done as well as A Dark Room
+(financially). But they are completely my own and both have a near
+perfect five star rating. I've been doing this on and off for three
+years now and I still feel like I can't get out from under the shadow
+of ADR.
 
-I decided to add Friedrich Nietzsche quotes that would show up randomly when you stoked the fire (to give the player something to read through the slower points in the game). This didn't make it into the final release, but were in the game for a while. I had accumulated 200 quotes and felt that it was inline with the atmosphere of the game.
+A lot of the rework for A Dark Room was getting it to work on a mobile
+medium. It was originally a web based idle game that was designed to
+be left alone most of the time (not actively played/played in
+bursts). I wanted to create an experience that kept you from leaving
+your screen until you finished. Try playing the webversion of the game
+located at
+[http://adarkroom.doublespeakgames.com/](http://adarkroom.doublespeakgames.com/)
+side by side with the iOS version.
 
-<a id="creativityisadrug"> </a>
+As for building games for mobile read the chapter titled: Build Games
+for Mobile.
 
-**Jul 28, 2013: Creativity is a Drug** <a href="#creativityisadrug"><small>permalink</small></a>
+#Day 21 - Jul 21, 2013: I Want to Stab Cocoa UI In the Face
 
-I don't know what it was about these Nietzsche quotes. I think it was my first attempt at doing something different and creative... something that set A Dark Room iOS apart from the web version. I spent the day incorporating quotes, thinking to myself how awesome it would be and how eerie it would make the game. Here are some of them:
+I settled on a "follow the player" implementation where the map would
+center when the player moved on the map. You could scroll around the
+map if you needed, but as soon as you moved again, it would refocus to
+your current location. I had to use two layers of overlapping labels
+to represent landmarks and terrain (Cocoa UILabels can only have one
+format/font). It took 5 days to get the labels lined up and scrolling
+correctly. Fifteen days, just gone on trying to display a map.
+
+#Postmortem
+
+Nothing really to add here that wasn't covered in Day 12. But here is
+a screenshot of the Dusty Path as it existed then and now.
+
+#Day 26 - Jul 26, 2013: Making the iOS Version My Own
+
+At this point I needed to take a break from the Dusty Path and do some
+polish and playtesting. The pacing in the game was an issue. It was
+too slow to get started. I didn't know if it was because I had played
+it so many times, or if the game was actually just too slow to get
+going on a mobile medium.
+
+I decided to add Friedrich Nietzsche quotes that would show up
+randomly when you stoked the fire (to give the player something to
+read through the slower points in the game). This didn't make it into
+the final release, but were in the game for a while. I had accumulated
+200 quotes and felt that it was inline with the atmosphere of the game.
+
+#Day 28 - Jul 28, 2013: Creativity is a Drug
+
+I don't know what it was about these Nietzsche quotes. I think it was
+my first attempt at doing something different and
+creative... something that set A Dark Room iOS apart from the web
+version. I spent the day incorporating quotes, thinking to myself how
+awesome it would be and how eerie it would make the game. Here are
+some of them:
 
 >every profound spirit needs a mask: even more, around every profound spirit a mask is continually growing.
 
@@ -120,85 +190,158 @@ I don't know what it was about these Nietzsche quotes. I think it was my first a
 
 >a dictator divides mankind into two classes: tools and enemies.
 
-To help again with pacing, I decided to add "flashes of events" that would show up when the player gathered wood. It added just enough of a draw to keep going though the first part. The first message read:
+To help again with pacing, I decided to add "flashes of events" that
+would show up when the player gathered wood. It added just enough of a
+draw to keep going though the first part. The first message
+read:
 
 >hope she's okay, have to keep the fire going.
 
-<a id="battlingthedustypath"> </a>
+#Postmortem
 
-**Jul 30, 2013: Back to Battle the Dusty Path** <a href="#battlingthedustypath"><small>permalink</small></a>
+The "flashes of events" was an incredibly important turning point for
+the game. It's where I took the world Michael created and put my own
+touch of narrative. The "builder" of A Dark Room is by far the most
+important component to the narrative. I'd go as far to say that she
+_is_ the narrative. I don't think the game would have been as
+successful without her and the player's unspoken relationship.
 
-The quotes were in place (I was so excited about showing this to Michael). I had random Room events working too. The after effects created from spending so many days with wrestling the map had worn off. I started specing out the battle sequences now.
+Here are some code metrics for the size of the game at this
+point. You'd think a minimalist text based game would be tiny, but
+that certainly wasn't the case.
 
-<a id="microsoftmanifesto"> </a>
+Game Size at Day 28:
 
-**Aug 1, 2013: Reflecting on the .Net Ecosystem - The Microsoft Manifesto** <a href="#microsoftmanifesto"><small>permalink</small></a>
+- files: 35
+- blank: 1048
+- comment: 147
+- code: 3,584
 
-I haven't booted up Windows for a long period of time at this point. Most of my time was spent building A Dark Room on OSX. I still built small applications and kept my skills sharp with NodeJS, and Rails. I still paired with developers on any stack (.Net or not), and I still went to .Net User Groups to meet up with friends.
+Final Game Size:
 
-But at this point I just had some (for lack of a better term) "resentment" with the .Net ecosystem (and the person I used to be). I've spent a good amount of time "on the other side" and have tried really, really hard to break down barriers for .Net developers. I took the day and wrote a blog entry about my past self: [The Microsoft Manifesto](http://amirrajan.net/meta/2013/08/01/the-microsoft-manifesto/).
+- files: 149
+- blank: 3,855
+- comment: 291
+- code: 16,506
 
-<a id="takinganotherbreak"> </a>
+#Back to Battle the Dusty Path
 
-**Aug 2, 2013: Had to Take Another Break** <a href="#takinganotherbreak"><small>permalink</small></a>
+The quotes were in place. I had random Room events working too. The
+after effects created from spending so many days with wrestling the
+map had worn off. I started specing out the battle sequences
+now.
 
-Development on A Dark Room started to slow down a bit (I hit a bit of a low point in motivation). Combat was working at a cursory level... mostly just animations. The battle sequence was pretty much a real time game with a timer running at 10 frames per second... I was making a real time game using Cocoa controls as opposed to sprites and a canvas... kind of felt weird about that. But it worked.
+#Postmortem
 
-5 days on and off to work through the loot screen (the screen that came up after you won a battle). Pixel pushing labels and buttons. At this point I dread any kind of UI work in iOS.
+For the business/not technical people reading this, I can't stress
+enough how difficult this time period was. It's not fun hitting
+roadblock after roadblock. You make some progress, see parts of a
+system coming together and then immediately hit another problem. It's
+one of the reasons I had to take a step away from the Dusty Path back
+in Day 26.
 
-<a id="abetterdeveloper2"> </a>
+So when your developer friends are in this slog, the last thing they
+need to hear is "Why isn't this done yet?", or "I'm surprised this is
+taking so long." Try to empathize with the developers, because we've
+got enough problems to deal with during these times.
 
-**Aug 13, 2013: Another Realization That I Was Becoming a Better Developer** <a href="#abetterdeveloper2"><small>permalink</small></a>
+#Day 33 - Aug 2, 2013: Had to Take Another Break
 
-I was scheduled to speak at Austin Code Camp. I was going to do a presentation on an array of front end JavaScript frameworks. I spent the next few days working on the presentation and spent some time preparing a lighting talk about how you could use VIM for C# development. I also helped one of my friends (Chris Holt), prepare for his presentation on F#. Here I am, 4 months into my sabbatical. Continually gaining proficiency with C#/F#, JavaScript, Objective C, Ruby, VIM, Visual Studio, and XCode.
+Development on A Dark Room started to slow down a bit (I hit a bit of
+a low point in motivation). Combat was working at a cursory
+level... mostly just animations. The battle sequence was pretty much a
+real time game with a timer running at 10 frames per second... I was
+making a real time game using Cocoa controls as opposed to sprites and
+a canvas... kind of felt weird about that. But it worked.
 
-<a id="nodejsitch"> </a>
+5 days on and off to work through the loot screen (the screen that
+came up after you won a battle). Pixel pushing labels and buttons. At
+this point I dread any kind of UI work in iOS.
 
-**Aug 25, 2013: Taking a Break to Scratch a NodeJS Itch** <a href="#nodejsitch"><small>permalink</small></a>
+#Day 58 - Aug 25, 2013: Taking a Break to Scratch a NodeJS Itch
 
-I've spent the last 8 days on the Dusty Path. Adding the Iron Mine, Coal Mine, Sulfur Mine, working through road creation, and working through unlocking Workshop items. I needed another break. I spent the next week working on a Twitter mashup written in NodeJS (github.com/amirrajan/sortis).
+I've spent the last 8 days on the Dusty Path. Adding the Iron Mine,
+Coal Mine, Sulfur Mine, working through road creation, and working
+through unlocking Workshop items. I needed another break. I spent the
+next week working on a Twitter mashup written in NodeJS among other
+things. You can finde the projects here: [http://amirrajan.net/nodejs-by-example/](http://amirrajan.net/nodejs-by-example/).
 
-<a id="notdotnetpresentation"> </a>
+#Postmortem
 
-**Sep 18, 2013: My First "Not .Net" Presentation** <a href="#notdotnetpresentation"><small>permalink</small></a>
+If you want to make an Html and Javascript game, take a look at
+Pixi.js. It's my go to game engine for web games.
 
-I did my very first presentation on NodeJS. It was a quasi workshop that went through a number of NodeJS applications I've built. I helped developers build and deploy their first NodeJS applications to Nodejitsu and Heroku. It was lots of fun :-)
+Also, Happy Birthday to me... you can buy yourself A Dark Room, The Ensign,
+and A Noble Circle as a birthday gift to me :-D
 
-<a id="dotnetossdoa"> </a>
+More metrics on A Dark Room.
 
-**Sep 19, 2013: .Net OSS is DOA** <a href="#dotnetossdoa"><small>permalink</small></a>
+Game Size at Day 58:
 
-Development of the game continues. Play testing and tweaking the Dusty Path. I was just a grumpy person this month in general with all the annoying pixel pushing. I spent some time reflecting on all the different things I've done on my sabbatical. A Dark Room had been my primary "work" throughout this time. But I continued to spend time working with other stacks.
+- files: 64
+- blank: 1567
+- comment: 162
+- code: 7,969
 
-Another internal struggle with .Net development. I've tried to have discourse on Twitter with a number of .Net devs. I built a Twitter mashup to help me manage that discourse because I was having so many conversations at once. At this point I've learned (or at least gotten better) at objectively analyzing risk and reward. Using NodeJS and Ruby Motion, I have now have a better understanding of what OSS _really_ looks like. So I put another blog post up: [.Net OSS is DOA](http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/). This one got some attention. I wanted to (again) help developers break down barriers and see that all the "answers" don't exist in any single stack.
+Final Game Size:
 
-I was berated by my peers. I was "just plain wrong", I was told it's "just an opinion", and that "I was sorely misguided". Another dev tweets, "Here we go again with all the .Net OSS angst". I wish I never wrote this blog entry.
+- files: 149
+- blank: 3,855
+- comment: 291
+- code: 16,506
 
-<a id="donewithdotnet"> </a>
+#Day 108 - Sep 19, 2013: The Slog Continues
 
-**Sep 25, 2013: I'm Done Debating With Expert .Net Developers and Dealing With the .Net Mono Culture** <a href="#donewithdotnet"><small>permalink</small></a>
+Development of the game continues. Play testing and tweaking the Dusty
+Path. I was just a grumpy person this month in general with all the
+annoying pixel pushing. I spent some time reflecting on all the
+different things I've done on my sabbatical. A Dark Room had been my
+primary "work" throughout this time. But I continued to spend time
+working with other stacks.
 
-Another heated debate on Twitter. This time with regards to test driven development and behavior driven development. I now understand the term "strong opinions, strongly held". At this point, I knew I was done debating with experts of the .Net stack. Many (not all) have formed and solidified their opinions about "how things should be done". So I'm done trying to be respected/acknowledged by these individuals. I've wasted my breath too many times trying to get these guru's to see that they don't have it all figured out (no one has it all figured out, and you're selling yourself short if you think you do).
+#Postmortem
 
-<a id="playtestgrind"> </a>
+Dealing with stress is difficult. Dealing with the ups and downs of
+any type of creative work is difficult. You generally feel alone
+because no one understands what you are truly going through. And when
+you try to explain it to people, you end up feeling belittled. Read
+this chapter for a deeper dive into this topic: Dealing With Stress.
 
-**Oct 1, 2013: The Play Testing Grind... This is Not Fun** <a href="#playtestgrind"><small>permalink</small></a>
+#Day 119 - Oct 1, 2013: The Play Testing Grind... This is Not Fun
 
-All of September went to the Dusty Path (and being a grumpy developer). I made sure all the different city and town events showed up. I made sure the workshop items and workers unlocked correctly. I made sure map state rolled back if the player dies.
+All of September went to the Dusty Path (and being a grumpy
+developer). I made sure all the different city and town events showed
+up. I made sure the workshop items and workers unlocked correctly. I
+made sure map state rolled back if the player dies.
 
-I chatted with Michael about this. How the hell he managed to test all this... He did what I did, just grinded through it. I spent 2 days creating an automated test suite. It tested all the different random paths the events could take. Glad I did that. Even with all the manual testing, I still had a number of bugs.
+I chatted with Michael about this. How the hell he managed to test all
+this... He did what I did, just grinded through it. I spent 2 days
+creating an automated test suite. It tested all the different random
+paths the events could take. Glad I did that. Even with all the manual
+testing, I still had a number of bugs.
 
-<a id="ihatemichael"> </a>
+#Day 137 - Oct 19, 2013: A Dusty Path Complete
 
-**Oct 19, 2013: A Dusty Path Complete. I Hate You Michael (in a good way)** <a href="#ihatemichael"><small>permalink</small></a>
+The Dusty Path is finally to a point where all the events work and the
+spaceship can be unlocked. I have saving working too. A number of my
+friends and family have playtested the game to this point
+(and have frankly gotten sick of it).
 
-The Dusty Path is finally to a point where all the events work and the spaceship can be unlocked. I have saving working too. A number of my friends and family have playtested the game to this point (and have frankly gotten sick of it).
-
-During this time period I removed the Nietzsche quotes. It just led to confusion and the pacing was good enough with the "gather wood storyline events". Reading all those quotes helped shape the storyline I put in place. Particularly this quote:
+During this time period I removed the Nietzsche quotes. It just led to
+confusion and the pacing was good enough with the "gather wood
+storyline events". Reading all those quotes helped shape the storyline
+I put in place.
+Particularly this quote:
 
 >a dictator divides mankind into two classes: tools and enemies.
 
-There was a specific lull in the gameplay. The time between buying the compass and then building the Smokehouse, Tannery, and Workshop was still a bit of a wait. This is where I decided to shift the story to take a turn for the worse. Through the creation of these three buildings, the player would slowly see that the villagers were being overworked. And finally, the villagers became slaves:
+There was a specific lull in the gameplay. The time between buying the
+compass and then building the Smokehouse, Tannery, and Workshop was
+still a bit of a wait. This is where I decided to shift the story to
+take a turn for the worse. Through the creation of these three
+buildings, the player would slowly see that the villagers were being
+overworked. And finally, the villagers became
+slaves:
 
 >the villagers...i can see the fatigue in their eyes...
 
@@ -208,21 +351,53 @@ There was a specific lull in the gameplay. The time between buying the compass a
 
 >i'll make the villagers work...day and night...they are my slaves...
 
-After the game released, I had a number of people literally reset the game at this point... or simply stop gathering wood because they didn't want their villagers to turn into slaves. I didn't expect this kind of visceral reaction to the events. We murder in video game all the time. We vandalize. We steal cars. We stomp on the heads of turtles and mushrooms that never did anything to us. Why did the slave event cause people to stop playing?
+After the game released, I had a number of people literally reset the
+game at this point... or simply stop gathering wood because they
+didn't want their villagers to turn into slaves. I didn't expect this
+kind of visceral reaction to the events. We murder in video game all
+the time. We vandalize. We steal cars. We stomp on the heads of
+turtles and mushrooms that never did anything to us. Why did the slave
+event cause people to stop playing?
 
-I hate you Michael (in a good way). You didn't build a single game. You built 3 games and stitched them together in a brilliant way. The ship scene was the next thing to tackle. There was an end in sight. The largest part of the game (The Dusty Path) was done.
+I hate you Michael (in a good way). You didn't build a single
+game. You built 3 games and stitched them together in a brilliant
+way. The ship scene was the next thing to tackle. There was an end in
+sight. The largest part of the game (The Dusty Path) was done.
 
-<a id="meetingwithmichael"> </a>
+#Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.
 
-**Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.** <a href="#meetingwithmichael"><small>permalink</small></a>
+I couldn't believe it. I had a fully functioning game from beginning
+to end. I knew I had a number of things to polish. But the game was
+"code complete". Around this time I emailed Michael to set up a video
+conference (he lives in Canada.. I live in Dallas, Tx). I can't
+believe that all the communication up until this point was done
+through email and chat.
 
-I couldn't believe it. I had a fully functioning game from beginning to end. I knew I had a number of things to polish. But the game was "code complete". Around this time I emailed Michael to set up a video conference (he lives in Canada.. I live in Dallas, Tx). I can't believe that all the communication up until this point was done through email and chat.
+Michael hadn't seen the storyline additions I made. I was worried he'd
+say "no" to the changes. It wasn't a lot of work to rip it out, but it
+was definitely something I felt contributed greatly to the experience
+of A Dark Room. It made the player feel anxious, uneasy, even worried
+to continue the game at times.
 
-Michael hadn't seen the storyline additions I made. I was worried he'd say "no" to the changes. It wasn't a lot of work to rip it out, but it was definitely something I felt contributed greatly to the experience of A Dark Room. It made the player feel anxious, uneasy, even worried to continue the game at times.
+This is a testament to how awesome and brilliant Michael is. He
+appreciated the changes I made to the storyline, and loved the
+enhancements I made to the mobile version of the game. It was as
+simple as that. He just said, "That's awesome! I like it!" Suffice to
+say that a huge weight was lifted off of my shoulders. We got to
+talking in fact about the intricacies of the game. I mentioned that
+most of the game could have been played without any villagers if iron,
+coal and sulphur could be mined by the player. Michael said "Hey, why
+don't you add that? Add a solo mode with an alternate ending?"
 
-This is a testament to how awesome and brilliant Michael is. He appreciated the changes I made to the storyline, and loved the enhancements I made to the mobile version of the game. It was as simple as that. He just said, "That's awesome! I like it!" Suffice to say that a huge weight was lifted off of my shoulders. We got to talking in fact about the intricacies of the game. I mentioned that most of the game could have been played without any villagers if iron, coal and sulphur could be mined by the player. Michael said "Hey, why don't you add that? Add a solo mode with an alternate ending?"
+#Postmortem
 
-<a id="incorporatingfeedback"> </a>
+If you're going to build a game and try to survive the App
+Store. Bring on a partner, even if they play a small role/own only a
+small part. You need to have someone to bounce ideas off of and bitch
+to. They are the one person that are "in it with you". In retrospect,
+it's a good thing that Michael took an active role in the
+development. He now handles all the legal and copyright infringment
+stuff (so I can concentrate on marketing and the relathioship with Apple).
 
 **Oct 30, 2013: Incorporating Michael's Feedback** <a href="#incorporatingfeedback"><small>permalink</small></a>
 
