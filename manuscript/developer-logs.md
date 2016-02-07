@@ -6,11 +6,12 @@ also cover the long tail of games that I relased after A Dark
 Room. Each developer entry has a short postmortem (along with a
 reference to one of the chapters in this book if a deeper dive is needed).
 
-For context, it's probably best to actually play A Dark Room all the
-way through. I'll put screenshots in here so that will help, but
-screenshots can only do the game so much justice (no different than
-cliffnotes for a book). A Dark Room will take anywhere from an hour
-and half to three hours to complete. So, take the time and do so :-).
+For context (and to avoid major spoilers), it's probably best to actually
+play A Dark Room all the way through. I'll put screenshots in here so
+that will help, but screenshots can only do the game so much justice
+(no different than cliffnotes for a book). A Dark Room will take
+anywhere from an hour and half to three hours to complete. So, take
+the time and do so :-).
 
 Guys and gals, as indie game developers, we're in this together. We
 have to support eachother (so thank you for buying this book and my
@@ -848,7 +849,7 @@ an independent game developer or writer) is struggling in some
 form. And all I can say is that I'll do what I can to make sure those
 people who have supported A Dark Room, have my support in turn.
 
-#Dec 22, 2013: Someone Stopped Playing Because of Slaves
+#Day 199 - Dec 22, 2013: Someone Stopped Playing Because of Slaves
 
 The first public comment about the slaves in the mobile version was
 posted on Michael's blog. My biggest fear is the vengeful 1 star
