@@ -1114,6 +1114,25 @@ Blind Us iPhones
 Also by doing this promocode giveaway, I saw how to do promocodes the
 right way and the wrong way. There is so much causaility here:
 
+- If I didn't eat that Jack in the Box the night before, I probably
+  wouldn't have been pooping and reading Hacker News.
+
+- If I didn't see the Hacker News link to A Dark Room while pooping, I
+  probably wouldn't have ever seen it.
+
+- If I wasn't on a sabbatical, I probably wouldn't have bothered with
+  the idea of a port, knowing I didn't have any time outside of work.
+
+- If I played the web version all the way through, I probably wouldn't
+  have attempted to port the game over.
+
+- If Michael didn't release it as open source, I probalby wouldn't
+  have contacted him.
+
+- If RubyMotion wasn't around, I probably would still be trying to
+  code the thing in ObjectiveC and XCode, breaking my computer in the
+  process.
+
 - If I didn't build a game using buttons and labels, it wouldn't have
   had some default voice over support.
 
