@@ -2,19 +2,19 @@
 
 These are detailed developer logs that I've kept from the beginning of
 A Dark Rooms inception though its climb the the number one spot. I
-also cover the long tail of games that I relased after A Dark
+also cover the long tail of games that I released after A Dark
 Room. Each developer entry has a short postmortem (along with a
 reference to one of the chapters in this book if a deeper dive is needed).
 
 For context (and to avoid major spoilers), it's probably best to actually
 play A Dark Room all the way through. I'll put screenshots in here so
 that will help, but screenshots can only do the game so much justice
-(no different than cliffnotes for a book). A Dark Room will take
+(no different than cliff notes for a book). A Dark Room will take
 anywhere from an hour and half to three hours to complete. So, take
 the time and do so :-).
 
 Guys and gals, as indie game developers, we're in this together. We
-have to support eachother (so thank you for buying this book and my
+have to support each other (so thank you for buying this book and my
 games). If you ever have a question, email me at ar@amirrajan.net.
 
 ##Day 1 - Jul 1, 2013: Picking the Development Environment
@@ -93,7 +93,7 @@ Aside from adding a bit more symmetry to all the screens (and making
 buttons bigger for larger fingers), the general look and feel of the
 game stayed the same.  It's incredibly important to stay true to your
 style, even when people say otherwise. Generalizing your game
-mechanics and trying to appease everyone will just lead to a dilluted
+mechanics and trying to appease everyone will just lead to a diluted
 experience that won't satisfy anyone. I cover this idea of creating
 niche apps in the chapter titled: Making Small, Sustainable Income.
 
@@ -147,7 +147,7 @@ A lot of the rework for A Dark Room was getting it to work on a mobile
 medium. It was originally a web based idle game that was designed to
 be left alone most of the time (not actively played/played in
 bursts). I wanted to create an experience that kept you from leaving
-your screen until you finished. Try playing the webversion of the game
+your screen until you finished. Try playing the web version of the game
 located at
 [http://adarkroom.doublespeakgames.com/](http://adarkroom.doublespeakgames.com/)
 side by side with the iOS version.
@@ -175,7 +175,7 @@ a screenshot of the Dusty Path as it existed then and now.
 ##Day 26 - Jul 26, 2013: Making the iOS Version My Own
 
 At this point I needed to take a break from the Dusty Path and do some
-polish and playtesting. The pacing in the game was an issue. It was
+polish and play testing. The pacing in the game was an issue. It was
 too slow to get started. I didn't know if it was because I had played
 it so many times, or if the game was actually just too slow to get
 going on a mobile medium.
@@ -257,8 +257,8 @@ One technique I would recommend is ask the your devs if you can be a
 them as they code and let them explain to you the lines they are
 working on. You don't have to understand anything, just be someone
 that asks the naive questions. "What does this part do?". Nod, let
-them just talk outloud to you about their reasoning about different
-parts of the code base. Just be someone they can talk to outloud
+them just talk out loud to you about their reasoning about different
+parts of the code base. Just be someone they can talk to out loud
 with. That's the best way for you to help the dev team when their in
 this kind of situation.
 
@@ -281,7 +281,7 @@ For those that are just getting into game development. The explanation
 above is important. I was making a game out of buttons, labels, ascii
 characters, and progress bars. No crazy 3D engine, hell, not even a 2D
 engine. Just stupid controls that you would use to build a business
-application. Keep this in mind when you feel this parallysis in
+application. Keep this in mind when you feel this paralyses in
 getting started/deciding what to use. Start with a simple idea/game
 mechanic and use the most primitive means necessary to get your idea
 on a digital medium.
@@ -292,7 +292,7 @@ I've spent the last 8 days on the Dusty Path. Adding the Iron Mine,
 Coal Mine, Sulfur Mine, working through road creation, and working
 through unlocking Workshop items. I needed another break. I spent the
 next week working on a Twitter mashup written in NodeJS among other
-things. You can finde the projects here: [http://amirrajan.net/nodejs-by-example/](http://amirrajan.net/nodejs-by-example/).
+things. You can find the projects here: [http://amirrajan.net/nodejs-by-example/](http://amirrajan.net/nodejs-by-example/).
 
 ##Postmortem
 
@@ -352,7 +352,7 @@ testing, I still had a number of bugs.
 
 The Dusty Path is finally to a point where all the events work and the
 spaceship can be unlocked. I have saving working too. A number of my
-friends and family have playtested the game to this point
+friends and family have play tested the game to this point
 (and have frankly gotten sick of it).
 
 During this time period I removed the Nietzsche quotes. It just led to
@@ -426,21 +426,21 @@ Store. Bring on a partner, even if they play a small role/own only a
 small part. You need to have someone to bounce ideas off of and bitch
 to. They are the one person that are "in it with you". In retrospect,
 it's a good thing that Michael took an active role in the
-development. He now handles all the legal and copyright infringment
-stuff (so I can concentrate on marketing and the relathioship with Apple).
+development. He now handles all the legal and copyright infringement
+stuff (so I can concentrate on marketing and the relationship with Apple).
 
 ##Day 149 - Oct 31, 2013: My Wife's Final Playtest
 
 The game is in its final form. My wife sits down and plays the game
-for the 50th time. A number of my friends playtested the game. But I
+for the 50th time. A number of my friends play tested the game. But I
 really didn't want to ask too much of them. Most of them only
-playtested the game once, at different points in the development
+play tested the game once, at different points in the development
 process. I was able to get feedback from them, and they were a
 tremendous help (thank you Jason Smith, Eric Sowell, Kevin Wade, Matt
 Florence, Tim Rayburn, Zahan Tariq, Christopher Krailo, Aaron
 Lasseigne, and Chris Holt).
 
-But my wife stands well above all the others that playtested. She
+But my wife stands well above all the others that play tested. She
 could have said she was tired of playing this game at any point, but
 she didn't. She was the only person that, without hesitation, would
 play through the game any time I asked. I handed the final game to her
@@ -461,7 +461,7 @@ your games.
 
 I submitted the game to the App Store. The description of the game was
 set to "a text based journey... awake. head throbbing. vision blurry."
-I still spent a day making minor tweaks to balancing. I playtested the
+I still spent a day making minor tweaks to balancing. I play tested the
 game another 4 times before releasing. My game times were pretty damn
 fast at this point because I knew exactly what to do. I could beat the
 game in 90 to 100 minutes without even thinking too hard. Now I just
@@ -525,7 +525,7 @@ device. Do this or risk living through the same thing I did.
 
 Also, watch the Indie Game: The Movie on Netflix. It's a great look at
 some of the struggles indie game devs go through (hits really close to
-home, expecially after this day one crash).
+home, especially after this day one crash).
 
 ##Day 158 - Nov 9, 2013: The Crash Fix Shipped
 
@@ -559,7 +559,7 @@ that there was an iOS version.
 
 I'd say at a minimum, have a website for your game and a Twitter
 handle where people can reach you at. I created my website a bit late
-into the game and I'm sure I missed some opportunites to have a url
+into the game and I'm sure I missed some opportunities to have a url
 that could have been shared with people. Here are some samples of good
 websites:
 
@@ -607,7 +607,7 @@ about the webversion of ADR and replied with tweets such as:
 
 >she smiles...
 
-I was lucky in this area primarily becuase there was already a "sales
+I was lucky in this area primarily because there was already a "sales
 funnel" for me to leverage. Check out the following chapter for some
 tips: Finding Your Community.
 
@@ -639,7 +639,7 @@ meaningful interaction with Leigh however.
 ##Postmortem
 
 It takes an immense amount of work creating this small connections. My
-reltionship with Leigh Alexander was one of these concerted efforts as
+relationship with Leigh Alexander was one of these concerted efforts as
 you'll see through this developer log. For more information about how
 to approach editors/reviewers read the chapter: How To Contact
 People That Can Help You
@@ -647,7 +647,7 @@ People That Can Help You
 ##Day 170 - Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
 
 I added "search on Google for any mention of A Dark Room" to my
-routine. I came accross this:
+routine. I came across this:
 [Take a risk on iOS adventure game A Dark Room and you might have a new addiction](http://www.pocketgamer.co.uk/r/iPad/A+Dark+Room/news.asp?c=55477). This
 review written by Chris Preistman (@CPriestman), is the first review
 of A Dark Room iOS that I had come across. How freaking cool is that?
@@ -713,7 +713,7 @@ One star reviews are inevitable. Try not to let it get to
 you. Eventually you'll get used to a few bad reviews here and
 there (at times many).
 
-The good news is that everytime you do a new release of your
+The good news is that every time you do a new release of your
 game old reviews get archived. The review system is very important to
 indie developers. Read the following chapter for deep insight on
 techniques for getting your game reviewed: The Review System's Ins and Outs
@@ -808,8 +808,8 @@ Dark Room to finally make it into the lime lite.
 ##Postmortem
 
 Leigh Alexander and Cara Ellison are my champions. They help me out
-and recommend my games becuase I went above and beyond to make sure
-they are in the know. Additionally I make a concious effort to retweet
+and recommend my games because I went above and beyond to make sure
+they are in the know. Additionally I make a conscious effort to retweet
 their articles and promotions on @ADarkRoomiOS's Twitter. You want to
 empower those that empower you.
 
@@ -873,7 +873,7 @@ the email and I felt like I dodged a bullet.
 Be responsive to players that you can reach. Email/tweet them if you can
 find their info online. If someone emails you, reply to them fast,
 even if it's to say "Hey, I got your email and will reply in full as
-soon I get the chance." This shows that you care (which you genuinly should).
+soon I get the chance." This shows that you care (which you genuinely should).
 
 ##Day 204 - Dec 27, 2013: A Dark Room, 2013 GOTY Lists, and Zoe Quinn
 
@@ -932,7 +932,7 @@ deal.
 Patreon is another means of how I support those that support me. It's
 such a simple token of support to give to things they care
 about. There are creative minds out there that want to make a living
-with what they enjoy doing. Contrinbuting to their Patreon is a means
+with what they enjoy doing. Contributing to their Patreon is a means
 for you to do that.
 
 ##Day 209 - Jan 1, 2014: First Check From Apple
@@ -1079,7 +1079,7 @@ hope he doesn't take offense to my persistence.
 
 ##Postmortem
 
-This is me pouncing again on an interaction. Stay vigilent with your
+This is me pouncing again on an interaction. Stay vigilant with your
 own interactions, they can pan out to be something more!
 
 Again, for a deeper dive, read: How To Contact People That Can Help You
@@ -1104,8 +1104,8 @@ my promo codes, but they are generating results.
 I've included the blog entry under the chapter: Raising Awareness, The
 Blind Use iPhones
 
-Also by doing this promocode giveaway, I saw how to do promocodes the
-right way and the wrong way. There is so much causaility here:
+Also by doing this promo code giveaway, I saw how to do promo codes the
+right way and the wrong way. There is so much causality here:
 
 - If I didn't eat that Jack in the Box the night before, I probably
   wouldn't have been pooping and reading Hacker News.
@@ -1119,7 +1119,7 @@ right way and the wrong way. There is so much causaility here:
 - If I played the web version all the way through, I probably wouldn't
   have attempted to port the game over.
 
-- If Michael didn't release it as open source, I probalby wouldn't
+- If Michael didn't release it as open source, I probably wouldn't
   have contacted him.
 
 - If RubyMotion wasn't around, I probably would still be trying to
@@ -1141,7 +1141,7 @@ right way and the wrong way. There is so much causaility here:
 - If I didn't write a blog entry about raising awareness for the
   blind, the AppleVis editorial team wouldn't have reached out.
 
-- If the editorial team didn't reach out, I'd be giving promocodes
+- If the editorial team didn't reach out, I'd be giving promo codes
   away in a suboptimal way, making poor connections with the
   communities I want to be a part of.
 
@@ -1285,7 +1285,7 @@ the game and always responds to my emails. Thank you... thank you Cara.
 ##Postmortem
 
 At this point, I was out of ideas with regards to promotion. I spent
-_a lot_ of time giving away promocodes. It is an immense amout of work
+_a lot_ of time giving away promo codes. It is an immense amount of work
 to do promo code giveaways correctly (Finding Your Community
 chapter). I emailed Cara, Leigh, and Brandon emails like the
 following:
@@ -1499,7 +1499,7 @@ release. The app at this point is ranked 32 under the RPG
 Category. With zero reviews for the current release. I knew this was a
 risk going in, but with it, I got 100 more promo codes.
 
-Outside of more accessibilty enhancements, and a bit more storyline
+Outside of more accessibility enhancements, and a bit more storyline
 elements; the most important part of this release was the review
 button I added. The review button shows up after the player has beaten
 the game. I decided to only show it at this point, because I know that
@@ -1507,7 +1507,7 @@ the player has experienced the story in its _entirety_ at least once.
 
 That day I received 20 reviews. A small success to be celebrated. I'm
 hoping to have an influx of reviews every few days given how long it
-takes to beat the game... I'll probably be dissapointed... but we'll see.
+takes to beat the game... I'll probably be disappointed... but we'll see.
 
 ##Day 272 - Mar 5, 2014: Check Number 3 From Apple
 
@@ -1611,7 +1611,7 @@ mentioned how important tact and empathy are?
 
 One notable conversation convinced me to try porting the game to
 iPad. I decided to time box the port to iPad. Surprisingly, I wrapped
-it up in a few days. I'm playtesting the game now... on an iPhone 5,
+it up in a few days. I'm play testing the game now... on an iPhone 5,
 iPhone 5s, iPad 3, iPad Air, and iPad 2... T_T.
 
 Given that an iPad version was going to be released, I decided to give
@@ -1627,8 +1627,8 @@ revenue) is flatlining now.
 
 ##Postmortem
 
-Here I end up trying to combine an editorial release, and promocode
-giveaways to keep A Dark Room's rank high. Coincidentially, all this
+Here I end up trying to combine an editorial release, and promo code
+giveaways to keep A Dark Room's rank high. Coincidentally, all this
 is happening around Spring Break, which was also helping downloads.
 
 ##Day 279 - Mar 13, 2014: Back in the Top 10, iPad Release
@@ -1684,7 +1684,7 @@ bringing in to get a top spot in another category).
 
 All I can really do is wait. I'm out of promo codes. I have no control
 over App Store ranking. Any amount of engagement I try to have on
-Twitter won't bring in numbers like what happend in the last two
+Twitter won't bring in numbers like what happened in the last two
 days. So I guess I'll geek out on something else for a while, and take
 a break for the next few days :-).
 
@@ -1692,8 +1692,8 @@ a break for the next few days :-).
 
 The unexplained spike is over. Downloads are coming back down to
 "normal" levels. This morning I received an email that the iPad
-verison of the game is ready for sale. Of course, with every new
-release, I get a new set of promocodes, and all the reviews get
+version of the game is ready for sale. Of course, with every new
+release, I get a new set of promo codes, and all the reviews get
 "archived" (wiped out frankly, frustrating). From March 4th to
 today. A Dark Room received 85 reviews. One of them was a 4-star
 review, one of them was a 1-star review, the rest were 5-stars. The
@@ -1717,7 +1717,7 @@ bought the game. A Dark Room's rank didn't increase in the App Store
 with this large week long spike in downloads, because every game was
 experiencing a similar spike.
 
-This is also the first day after the iPad relese. Downloads are back
+This is also the first day after the iPad release. Downloads are back
 to normal levels (a little over 100 a day). I didn't expect a big
 spike because of the iPad release. The game still needs to make it
 through the iPad ranking system (the iPhone rankings list is different
@@ -1725,7 +1725,7 @@ than the iPad rankings list). From historical data, it looks like A
 Dark Room can make it into the top 20 in about a week. We'll see if my
 prediction holds true.
 
-Also, the first day after a relase is always frustrating. When you
+Also, the first day after a release is always frustrating. When you
 push out a new release, you don't lose your rank in the app store, but
 you do lose all the reviews. So there sits A Dark Room, ranked #17 in
 the App Store, zero reviews, one boring screenshot, who will buy that?
@@ -1800,9 +1800,9 @@ rising... so far). I'd say the two day sale was a success.
 
 ##Postmortem
 
-If you have a review converstion rate above 3%. That's pretty freaking
+If you have a review conversion rate above 3%. That's pretty freaking
 amazing. Currently, A Noble Circle is my only app that is commanding
-3%+ converstion rate. I give some indept information in review
+3%+ conversion rate. I give some in depth information in review
 techniques in: The Review System's Ins and Outs.
 
 ##Hold on to Your Butts
