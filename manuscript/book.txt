@@ -1,5 +1,6 @@
 developer-logs.md
 build-games-for-mobile.md
 small-money.md
+pitching-to-apple.md
 bind.md
 id-give-anything.md

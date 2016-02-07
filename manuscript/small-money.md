@@ -206,7 +206,7 @@ of steps to take when building your awesome game.
    steps. Cross promote between your offerings. Keep doing this and
    hopefully you'll build one that does better than the others.
 8. Once you've got a little gem that's a bit brighter than the others,
-   consider [pitching the app to Apple for a minor feature](http://amirrajan.net/appstore/2015/11/17/getting-featured-by-apple/).
+   consider pitching the app to Apple for a minor feature.
 9. Are you making enough to cover your daily coffee? Lunch? Monthly car
    payment? Awesome! Cause that's probably about as good as it
    realistically gets.

@@ -973,11 +973,8 @@ finally released on the 4th. I let Orinks and Aaron know about the
 updates and they subsequently let their respective communities
 know. The downloads spiked to about 40 downloads for the next two
 days. I really didn't care about the downloads this time around. I
-wanted to do the right thing. I also ended up writing about what it
-took to make A Dark Room accessible: [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/).
-
-Given the accessibility updates and the recent media coverage for A
-Dark Room, I changed the App Store description too:
+wanted to do the right thing. Given the accessibility updates and the
+recent media coverage for A Dark Room, I changed the App Store description too:
 
 >Awake. Head throbbing. Vision blurry.
 
