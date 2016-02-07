@@ -1,6 +1,6 @@
 #Developer Logs With Postmortems - Part 1
 
-These are detailed developer logs that I've kept from the begining of
+These are detailed developer logs that I've kept from the beginning of
 A Dark Rooms inception though its climb the the number one spot. I
 also cover the long tail of games that I relased after A Dark
 Room. Each developer entry has a short postmortem (along with a
