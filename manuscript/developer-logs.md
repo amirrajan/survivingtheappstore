@@ -387,7 +387,7 @@ slaves:
 After the game released, I had a number of people literally reset the
 game at this point... or simply stop gathering wood because they
 didn't want their villagers to turn into slaves. I didn't expect this
-kind of visceral reaction to the events. We murder in video game all
+kind of visceral reaction to the events. We murder in video games all
 the time. We vandalize. We steal cars. We stomp on the heads of
 turtles and mushrooms that never did anything to us. Why did the slave
 event cause people to stop playing?
@@ -457,7 +457,7 @@ Thank you my dear.
 Find someone that will play your game to the very end at a drop of a
 hat. My wife received that task (she is married to me after all). I'd
 bring the game over to her and she played it, no questions
-asked... well she grumbled a little bit. But she know how important it
+asked... well she grumbled a little bit. But she knew how important it
 was to me and obliged. Have people that can support you in building
 your games.
 
@@ -605,7 +605,7 @@ My approach to tweeting was unique. I spoke in the persona of the
 game, it didn't come off as spammy. I searched for anyone that tweeted
 about the webversion of ADR and replied with tweets such as:
 
->i consume a part of your soul ever time you stoke the fire.
+>i consume a part of your soul every time you stoke the fire.
 
 >send the snarling beasts, kill all the villagers
 
@@ -620,7 +620,7 @@ tips: Finding Your Community.
 I woke up the next morning, awake, head throbbing, vision blurry. In a
 sleepy stupor, I logged into iTunes Connect and saw the number of
 downloads caused by Courtney's tweet. It spiked to 30. Thirty
-downloads... a tweet sent to over 3,000 people... and it lead to only
+downloads... a tweet sent to over 3,000 people... and it led to only
 30 downloads.
 
 #Postmortem
@@ -660,7 +660,7 @@ happened that day.
 
 #Postmortem
 
-When you see an onsilicited review. Be sure to reach
+When you see an unsolicited review. Be sure to reach
 out to them in some way and let them know you noticed. Keep these
 contacts warm. You have no idea when one of these small connections
 could lead to something bigger.
@@ -864,7 +864,7 @@ review. I already had one... I didn't want another:
 >have used the jewel. I have the space ship but I have no option to
 >upgrade it even though I have 40 alien alloy. Is this a bug because I
 >ignored the cart for so long or am I missing something. Very
->frustrating as I will NOT be replying to get to this point.
+>frustrating as I will NOT be replaying to get to this point.
 
 Michael was able to get the email address for the person who left the
 comment. And I emailed him immediately to tell him how to beat the
@@ -875,7 +875,7 @@ the email and I felt like I dodged a bullet.
 #Postmortem
 
 Be responsive to players that you can reach. Email/tweet them if you can
-find their info online. If someone emails your, reply to them fast,
+find their info online. If someone emails you, reply to them fast,
 even if it's to say "Hey, I got your email and will reply in full as
 soon I get the chance." This shows that you care (which you genuinly should).
 
