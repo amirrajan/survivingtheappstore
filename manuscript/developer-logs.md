@@ -239,7 +239,7 @@ now.
 
 #Postmortem
 
-For the business/not technical people reading this, I can't stress
+For the business/non technical people reading this, I can't stress
 enough how difficult this time period was. It's not fun hitting
 roadblock after roadblock. You make some progress, see parts of a
 system coming together and then immediately hit another problem. It's
@@ -250,6 +250,16 @@ So when your developer friends are in this slog, the last thing they
 need to hear is "Why isn't this done yet?", or "I'm surprised this is
 taking so long." Try to empathize with the developers, because we've
 got enough problems to deal with during these times.
+
+One technique I would recommend is ask the your devs if you can be a
+"rubber duck" for them. It's simple to be a rubber duck. Just sit with
+them as they code and let them explain to you the lines they are
+working on. You don't have to understand anything, just be someone
+that asks the naive questions. "What does this part do?". Nod, let
+them just talk outloud to you about their reasoning about different
+parts of the code base. Just be someone they can talk to outloud
+with. That's the best way for you to help the dev team when their in
+this kind of situation.
 
 #Day 33 - Aug 2, 2013: Had to Take Another Break
 
@@ -264,6 +274,17 @@ a canvas... kind of felt weird about that. But it worked.
 came up after you won a battle). Pixel pushing labels and buttons. At
 this point I dread any kind of UI work in iOS.
 
+#Postmortem
+
+For those that are just getting into game development. The explanation
+above is important. I was making a game out of buttons, labels, ascii
+characters, and progress bars. No crazy 3D engine, hell, not even a 2D
+engine. Just stupid controls that you would use to build a business
+application. Keep this in mind when you feel this parallysis in
+getting started/deciding what to use. Start with a simple idea/game
+mechanic and use the most primitive means necessary to get your idea
+on a digital medium.
+
 #Day 58 - Aug 25, 2013: Taking a Break to Scratch a NodeJS Itch
 
 I've spent the last 8 days on the Dusty Path. Adding the Iron Mine,
@@ -277,7 +298,7 @@ things. You can finde the projects here: [http://amirrajan.net/nodejs-by-example
 If you want to make an Html and Javascript game, take a look at
 Pixi.js. It's my go to game engine for web games.
 
-Also, Happy Birthday to me... you can buy yourself A Dark Room, The Ensign,
+Also, August 25th is my birthday... you can buy yourself A Dark Room, The Ensign,
 and A Noble Circle as a birthday gift to me :-D
 
 More metrics on A Dark Room.
@@ -386,15 +407,16 @@ was definitely something I felt contributed greatly to the experience
 of A Dark Room. It made the player feel anxious, uneasy, even worried
 to continue the game at times.
 
-This is a testament to how awesome and brilliant Michael is. He
+This is a testament to how kind and open to ideas Michael is. He
 appreciated the changes I made to the storyline, and loved the
 enhancements I made to the mobile version of the game. It was as
-simple as that. He just said, "That's awesome! I like it!" Suffice to
-say that a huge weight was lifted off of my shoulders. We got to
-talking in fact about the intricacies of the game. I mentioned that
-most of the game could have been played without any villagers if iron,
-coal and sulphur could be mined by the player. Michael said "Hey, why
-don't you add that? Add a solo mode with an alternate ending?"
+simple as that. He just said, "That's awesome! I like it!"
+
+Suffice to say that a huge weight was lifted off of my shoulders. We
+got to talking in fact about the intricacies of the game. I mentioned
+that most of the game could have been played without any villagers if
+iron, coal and sulphur could be mined by the player. Michael said
+"Hey, why don't you add that? Add a solo mode with an alternate ending?"
 
 #Postmortem
 
@@ -406,173 +428,479 @@ it's a good thing that Michael took an active role in the
 development. He now handles all the legal and copyright infringment
 stuff (so I can concentrate on marketing and the relathioship with Apple).
 
-#Oct 30, 2013: Incorporating Michael's Feedback
-
-The primary feedback that I got was removal of pronouns. I didn't
-realize it, but no part of the web version referred to the player as
-"you" or "I" or "us". I also incorporated the solo mode and alternate
-ending into the game. Playtesting. Playtesting. More playtesting.
-More tweaking. More playtesting.
-
 #Oct 31, 2013: My Wife's Final Playtest
 
-The game is in its final form. My wife sits down and plays the game for the 50th time. A number of my friends playtested the game. But I really didn't want to ask too much of them. Most of them only playtested the game once, at different points in the development process. I was able to get feedback from them, and they were a tremendous help (thank you Jason Smith, Eric Sowell, Kevin Wade, Matt Florence, Tim Rayburn, Zahan Tariq, Christopher Krailo, Aaron Lasseigne, and Chris Holt).
+The game is in its final form. My wife sits down and plays the game
+for the 50th time. A number of my friends playtested the game. But I
+really didn't want to ask too much of them. Most of them only
+playtested the game once, at different points in the development
+process. I was able to get feedback from them, and they were a
+tremendous help (thank you Jason Smith, Eric Sowell, Kevin Wade, Matt
+Florence, Tim Rayburn, Zahan Tariq, Christopher Krailo, Aaron
+Lasseigne, and Chris Holt).
+
+But my wife stands well above all the others that playtested. She
+could have said she was tired of playing this game at any point, but
+she didn't. She was the only person that, without hesitation, would
+play through the game any time I asked. I handed the final game to her
+at 10 pm that night. And she played the game non stop, all the way to
+the end. It was 2 am when she completed the play through.
+Thank you my dear.
+
+#Postmortem
+
+Find someone that will play your game to the very end at a drop of a
+hat. My wife received that task (she is married to me after all). I'd
+bring the game over to her and she played it, no questions
+asked... well she grumbled a little bit. But she know how important it
+was to me and obliged. Have people that can support you in building
+your games.
+
+#Nov 1, 2013: Submitted to the App Store at $1.99
+
+I submitted the game to the App Store. The description of the game was
+set to "a text based journey... awake. head throbbing. vision blurry."
+I still spent a day making minor tweaks to balancing. I playtested the
+game another 4 times before releasing. My game times were pretty damn
+fast at this point because I knew exactly what to do. I could beat the
+game in 90 to 100 minutes without even thinking too hard. Now I just
+have to wait. This was a good week. I shipped A Dark Room for iOS. And
+I was now preparing for a NodeJS competition: Node Knockout 2013!
+
+#Postmortem
+
+For Node Knockout 2013, I teamed up with three other devs and coded
+for a weekend straight on a Div Kick clone. We used Html/Javascript
+and Canvas controls. You can check out the fruits of our labor at
+[http://github.com/amirrajan/node-kick](http://github.com/amirrajan/node-kick).
+
+#Nov 8, 2013: One of the Worst Days of My Life
+
+It took a full 7 days. But A Dark Room was finally in the App Store. I
+downloaded the release version of the game on my iPhone 5 and was able
+to play it. It was an unreal feeling given how much work was put in. I
+know Michael tweeted about the release. I was hoping that many people
+would tweet about the iOS version. It was 6 months since the Hacker
+News post of A Dark Room. Everyone who upvoted the game probably have
+forgotten about it by now. But maybe it would go viral like the web
+version did.
+
+The first reply to Michael's tweet came in. I was sick to my stomach:
+"The game just crashes, I have an iPhone 5s". I screamed at the top of
+my lungs, broke down, literally fell to my knees and cried. No one
+wants to see that on their release day. No one should ever have that
+happen to them. I tried my wife's iPhone 5s and it was crashing there
+too. I texted my friend Eric Sowell and the game was also crashing for
+him. At that moment I wished I never spent all that time building it.
+
+I pulled myself together and put a debug build of A Dark Room on my
+wife's iPhone. It crashed immediately with a runtime exception (the
+error itself is a blur now, but I remember it having to do with
+compilation flags). My assumption at this point was it had something
+to do with 64 bit architecture of the new iOS devices.
+
+I drove (sped) to the Apple Store in the Parks at Willow Bend Mall,
+and bought an iPad Air to test out my theory. I sat at the food court,
+took the iPad out. I loaded up the developer certs and deployed a
+debug build of the app. It crashed there too. I ended up explicitly
+setting the compilation flag to armv7 for all libraries
+I was referencing. This fixed the debug build.
+
+I repackaged the app and via iTunes Connect, requested an emergency
+release of the app. Apple got back to me and approved the emergency
+release. I pushed up version 1.1 of the app. Then I just had to
+wait... nothing really I could do. I was taking part in a NodeJS
+competition at the time. So that helped keep my mind off of it.
+
+#Postmortem
+
+For all that is good in the world. Do a beta build of your game
+distributed through iTunesConnect/Test Flight. Doing this would have
+saved me from this terrible, terrible day. Before every release, I
+make sure to do a beta release of your game, you need to deploy a
+version with `beta-reports-active`. This will allow you to test your
+game in it's "release" state, on a device that isn't a developer
+device. Do this or risk living through the same thing I did.
+
+Also, watch the Indie Game: The Movie on Netflix. It's a great look at
+some of the struggles indie game devs go through (hits really close to
+home, expecially after this day one crash).
+
+#Nov 9, 2013: The Crash Fix Shipped
+
+Over the weekend (during the NodeJS competition), I received an email
+saying that version 1.1 of A Dark Room was ready for sale. That
+moment, I asked Eric (he was also in the competition) to download the
+updated version of the app. He started it up, and it worked.
+
+I still have no idea why setting the compilation flag to armv7
+worked. But I'm not about to change that now. To this day, it's still
+extremely stressful deploying to the App Store. I have no idea if the
+instant crash will come back. I can't recreate it using the simulators
+either.
 
-But my wife stands well above all the others that playtested. She could have said she was tired of playing this game at any point, but she didn't. She was the only person that, without hesitation, would play through the game any time I asked. I handed the final game to her at 10 pm that night. And she played the game non stop, all the way to the end. It was 2 am when she completed the play through. Thank you my dear.
-
-<a id="submittingtotheappstore"> </a>
-
-**Nov 1, 2013: Submitted to the App Store at $1.99** <a href="#submittingtotheappstore"><small>permalink</small></a>
-
-I submitted the game to the App Store. The description of the game was set to "a text based journey... awake. head throbbing. vision blurry." I still spent a day making minor tweaks to balancing. I playtested the game another 4 times before releasing. My game times were pretty damn fast at this point because I knew exactly what to do. I could beat the game in 90 to 100 minutes without even thinking too hard. Now I just have to wait. This was a good week. I shipped A Dark Room for iOS. And I was now preparing for a NodeJS competition: Node Knockout 2013!
-
-<a id="worstdayofmylife"> </a>
-
-**Nov 8, 2013: One of the Worst Days of My Life** <a href="#worstdayofmylife"><small>permalink</small></a>
-
-It took a full 7 days. But A Dark Room was finally in the App Store. I downloaded the release version of the game on my iPhone 5 and was able to play it. It was an unreal feeling given how much work was put in. I know Michael tweeted about the release. I was hoping that many people would tweet about the iOS version. It was 6 months since the Hacker News post of A Dark Room. Everyone who upvoted the game probably have forgotten about it by now. But maybe it would go viral like the web version did.
-
-The first reply to Michael's tweet came in. I was sick to my stomach: "The game just crashes, I have an iPhone 5s". I screamed at the top of my lungs, broke down, literally fell to my knees and cried. No one wants to see that on their release day. No one should ever have that happen to them. I tried my wife's iPhone 5s and it was crashing there too. I texted my friend Eric Sowell and the game was also crashing for him. At that moment I wished I never spent all that time building it.
-
-I pulled myself together and put a debug build of A Dark Room on my wife's iPhone. It crashed immediately with a runtime exception (the error itself is a blur now, but I remember it having to do with compilation flags). My assumption at this point was it had something to do with 64 bit architecture of the new iOS devices.
-
-I drove (sped) to the Apple Store in the Parks at Willow Bend Mall, and bought an iPad Air to test out my theory. I sat at the food court, took the iPad out. I loaded up the developer certs and deployed a debug build of the app. It crashed there too. I ended up explicitly setting the compilation flag to armv7 for all libraries I was referencing. This fixed the debug build.
-
-I repackaged the app and via iTunes Connect, requested an emergency release of the app. Apple got back to me and approved the emergency release. I pushed up version 1.1 of the app. Then I just had to wait... nothing really I could do. I was taking part in a NodeJS competition at the time. So that helped keep my mind off of it.
-
-<a id="crashfixshipped"> </a>
-
-**Nov 9, 2013: The Crash Fix Shipped** <a href="#crashfixshipped"><small>permalink</small></a>
-
-Over the weekend (during the NodeJS competition), I received an email saying that version 1.1 of A Dark Room was ready for sale. That moment, I asked Eric (he was also in the competition) to download the updated version of the app. He started it up, and it worked.
-
-I still have no idea why setting the compilation flag to armv7 worked. But I'm not about to change that now. To this day, it's still extremely stressful deploying to the App Store. I have no idea if the instant crash will come back. I can't recreate it using the simulators either.
-
-Our Node Knockout 2013 team: Team Us - As in "us" not "them", ended up placing 15th overall and placed 6th in the fun/utility category. We built a game called [NodeKick](http://github.com/amirrajan/nodekick). It was an awesome experience.
-
-<a id="twitterobsession"> </a>
-
-**Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins** <a href="#twitterobsession"><small>permalink</small></a>
-
-I created the @ADarkRoomiOS Twitter handle and started tweeting in the persona of the game. The plan was to interact with anyone and everyone who ever tweeted about the web version of the game. Having a daily tweet from the game, showed that I wasn't just a random spam bot... that there was a real person behind these tweets. I did a Twitter search for "adarkroom" and began combing through all the tweets... replying to anyone who mentioned the game. Letting them know that there was an iOS version.
-
-<a id="courtney"> </a>
-
-**Nov 15, 2013: A Ray of Hope - [Courtney Stanton (@q0rt)](http://superopinionated.com/)** <a href="#courtney"><small>permalink</small></a>
-
-I've spent 5 days putting up daily tweets about A Dark Room. Reached out to a few people on Twitter in the persona of the game. It was fun. I got a couple of laughs and some people actually interacted with me too. I liked building a relationship with the fans :-). Every single morning I'd wake up and check the downloads of A Dark Room for iOS. They were abysmal. Only 5 to 10 downloads a day. It's such a let down. Such a beautiful game... and no one was downloading it.
-
-Then the ray of hope. Courtney Stanton (@q0rt) tweeted about the release of the game. This was a big deal given that it was the first tweet about the game from someone outside of Michael's and my development circles. Courtney also had large following on Twitter.
-
-This tweet also represented a window into the indie game world. I started following this community more closely. Reports for downloads of the game take a full day to get published in iTunes Connect. Seeing this kind of tweet and not knowing the impact right away is nerve wracking.
-
-<a id="rudeawakening"> </a>
-
-**Nov 16, 2013: A Rude Awakening** <a href="#rudeawakening"><small>permalink</small></a>
-
-I woke up the next morning, awake, head throbbing, vision blurry. In a sleepy stupor, I logged into iTunes Connect and saw the number of downloads caused by Courtney's tweet. It spiked to 30. Thirty downloads... a tweet sent to over 3,000 people... and it lead to only 30 downloads.
-
-<a id="interactions"> </a>
-
-**Nov 18, 2013: Additional Notable Interactions** <a href="#interactions"><small>permalink</small></a>
-
-Using the @ADarkRoomiOS Twitter account, I interacted with Leigh Alexander (@leighalexander), an editor at Gamasutra and Kotaku, about a tweet she posted with regards to A Dark Room. Letting a number of people in the conversation know about the existence of the iOS version. There was no noticeable difference in downloads the next day. A meager 5 downloads on the 19th. I'm glad I was able to have a meaningful interaction with Leigh however.
-
-<a id="pocketgamers"> </a>
-
-**Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room** <a href="#pocketgamers"><small>permalink</small></a>
-
-I added "search on Google for any mention of A Dark Room" to my routine. I came accross this: [Take a risk on iOS adventure game A Dark Room and you might have a new addiction](http://www.pocketgamer.co.uk/r/iPad/A+Dark+Room/news.asp?c=55477). This review written by Chris Preistman (@CPriestman), is the first review of A Dark Room iOS that I had come across. How freaking cool is that? Unsolicited reviews are starting to come up. A spike to 30 downloads happened that day.
-
-<a id="toucharcade"> </a>
-
-**Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade** <a href="#toucharcade"><small>permalink</small></a>
-
-I received an email from a random person this day. The game was listed in the Touch Arcade forums, and one of the members emailed me to get some details about the game (what the game was about, how long the game was, etc). I answered his questions immediately and was happy to hear that he loved the game and wrote about his experience on the Touch Arcade forums. Every week afterwards, I have emailed a promo code to Touch Arcade for an official review. I have yet to hear back from them.
-
-<a id="onestarreview"> </a>
-
-**Nov 24, 2013: The First One Star Review** <a href="#onestarreview"><small>permalink</small></a>
-
-The game up to this point has had 245 downloads over an 18 day period (that's 13 downloads a day). I had a few 5 star reviews from friends in the development community. But I received my first 1 star review:
-
->What was a simple and elegant game should not have been messed with. I regret spending $2 on such a mess. Not only is the UI counter-intuitive and clumsy, but the mobile designer took far too much creative license in altering the original statistics and proportions put in place by Michael Townsend, original designer. Additionally, there is a bug that results in permanent thieves with no way to deter them, making the game essentially unplayable.
-
-What do I do? I played through the game hundreds of times. Meticulously place every button, every interaction. There was no bug in the thieves, I checked 10 times to make sure (just impatience on the part of the player, and unlucky random number generation). One bad review offsets 100 good ones. To this day I feel the pains of this review. I see it as incredibly brutal. Empathy was something I've learned through my time as an independent developer. I understood how frustrating it is to pay for an app and get delivered "shit". So I apologized on this support page. I have no idea if blewis1234 will ever read anything on this page. But I hope at some point, he'll re-rate the game.
-
-<a id="hackernews"> </a>
-
-**Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News** <a href="#hackernews"><small>permalink</small></a>
-
-I updated the support page for A Dark Room to include some back story. The name of the section is "A letter to the fans of A Dark Room" (near the top). I posted this entry on Hacker News and reddit.com/r/incremental_games to see if it would generate some interest. Again, I ended up hoping against all hope that enough people on Hacker News would remember the "Minimal Text Adventure" and show some love. It didn't happen. The response I got on Reddit was a bit better. I got quite a few kind words, which helped heal the wounds of my first one star review. The next morning, because of the post to Reddit, the game downloads spiked to 27 downloads.
-
-<a id="adrreview"> </a>
-
-**Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.** <a href="#adrreview"><small>permalink</small></a>
-
-Cassandra Khaw (@casskhaw), an editor at USGamer, tweets about A Dark Room on iOS. Again because of an interaction from @ADarkRoomiOS. I'm getting more involved in the indie gamer community. Courtney, Leigh, and Cassandra are all people that @ADarkRoomiOS (and by extension I) follow. That day the downloads spiked to 45. The largest single day download for A Dark Room iOS. The download trend didn't last. Every time I think the download trend will hold, it doesn't.
-
-I also came across a video review Chris Charlton (@reasonjp) did on the [iOS version of the game](http://kaijupop.com/2013/11/iospc-quick-vid-dark-room/). It was an incredible review, and it truly made my day. These small wins help me get through each disappointment in the number of downloads.
-
-<a id="blindgamers"> </a>
-
-**Dec 10, 2013: Blind Gamers Are Playing A Dark Room** <a href="#blindgamers"><small>permalink</small></a>
-
-Blind gamers reached out to @ADarkRoomiOS: Orinks (a member of AppleVis.com) and Aaron (a member of AudioGames.net). I was in complete utter shock that blind people were trying to play A Dark Room. I sent out a promise to them that I'd make the game fully accessible. I fired up RubyMotion and started researching what it would take to make A Dark Room fully playable via VoiceOver.
-
-<a id="cara"> </a>
-
-**Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/) - Another Glimmer of Hope for A Dark Room** <a href="#cara"><small>permalink</small></a>
-
-Cara Ellison, a writer for a number of online gaming website, mentioned that she was considering A Dark Room for her 2013 Game of the Year list. I reached out to her hoping she would have some kind words to write about the iOS version. She said she'd give the game a shot! I emailed her a promo code that day. Can't say this enough, these moments are hard to put in words. It's a chance for all the hard work Michael and I have put into the game to possibly pay off. For A Dark Room to finally make it into the lime lite.
-
-<a id="indiemegabooth"> </a>
-
-**Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room** <a href="#indiemegabooth"><small>permalink</small></a>
-
-Another "search on Google everyday" result: Indie Mega Booth did a full length podcast on A Dark Room. It's hard to believe 4 people can talk so long about such a small game (it was awesome too). Just wonderful to hear different interpretations of the story. They mentioned that the iOS version of the game exists too. Yet again, hoping against all odds that the mention of the game would spur more downloads. I took the time to thank Indie Mega Booth for doing the podcast and personally thanked Maddy Myers (@samusclone) on Twitter.... such an awesome Twitter handle by the way.
-
-<a id="maddy"> </a>
-
-**Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/) - More Connections With The Gaming Community** <a href="#maddy"><small>permalink</small></a>
-
-Maddy Myers was part of the discussion on the Indie Mega Booth podcast. She's an editor for Paste Magazine. Another important voice in the gaming community. Every person I've interacted with thus far is trying to be heard. Everyone in the gaming community (whether they are an independent game developer or writer) is struggling in some form. And all I can say is that I'll do what I can to make sure those people who have supported A Dark Room, have my support in turn.
-
-<a id="slaves"> </a>
-
-**Dec 22, 2013: Someone Stopped Playing Because of Slaves** <a href="#slaves"><small>permalink</small></a>
-
-The first public comment about the slaves in the mobile version was posted on Michael's blog. My biggest fear is the vengeful 1 star review. I already had one... I didn't want another:
-
->I am hoping someone can help. I started to play through and had carted wood to the point the population becomes slaves. I then had thieves and it was taking so long to stop them that I thought you were supposed to stop carting wood before your population became slaves. So I reset. I left the cart alone even though it had a “!” Next to it. I now have the entire map uncovered, I have been to every location and have used the jewel. I have the space ship but I have no option to upgrade it even though I have 40 alien alloy. Is this a bug because I ignored the cart for so long or am I missing something. Very frustrating as I will NOT be replying to get to this point.
-
-Michael was able to get the email address for the person who left the comment. And I emailed him immediately to tell him how to beat the game. I also gave him a hint on how to unlock the alternate ending where his villagers wouldn't become slaves. He was happy to receive the email and I felt like I dodged a bullet.
-
-<a id="zoe"> </a>
-
-**Dec 27, 2013: A Dark Room, 2013 GOTY Lists, and Zoe Quinn** <a href="#zoe"><small>permalink</small></a>
-
-I was holding my breath for this day. A number of online gaming websites posted their 2013 Games of the Year. A Dark Room (the web and mobile version) made three lists: Maddy Myers', Zoe Quinn's and Cara Ellison's.
-
-Additionally A Dark Room was the inspiration for a work of art by Elizabeth Simins (@ElizSimins). She was listed as one of the top 10 works The Bygon Bureau.
-
-This all happened in one day. I felt like I had won the lottery. Surely, this is A Dark Room's moment. These three GOTY entries probably reached 10's of thousands of gamers.
-
-This was also the first time I heard about [Depression Quest by Zoe Quinn](http://www.depressionquest.com/). I know she was feeling the same thing I was. We were two indie game developers, trying to create things that have meaning for us. And we both made 2013 Game of the Year lists.
-
-I played Depression Quest all the way through. It was an _experience_... that's the best way to describe it. I'm glad there are games coming out that connect emotionally with the player... that are more than guns and eye candy. I reached out to Zoe and let her know that the blind community are always in need for video games, and to spend some time in making her game accessible.
-
-I waited till the next day. I woke up in the morning and checked the downloads... there were 54. It's the highest thus far... but that was all the downloads that were generated... soul crushing I tell you.
-
-<a id="elizabeth"> </a>
-
-**Dec 28, 2013: [Elizabeth Simins (@ElizSimins)](http://cargocollective.com/eliz) and Patreon** <a href="#elizabeth"><small>permalink</small></a>
-
-After seeing her art work on Bygon Bureau, I reached out to Elizabeth and asked if I could put her piece on A Dark Room's support page. She said yes :-) Another bit of good news to keep my spirits up. Thank you Elizabeth, I'm forever grateful that you allowed me to showcase your work here (it's at the top of this page). Her work also led me to discover [Patreon](http://www.patreon.com/elizsimins). I'm amazed at how technology has given a means for artists to showcase their works (and potentially make a living off of them). Removing the middle man and making it easy for artists to promote their own works is a big deal.
-
-<a id="firstcheck"> </a>
-
-**Jan 1, 2014: First Check From Apple** <a href="#firstcheck"><small>permalink</small></a>
+Our Node Knockout 2013 team: Team Us - As in "us" not "them", ended up
+placing 15th overall and placed 6th in the fun/utility category.
+Awesome experience.
+
+#Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins
+
+I created the @ADarkRoomiOS Twitter handle and started tweeting in the
+persona of the game. The plan was to interact with anyone and everyone
+who ever tweeted about the web version of the game. Having a daily
+tweet from the game, showed that I wasn't just a random spam
+bot... that there was a real person behind these tweets. I did a
+Twitter search for "adarkroom" and began combing through all the
+tweets... replying to anyone who mentioned the game. Letting them know
+that there was an iOS version.
+
+#Postmortem
+
+I'd say at a minimum, have a website for your game and a Twitter
+handle where people can reach you at. I created my website a bit late
+into the game and I'm sure I missed some opportunites to have a url
+that could have been shared with people. Here are some samples of good
+websites:
+
+- http://amirrajan.net/games
+- http://adarkroomios.com
+- http://http://www.swordofxolan.com/
+- http://www.robtopgames.com/
+
+I used Jekyll hosted on GitHub. It's 100% free. So try to get
+something out (even if it's just a simple landing page with
+information on how to get in contact with you). Read the chapter: Tips
+on a Public Presence.
+
+#Nov 15, 2013: A Ray of Hope
+
+I've spent 5 days putting up daily tweets about A Dark Room. Reached
+out to a few people on Twitter in the persona of the game. It was
+fun. I got a couple of laughs and some people actually interacted with
+me too. I liked building a relationship with the fans :-). Every
+single morning I'd wake up and check the downloads of A Dark Room for
+iOS. They were abysmal. Only 5 to 10 downloads a day. It's such a let
+down. Such a beautiful game... and no one was downloading it.
+
+Then the ray of hope. Courtney Stanton (@q0rt) tweeted about the
+release of the game. This was a big deal given that it was the first
+tweet about the game from someone outside of Michael's and my
+development circles. Courtney also had large following on
+Twitter.
+
+This tweet also represented a window into the indie game world. I
+started following this community more closely. Reports for downloads
+of the game take a full day to get published in iTunes Connect. Seeing
+this kind of tweet and not knowing the impact right away is nerve
+wracking.
+
+#Postmortem
+
+My approach to tweeting was unique. I spoke in the persona of the
+game, it didn't come off as spammy. I searched for anyone that tweeted
+about the webversion of ADR and replied with tweets such as:
+
+>i consume a part of your soul ever time you stoke the fire.
+
+>send the snarling beasts, kill all the villagers
+
+>she smiles...
+
+I was lucky in this area primarily becuase there was already a "sales
+funnel" for me to leverage. Check out the following chapter for some
+tips: Finding Your Community.
+
+#Nov 16, 2013: A Rude Awakening
+
+I woke up the next morning, awake, head throbbing, vision blurry. In a
+sleepy stupor, I logged into iTunes Connect and saw the number of
+downloads caused by Courtney's tweet. It spiked to 30. Thirty
+downloads... a tweet sent to over 3,000 people... and it lead to only
+30 downloads.
+
+#Postmortem
+
+Here is a screenshot of my sales to date. Not that great, but it's a
+start.
+
+[]()
+
+#Nov 18, 2013: Additional Notable Interactions
+
+Using the @ADarkRoomiOS Twitter account, I interacted with Leigh
+Alexander (@leighalexander), an editor at Gamasutra and Kotaku, about
+a tweet she posted with regards to A Dark Room. Letting a number of
+people in the conversation know about the existence of the iOS
+version. There was no noticeable difference in downloads the next
+day. A meager 5 downloads on the 19th. I'm glad I was able to have a
+meaningful interaction with Leigh however.
+
+#Postmortem
+
+It takes an immense amount of work creating this small connections. My
+reltionship with Leigh Alexander was one of these concerted efforts as
+you'll see through this developer log. For more information about how
+to approach editors/reviewers read the chapter: How To Contact
+People That Can Help You
+
+#Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
+
+I added "search on Google for any mention of A Dark Room" to my
+routine. I came accross this:
+[Take a risk on iOS adventure game A Dark Room and you might have a new addiction](http://www.pocketgamer.co.uk/r/iPad/A+Dark+Room/news.asp?c=55477). This
+review written by Chris Preistman (@CPriestman), is the first review
+of A Dark Room iOS that I had come across. How freaking cool is that?
+Unsolicited reviews are starting to come up. A spike to 30 downloads
+happened that day.
+
+#Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade
+
+I received an email from a random person this day. The game was listed
+in the Touch Arcade forums, and one of the members emailed me to get
+some details about the game (what the game was about, how long the
+game was, etc). I answered his questions immediately and was happy to
+hear that he loved the game and wrote about his experience on the
+Touch Arcade forums. Every week afterwards, I have emailed a promo
+code to Touch Arcade for an official review. I have yet to hear back
+from them.
+
+#Postmortem
+
+The Touch Arcade forums are a great place to get some initial
+visibility to your game. Developers are allowed a single forum thread
+dedicated to their game. Be sure to keep a close eye on your forum
+thread and post updates about your game here to continue to get visibility.
+
+#Nov 24, 2013: The First One Star Review
+
+The game up to this point has had 245 downloads over an 18 day period
+(that's 13 downloads a day). I had a few 5 star reviews from friends
+in the development community. But I received my first 1 star
+review:
+
+>What was a simple and elegant game should not have been messed
+>with. I regret spending $2 on such a mess. Not only is the UI
+>counter-intuitive and clumsy, but the mobile designer took far too
+>much creative license in altering the original statistics and
+>proportions put in place by Michael Townsend, original
+>designer. Additionally, there is a bug that results in permanent
+>thieves with no way to deter them, making the game essentially
+>unplayable.
+
+What do I do? I played through the game hundreds of
+times. Meticulously place every button, every interaction. There was
+no bug in the thieves, I checked 10 times to make sure (just
+impatience on the part of the player, and unlucky random number
+generation). One bad review offsets 100 good ones. To this day I feel
+the pains of this review. I see it as incredibly brutal. Empathy was
+something I've learned through my time as an independent developer. I
+understood how frustrating it is to pay for an app and get delivered
+"shit". So I apologized on this support page. I have no idea if
+blewis1234 will ever read anything on this page. But I hope at some
+point, he'll re-rate the game.
+
+#Postmortem
+
+One star reviews are inevitable. Try not to let it get to
+you. Eventually you'll get used to a few bad reviews here and
+there. The good news is that everytime you do a new release of your
+game old reviews get archived. The review system is very important to
+indie developers. Read the following chapter for deep insight on
+techniques for getting your game reviewed: The Review System's Ins and Outs
+
+#Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News** <a href="#hackernews"><small>permalink</small></a>
+
+I updated the support page for A Dark Room to include some back
+story. The name of the section is "A letter to the fans of A Dark
+Room" (near the top). I posted this entry on Hacker News and
+reddit.com/r/incremental_games to see if it would generate some
+interest. Again, I ended up hoping against all hope that enough people
+on Hacker News would remember the "Minimal Text Adventure" and show
+some love. It didn't happen. The response I got on Reddit was a bit
+better. I got quite a few kind words, which helped heal the wounds of
+my first one star review. The next morning, because of the post to
+Reddit, the game downloads spiked to 27 downloads.
+
+#Postmortem
+
+Holiday weeks are absolutely wonderful. They are times when your game
+(all apps for that matter) will get a natural spike. Thanksgiving,
+Christmas, New Years, Spring Break, July 4th, Memorial Day.. pretty
+much all holidays have this side effect. Do not run sales during these
+time periods. There are your best days for a good amount of revenue.
+
+#Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.
+
+Cassandra Khaw (@casskhaw), an editor at USGamer, tweets about A Dark
+Room on iOS. Again because of an interaction from @ADarkRoomiOS. I'm
+getting more involved in the indie gamer community. Courtney, Leigh,
+and Cassandra are all people that @ADarkRoomiOS (and by extension I)
+follow. That day the downloads spiked to 45. The largest single day
+download for A Dark Room iOS. The download trend didn't last. Every
+time I think the download trend will hold, it doesn't.
+
+I also came across a video review Chris Charlton (@reasonjp) did on
+the
+[iOS version of the game](http://kaijupop.com/2013/11/iospc-quick-vid-dark-room/). It
+was an incredible review, and it truly made my day. These small wins
+help me get through each disappointment in the number of downloads.
+
+#Postmortem
+
+Any time an editor/reviewer gives you an unsolicited
+review. Immediately email them and thank them. Any time you do a
+non-trivial update, send an email to them letting them know. Keep
+these relationships warm how ever small of a reach that person has. As
+a one-man/two man shop. Even a small conversion in sales is worth
+it. Your main goal during this time period is to show these people
+(everyone) that you a genuine person who loves the craft. That's the
+edge you have against all the AAA companies out there. Because they
+won't go through this effort.
+
+#Dec 10, 2013: Blind Gamers Are Playing A Dark Room
+
+Blind gamers reached out to @ADarkRoomiOS: Orinks (a member of
+AppleVis.com) and Aaron (a member of AudioGames.net). I was in
+complete utter shock that blind people were trying to play A Dark
+Room. I sent out a promise to them that I'd make the game fully
+accessible. I fired up RubyMotion and started researching what it
+would take to make A Dark Room fully playable via VoiceOver.
+
+#Postmortem
+
+This is another small community I ended up being known in. Every
+little bit helps. Ever word of mouth recommendation will get more
+people playing your game. It's unlikely that you'll ever get a viral
+smash hit. What you want to shoot for is a sustainable small number of
+downloads. To this day, I'm 100% positive that AppleVis users
+recommend my games to their friends and family. Simply because I took
+the time to understand how they were playing the game, and enhanced
+ADR to be playable via VoiceOver.
+
+#Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/)
+
+Cara Ellison, a writer for a number of online gaming website,
+mentioned that she was considering A Dark Room for her 2013 Game of
+the Year list. I reached out to her hoping she would have some kind
+words to write about the iOS version. She said she'd give the game a
+shot! I emailed her a promo code that day. Can't say this enough,
+these moments are hard to put in words. It's a chance for all the hard
+work Michael and I have put into the game to possibly pay off. For A
+Dark Room to finally make it into the lime lite.
+
+#Postmortem
+
+Leigh Alexander and Cara Ellison are my champions. They help me out
+and recommend my games becuase I went above and beyond to make sure
+they are in the know. Additionally I make a concious effort to retweet
+their articles and promotions on ADarkRoomiOS's Twitter. You want to
+empower those that empower you.
+
+#Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room
+
+Another "search on Google everyday" result: Indie Mega Booth did a
+full length podcast on A Dark Room. It's hard to believe 4 people can
+talk so long about such a small game (it was awesome too). Just
+wonderful to hear different interpretations of the story. They
+mentioned that the iOS version of the game exists too. Yet again,
+hoping against all odds that the mention of the game would spur more
+downloads. I took the time to thank Indie Mega Booth for doing the
+podcast and personally thanked Maddy Myers (@samusclone) on
+Twitter.... such an awesome Twitter handle by the way.
+
+#Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
+
+Maddy Myers was part of the discussion on the Indie Mega Booth
+podcast. She's an editor for Paste Magazine. Another important voice
+in the gaming community. Every person I've interacted with thus far is
+trying to be heard. Everyone in the gaming community (whether they are
+an independent game developer or writer) is struggling in some
+form. And all I can say is that I'll do what I can to make sure those
+people who have supported A Dark Room, have my support in turn.
+
+#Dec 22, 2013: Someone Stopped Playing Because of Slaves
+
+The first public comment about the slaves in the mobile version was
+posted on Michael's blog. My biggest fear is the vengeful 1 star
+review. I already had one... I didn't want another:
+
+>I am hoping someone can help. I started to play through and had
+>carted wood to the point the population becomes slaves. I then had
+>thieves and it was taking so long to stop them that I thought you were
+>supposed to stop carting wood before your population became slaves. So
+>I reset. I left the cart alone even though it had a “!” Next to it. I
+>now have the entire map uncovered, I have been to every location and
+>have used the jewel. I have the space ship but I have no option to
+>upgrade it even though I have 40 alien alloy. Is this a bug because I
+>ignored the cart for so long or am I missing something. Very
+>frustrating as I will NOT be replying to get to this point.
+
+Michael was able to get the email address for the person who left the
+comment. And I emailed him immediately to tell him how to beat the
+game. I also gave him a hint on how to unlock the alternate ending
+where his villagers wouldn't become slaves. He was happy to receive
+the email and I felt like I dodged a bullet.
+
+#Postmortem
+
+Be responsive to players that you can reach. Email/tweet them if you can
+find their info online. If someone emails your, reply to them fast,
+even if it's to say "Hey, I got your email and will reply in full as
+soon I get the chance." This shows that you care (which you genuinly should).
+
+#Dec 27, 2013: A Dark Room, 2013 GOTY Lists, and Zoe Quinn
+
+I was holding my breath for this day. A number of online gaming
+websites posted their 2013 Games of the Year. A Dark Room (the web and
+mobile version) made three lists: Maddy Myers', Zoe Quinn's and Cara
+Ellison's.
+
+Additionally A Dark Room was the inspiration for a work of art by
+Elizabeth Simins (@ElizSimins). She was listed as one of the top 10
+works The Bygon Bureau.
+
+This all happened in one day. I felt like I had won the
+lottery. Surely, this is A Dark Room's moment. These three GOTY
+entries probably reached 10's of thousands of gamers.
+
+This was also the first time I heard about
+[Depression Quest by Zoe Quinn](http://www.depressionquest.com/). I
+know she was feeling the same thing I was. We were two indie game
+developers, trying to create things that have meaning for us. And we
+both made 2013 Game of the Year lists.
+
+I played Depression Quest all the way through. It was an
+_experience_... that's the best way to describe it. I'm glad there are
+games coming out that connect emotionally with the player... that are
+more than guns and eye candy. I reached out to Zoe and let her know
+that the blind community are always in need for video games, and to
+spend some time in making her game accessible.
+
+I waited till the next day. I woke up in the morning and checked the
+downloads... there were 54. It's the highest thus far... but that was
+all the downloads that were generated... soul crushing I tell you.
+
+#Postmortem
+
+In retrospect, the spike I got in downloads was probably because it
+was during Christmas week. Here is a graph of sales:
+
+[]()
+
+#Dec 28, 2013: [Elizabeth Simins (@ElizSimins)](http://cargocollective.com/eliz) and Patreon
+
+After seeing her art work on Bygon Bureau, I reached out to Elizabeth
+and asked if I could put her piece on A Dark Room's support page. She
+said yes :-) Another bit of good news to keep my spirits up. Thank you
+Elizabeth, I'm forever grateful that you allowed me to showcase your
+work here (it's at the top of this page). Her work also led me to
+discover [Patreon](http://www.patreon.com/elizsimins). I'm amazed at
+how technology has given a means for artists to showcase their works
+(and potentially make a living off of them). Removing the middle man
+and making it easy for artists to promote their own works is a big
+deal.
+
+#Jan 1, 2014: First Check From Apple
 
 First check comes in. The grand totals for the month of November:
 
@@ -580,15 +908,35 @@ First check comes in. The grand totals for the month of November:
 - Downloads: 403
 - Reviews: 5 five-star reviews, 1 one-star review
 - RPG Rank: 567th at its low point, 27th at its height
-- Overall Rank: 1479th for two days (metrics below the 1500th placement aren't kept in AppAnnie)
+- Overall Rank: 1,479th for two days (metrics below the 1500th
+  placement aren't kept in AppAnnie)
 
-<a id="blindversionreleased"> </a>
+#Postmortem
 
-**Jan 4, 2014: The Accessible Version of A Dark Room Is Released** <a href="#blindversionreleased"><small>permalink</small></a>
+Honestly, if your game can make more that $10 the first month, it's a
+massive success. It means that at least a few people are downloading
+your game. Getting over $400 in the first month is absolutely
+ridiculous given that the _life time_ median for most games in $400. I
+can only attribute this first month's success to releasing during the
+holiday season and the web version of A Dark Room. My third game A
+Noble Circle has a more realistic first month sales. If you can get
+even that with your first game, consider it a success and
+celebrate. Here is graph of A Noble Circle's first month's sales next
+to A Dark Room's.
 
-I worked through the holidays to get the accessible version of A Dark Room completed. It spent about 5 days in the approval process and then finally released on the 4th. I let Orinks and Aaron know about the updates and they subsequently let their respective communities know. The downloads spiked to about 40 downloads for the next two days. I really didn't care about the downloads this time around. I wanted to do the right thing. I also ended up writing about what it took to make A Dark Room accessible: [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/).
+#Jan 4, 2014: The Accessible Version of A Dark Room Is Released
 
-Given the accessibility updates and the recent media coverage for A Dark Room, I changed the App Store description too:
+I worked through the holidays to get the accessible version of A Dark
+Room completed. It spent about 5 days in the approval process and then
+finally released on the 4th. I let Orinks and Aaron know about the
+updates and they subsequently let their respective communities
+know. The downloads spiked to about 40 downloads for the next two
+days. I really didn't care about the downloads this time around. I
+wanted to do the right thing. I also ended up writing about what it
+took to make A Dark Room accessible: [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/).
+
+Given the accessibility updates and the recent media coverage for A
+Dark Room, I changed the App Store description too:
 
 >Awake. Head throbbing. Vision blurry.
 
@@ -604,65 +952,114 @@ Given the accessibility updates and the recent media coverage for A Dark Room, I
 
 >Giant Bomb, Cara Eillison: Top 10 Games of 2013 (honorable mention)
 
-I also nerfed thieves a little bit... you're welcome blewis1234 ;-)
+#Postmortem
 
-<a id="routine"> </a>
+For a deep dive on how to present your game in the App Store read the
+chapter: Tips for Creating a Compelling App Page in the App Store
 
-**Jan 5, 2014: Changes in Routine** <a href="#routine"><small>permalink</small></a>
+#Jan 5, 2014: Changes in Routine
 
-The iOS version of the game is solid. I still get a little antsy releasing updates and brace for insta-crashes on my iPad Air. It hasn't happened again though. With a little bit of breathing room, I started working through Land of Lisp and started studying Clojure. I also started doing screencasts on NodeJS development (my Coding Out Loud screencasts). @ADarkRoomiOS's Twitter remained active. I kept interacting with fans. It was a great way to relax and joke around with the community.
+The iOS version of the game is solid. I still get a little antsy
+releasing updates and brace for insta-crashes on my iPad Air. It
+hasn't happened again though. With a little bit of breathing room, I
+started working through Land of Lisp and started studying Clojure. I
+also started doing screencasts on NodeJS development (my Coding Out
+Loud screencasts). @ADarkRoomiOS's Twitter remained active. I kept
+interacting with fans. It was a great way to relax and joke around
+with the community.
 
-I also started work on a "spiritual" sequel to A Dark Room. Lots of HTML5 canvas work and AngularJS. Nodekick (the NodeJS game that Team Us built for Node Knockout 2013) also got cleaned up.
+I also started work on a "spiritual" sequel to A Dark Room. Lots of
+HTML5 canvas work and AngularJS. Nodekick (the NodeJS game that Team
+Us built for Node Knockout 2013) also got cleaned up.
 
-I finally started to get used to the number of downloads for the game. I accepted them for what they were. But I still meticulously observed impact to the number and correlated them to what I did online.
+I finally started to get used to the number of downloads for the
+game. I accepted them for what they were. But I still meticulously
+observed impact to the number and correlated them to what I did
+online.
 
-<a id="6kpeople"> </a>
+#Postmortem
 
-**Jan 10, 2014: Tweets Sent to 6k People** <a href="#6kpeople"><small>permalink</small></a>
+This would be one of the happiest times in my life. I _shipped_ a
+freaking game. Don't down play the time after a solid release, relish
+in these small wins. Celebrate. Be happy with what you've accomplished.
 
-A notable individual in the iOS community @ScottStevenson mentioned A Dark Room. I replied with a few humorous tweets:
+#Jan 10, 2014: Tweets Sent to 6k People
+
+A notable individual in the iOS community @ScottStevenson mentioned A
+Dark Room. I replied with a few humorous tweets:
 
 >"Just so you know. I consume a part of your soul every time you stoke the fire. #nomnomnom"
 
 >"Just cause you followed me doesn't mean I'll give you anything back."
 
-I got some retweets because of these interactions :-). Downloads spiked to 40 for a couple of days. Thank you for the support Scott.
+I got some retweets because of these interactions :-). Downloads
+spiked to 40 for a couple of days. Thank you for the support
+Scott.
 
-<a id="18kpeople"> </a>
+#Jan 15, 2014: Tweets Sent to 18k People
 
-**Jan 15, 2014: Tweets Sent to 18k People** <a href="#18kpeople"><small>permalink</small></a>
+A notable individual in the game community @RobertAshley interacted
+with @ADarkRoomiOS too. I sent Robert to this page and told him about
+how both Michael and I were the sole developers of the game. Robert
+was kind enough to craft a tweet telling his followers about the web
+and mobile version of the game. Downloads spiked again to 40 downloads
+for a couple of days.
 
-A notable individual in the game community @RobertAshley interacted with @ADarkRoomiOS too. I sent Robert to this page and told him about how both Michael and I were the sole developers of the game. Robert was kind enough to craft a tweet telling his followers about the web and mobile version of the game. Downloads spiked again to 40 downloads for a couple of days.
+#Jan 16, 2014: Pocket Tactics and Owen Faraday
 
-<a id="pockettactics"> </a>
+Another wonderful interaction for @ADarkRoomiOS. This time, a random
+follower mentioned @ADarkRoomiOS and @PocketTactics in the same
+tweet... letting the iOS publication know about the game. I took this
+opportunity to email Owen Faraday (editor of Pocket Tactics).
 
-**Jan 16, 2014: Pocket Tactics and Owen Faraday** <a href="#pockettactics"><small>permalink</small></a>
+I asked if Pocket Tactics would like to do a review on A Dark
+Room. Owen replied and I sent over a promo code (yay!).
 
-Another wonderful interaction for @ADarkRoomiOS. This time, a random follower mentioned @ADarkRoomiOS and @PocketTactics in the same tweet... letting the iOS publication know about the game. I took this opportunity to email Owen Faraday (editor of Pocket Tactics).
+On Feb 4th, Owen emailed with the word: "Amazing". I hope to see a
+review show up soon on Pocket Tactics. I try to be diligent in
+following up with Owen... without being annoying. It's hard to find a
+good balance between the two. A review hasn't gone up yet... but after
+another release of the game I'll be sure to follow up with Owen. I
+hope he doesn't take offense to my persistence.
 
-I asked if Pocket Tactics would like to do a review on A Dark Room. Owen replied and I sent over a promo code (yay!).
+#Postmortem
 
-On Feb 4th, Owen emailed with the word: "Amazing". I hope to see a review show up soon on Pocket Tactics. I try to be diligent in following up with Owen... without being annoying. It's hard to find a good balance between the two. A review hasn't gone up yet... but after another release of the game I'll be sure to follow up with Owen. I hope he doesn't take offense to my persistence.
+Again, for a deeper dive, read: How To Contact People That Can Help You
 
-<a id="applevis"> </a>
+#Jan 19, 2014: Apple Vis Promo Code Give Away
 
-**Jan 19, 2014: Apple Vis Promo Code Give Away** <a href="#applevis"><small>permalink</small></a>
+The blog post I wrote about accessibility received some buzz in the
+blind community. The AppleVis editorial team reached out to me. They
+wanted to run a promo code giveaway. I sent them 10 promo codes and
+they did something really unique. Instead of just giving them away,
+they asked individuals to go read the blog post I did on making the
+game accessible to the blind, and about the making of the game. They
+had to mention something from the write ups to get a promo code. It
+was a great idea, and I saw a lot of nice things said about
+the game.
 
-The blog post I wrote about accessibility received some buzz in the blind community. The AppleVis editorial team reached out to me. They wanted to run a promo code giveaway. I sent them 10 promo codes and they did something really unique. Instead of just giving them away, they asked individuals to go read the blog post I did on making the game accessible to the blind, and about the making of the game. They had to mention something from the write ups to get a promo code. It was a great idea, and I saw a lot of nice things said about the game.
+Downloads spiked to 50 during the contest period. I'm burning through
+my promo codes, but they are generating results.
 
-Downloads spiked to 50 during the contest period. I'm burning through my promo codes, but they are generating results.
+#Postmortem
 
-<a id="promocodestoucharcade"> </a>
+I've included the blog entry under the chapter: Raising Awareness, The
+Blind Us iPhones
 
-**Jan 26, 2014: Promo Code Give Away on Touch Arcade** <a href="#promocodestoucharcade"><small>permalink</small></a>
+#Jan 26, 2014: Promo Code Give Away on Touch Arcade
 
-I took Apple Vis' idea and gave away 20 promo codes across two separate contests at Touch Arcade. The interactions I had with the fans (old and new) was great. A lot kind words and genuine support.
+I took Apple Vis' idea and gave away 20 promo codes across two
+separate contests at Touch Arcade. The interactions I had with the
+fans (old and new) was great. A lot kind words and genuine support.
 
 The downloads for the last four days of January stayed at a steady 40.
 
-<a id="secondcheck"> </a>
+#Postmortem
 
-**Feb 1, 2014: Check #2 Comes in From Apple** <a href="#secondcheck"><small>permalink</small></a>
+Here is a graph of January. More related info on how to do promo code
+give aways in: Finding Your Community
+
+#Feb 1, 2014: Check #2 Comes in From Apple
 
 The second check comes in. The grand totals for the month of December:
 
@@ -672,75 +1069,209 @@ The second check comes in. The grand totals for the month of December:
 - RPG Rank: 201st at its low point, 33rd at its height
 - Overall Rank: 1428th at its low point, 486th at its height (fell below the 1500 cut off for only 3 days)
 
-<a id="slaves2"> </a>
+#Feb 2, 2014: Another Person Stopped Playing Because of Slaves
 
-**Feb 2, 2014: Another Person Stopped Playing Because of Slaves** <a href="#slaves2"><small>permalink</small></a>
-
-So a bit of background about the iOS version and its ending game sequence. The starship represents the end of the game. It is only unlocked once you've progressed far enough in the storyline. If a player avoids storyline progression, they are effectively stuck, and can't complete the game. The villagers turning into slaves leaves another person in this stuck state.
+So a bit of background about the iOS version and its ending game
+sequence. The starship represents the end of the game. It is only
+unlocked once you've progressed far enough in the storyline. If a
+player avoids storyline progression, they are effectively stuck, and
+can't complete the game. The villagers turning into slaves leaves
+another person in this stuck state.
 
 Here is a part of the email that was sent to me:
 
->Also I would like to mention that I liked this game until I found out I was getting screwed over.  I am playing it on an iPhone 4.  Just hoping you guys can fix this before a flood of unhappy folks come by and take your stars down a notch. And no I haven't rated your game because I am not the vengeful type.  Video games are hard to make and it seems you put a lot of effort into this. I am sending you screenshots of my game.
+>Also I would like to mention that I liked this game until I found out
+>I was getting screwed over.  I am playing it on an iPhone 4.  Just
+>hoping you guys can fix this before a flood of unhappy folks come by
+>and take your stars down a notch. And no I haven't rated your game
+>because I am not the vengeful type.  Video games are hard to make and
+>it seems you put a lot of effort into this. I am sending you
+>screenshots of
+>my game.
 
-The player was kind enough to include screenshots of his current game. I didn't need to look (but I did anyways). He stopped progressing the storyline... Here is what I wrote back:
+The player was kind enough to include screenshots of his current
+game. I didn't need to look (but I did anyways). He stopped
+progressing the storyline...
+Here is what I wrote back:
 
->Every time you gather wood the storyline progresses toward the end. There is an alternate ending too. Some people are sad with how the storyline progresses. The alternative approach to playing the game (though much harder) leads to a happier ending. Let me know if you have any other questions. And I love hearing from fans. So don't hesitate to reach out. And thanks for the detailed screenshots :-)
+>Every time you gather wood the storyline progresses toward the
+>end. There is an alternate ending too. Some people are sad with how
+>the storyline progresses. The alternative approach to playing the game
+>(though much harder) leads to a happier ending. Let me know if you
+>have any other questions. And I love hearing from fans. So don't
+>hesitate to reach out. And thanks for the
+>detailed screenshots :-)
 
 He replied with:
 
->Mmm.  I see now.  Lol I was trying not to further my slave owner persona.  You know if you made a instruction manual and just mentioned a few things, I'm sure this app will be an even better hit. (Example I thought the carbine shot bullets not battery's, because there is a actual rifle named the carbine.  I think its ww2 era). I think anyone who played the older call of duties would make this mistake: Thanks for your help.  Say, if I could rack your brain, do I not need to build huts to get the new ending, or could I build huts but just not gather wood?
+>Mmm. I see now. Lol I was trying not to further my slave owner
+>persona.  You know if you made a instruction manual and just mentioned
+>a few things, I'm sure this app will be an even better hit. (Example I
+>thought the carbine shot bullets not battery's, because there is a
+>actual rifle named the carbine.  I think its ww2 era). I think anyone
+>who played the older call of duties would make this mistake: Thanks
+>for your help.  Say, if I could rack your brain, do I not need to
+>build huts to get the new ending, or could I build huts but just not
+>gather wood?
 
 And a happy ending:
 
->Hey thanks!  I sure will.  I left a positive review in the App Store.  I found this game on reddit.  I highly recommend creating a user account and posting something like "great iOS game, free downloads for the first 5 commenters". In the description write please leave review and comment for download.  Those people usually will help generate your sales.  I found a post about this game in r/gaming.  Good luck and thank you for answering my emails.  I really thought the game was busted.  Lol
+>Hey thanks!  I sure will.  I left a positive review in the App Store.
+>I found this game on reddit.  I highly recommend creating a user
+>account and posting something like "great iOS game, free downloads
+>for the first 5 commenters". In the description write please leave
+>review and comment for download.  Those people usually will help
+>generate your sales.  I found a post about this game in r/gaming.
+>Good luck and thank you for answering my emails.  I really thought
+>the game was busted.
+>Lol
 
-I ended up putting a more assertive message about gathering wood to progress the storyline within the game. In version 1.4, when you stoke the fire (and there is a storyline element that needs to be dealt with). You get a small message "need to gather wood, the forest beckons". This will hopefully help guide future gamers.
+I ended up putting a more assertive message about gathering wood to
+progress the storyline within the game. In version 1.4, when you stoke
+the fire (and there is a storyline element that needs to be dealt
+with). You get a small message "need to gather wood, the forest
+beckons". This will hopefully help guide
+future gamers.
 
-<a id="reddit"> </a>
+#Postmortem
 
-**Feb 5, 2014: Promo Code Give Away on Reddit** <a href="#reddit"><small>permalink</small></a>
+See what I mean with being responsive to emails? It helps. Also,
+incorporate feedback and make your games better if you see a recurring pattern.
 
-I'm burning through my promo codes at this point. The Apple Vis approach to giving away promo codes leads to a much deeper connection with the fans of the game. It's meaningful and I enjoy having all the good conversations. I ran a couple of promo code giveaways on Reddit.
+#Feb 5, 2014: Promo Code Give Away on Reddit
+
+I'm burning through my promo codes at this point. The Apple Vis
+approach to giving away promo codes leads to a much deeper connection
+with the fans of the game. It's meaningful and I enjoy having all the
+good conversations. I ran a couple of promo code giveaways on
+Reddit.
 
 Downloads spiked to 40 those days.
 
-<a id="hailcara"> </a>
+#Postmortem
 
-**Feb 7, 2014: A Hail Mary to Cara Ellison** <a href="#hailcara"><small>permalink</small></a>
+More related info on how to do promo code
+give aways in: Finding Your Community
 
-I was down to my last 15 codes. I reached out to Cara Ellison on Twitter about getting A Dark Room in front of people that may write about it. Being the awesome person she is, she replied. I sent over 6 promo codes. The frustrating thing about promo codes is that I don't know if they've been redeemed. I know Cara is extremely busy, and she probably gets many, many emails from people trying to pitch her games. I'm just glad that I have someone that can advocate for me. She continues to be a ray of hope for A Dark Room. Unsolicited mentions of the game and always responds to my emails. Thank you... thank you Cara.
+#Feb 7, 2014: A Hail Mary to Cara Ellison
 
-<a id="hailbrandon"> </a>
+I was down to my last 15 codes. I reached out to Cara Ellison on
+Twitter about getting A Dark Room in front of people that may write
+about it. Being the awesome person she is, she replied. I sent over 6
+promo codes. The frustrating thing about promo codes is that I don't
+know if they've been redeemed. I know Cara is extremely busy, and she
+probably gets many, many emails from people trying to pitch her
+games. I'm just glad that I have someone that can advocate for me. She
+continues to be a ray of hope for A Dark Room. Unsolicited mentions of
+the game and always responds to my emails. Thank you... thank you Cara.
 
-**Feb 11, 2014: A Hail Mary to Brandon Boyer** <a href="#hailbrandon"><small>permalink</small></a>
+#Postmortem
 
-I'm getting more cautions at this point (I'm down to 9 codes). I'm scouring Twitter for connections... people to reach out to... people that may respond. @Kotaku follows only 41 people and is followed by over three hundred thousand. It looks like the people Kotaku is following is fairly exclusive.
+At this point, I was out of ideas with regards to promotion. I spent
+_a lot_ of time giving away promocodes. It is an immense amout of work
+to do promo code giveaways correctly (Finding Your Community
+chapter). I emailed Cara, Leigh, and Brandon emails like the
+following:
 
-There were two people on this list that I had hopes would respond: Leigh Alexander (@leighalexander) and Brandon Boyer (@brandonnn). Both had a large number of followers and (based on their profiles) are receptive to indie developers. Brandon Boyer and Cara Ellison follow each other. Leigh Alexander (someone I've interacted with before) and Maddy Myers follow each other.... is this borderline stalking? ... XD
+>Subject:
+>Need advice... I'm the indie dev that built A Dark Room for iOS
 
-I end up emailing Brandon Boyer. I tried not to send him a wall of text (it happened anyways). But Brandon replied after a few days (yay!). I sent over a promo code. Now I just have to wait T_T.
+>Body:
+>I built a game called A Dark Room, for iOS. It was inspired/ported
+>from a web version built my Michael Townsend, another indie developer
+>(with permission and royalty payments). The game has gained some
+>popularity. Posting on forums, facilitating giveaways, and blogging
+>about A Dark Room is exhausting... but, my efforts have gotten some
+>results. The game is ranked in the top 10, on the iTunes App Store,
+>under the RPG category
+>(took 3 months to get there).
+>
+>I just don't know what to do now... I'm down to my last 10 promo
+>codes and I've exhausted all of the connections I have through
+>community, friends, and family. I've tried reaching out to a number
+>of online review sites,
+>but haven't received any responses.
+>
+>I found you on Twitter (Kotaku follows you) and then I saw that
+>you're the chairman of the Indie Game Festival. So I decided to throw
+>a Hail Mary. I have a promo code for you if you want to try the
+>mobile version of the game out (iPhone/iOS 7). Just reply with
+>anything,
+>and I'll send it over.
+>
+>I'm sure you've heard this story many time before.... but I really do
+>feel that A Dark Room is something amazing.
+>It just needs some time in the limelight.
+>
+>Thanks for reading,
+>Amir
 
-<a id="appcessible"> </a>
+#Feb 11, 2014: A Hail Mary to Brandon Boyer
 
-**Feb 12, 2014: Appcessible Podcast** <a href="#appcessible"><small>permalink</small></a>
+I'm getting more cautions at this point (I'm down to 9 codes). I'm
+scouring Twitter for connections... people to reach out to... people
+that may respond. @Kotaku follows only 41 people and is followed by
+over three hundred thousand. It looks like the people Kotaku is
+following is fairly exclusive.
 
-Around this same time Jonathan Mosen reached out to me. He is another individual from the blind community and came across the blog entry I did on adding accessibility enhancements to A Dark Room. He wanted to have me on a new podcast he was launching for the blind community. I said yes (of course), [here is a link to the podcast](http://www.appcessible.net/talking-apps-podcast-episode-2-amir-rajan/).
+There were two people on this list that I had hopes would respond:
+Leigh Alexander (@leighalexander) and Brandon Boyer (@brandonnn). Both
+had a large number of followers and (based on their profiles) are
+receptive to indie developers. Brandon Boyer and Cara Ellison follow
+each other. Leigh Alexander (someone I've interacted with before) and
+Maddy Myers follow each other.... is this borderline stalking? ... XD
 
-<a id="pricedrop"> </a>
+I end up emailing Brandon Boyer. I tried not to send him a wall of
+text (it happened anyways). But Brandon replied after a few days
+(yay!). I sent over a promo code. Now I just have to wait T_T.
 
-**Feb 13, 2014: Price Dropped on Game to $0.99 (50% off Sale)** <a href="#pricedrop"><small>permalink</small></a>
+#Feb 12, 2014: Appcessible Podcast
 
-A Dark Room is now hovering near the top 10 under the RPG Category. I didn't want the ranking to drop. I'm down to 6 promo codes, I have a pending release, but haven't pushed it yet. So I dropped the price of A Dark Room by 50% ($0.99).
+Around this same time Jonathan Mosen reached out to me. He is another
+individual from the blind community and came across the blog entry I
+did on adding accessibility enhancements to A Dark Room. He wanted to
+have me on a new podcast he was launching for the blind community. I
+said yes (of course), [here is a link to the podcast](http://www.appcessible.net/talking-apps-podcast-episode-2-amir-rajan/).
 
-I tweeted about it. A bunch of people tweeted about it. Pocket Tactics wrote up a short piece on the game being half off. There was an unsolicited Reddit post on the price drop. There was an unsolicited post on Touch Arcade. I woke up the next day I look at the downloads. They spiked to 351 in one day.
+#Postmortem
 
-<a id="top10"> </a>
+This is a testament to being present in small communities. Out of no
+where I received a request to be interviewed on a podcast. If you ever
+get a request like this. Say yes and do it. Don't be picky. At this
+stage it is always worth your time.
 
-**Feb 14, 2014: A Dark Room Makes it Into the Top 10 under the RPG Category** <a href="#top10"><small>permalink</small></a>
+#Feb 13, 2014: Price Dropped on Game to $0.99 (50% off Sale)
 
-A Dark Room in now number 8 in the App Store under the RPG category. Downloads have dropped to 100 after the initial spike from the previous day. I didn't want it to lose steam. I DIDN'T want it to lose steam. I wondered if I could set A Dark Room to free for two days. Would it reset my app rank? The app dropped to number 11 the next day. It was dropping again.... that evening I made the app free... for two days.
+A Dark Room is now hovering near the top 10 under the RPG Category. I
+didn't want the ranking to drop. I'm down to 6 promo codes, I have a
+pending release, but haven't pushed it yet. So I dropped the price of
+A Dark Room by 50% ($0.99).
 
-<a id="free"> </a>
+I tweeted about it. A bunch of people tweeted about it. Pocket Tactics
+wrote up a short piece on the game being half off. There was an
+unsolicited Reddit post on the price drop. There was an unsolicited
+post on Touch Arcade. I woke up the next day I look at the downloads.
+They spiked to 351 in one day.
+
+#Postmortem
+
+Here's another graph of sales at this time periods.
+
+[]()
+
+#Feb 14, 2014: A Dark Room Makes it Into the Top 10 under the RPG Category
+
+A Dark Room in now number 8 in the App Store under the RPG
+category. Downloads have dropped to 100 after the initial spike from
+the previous day. I didn't want it to lose steam. I didn't want it to
+lose steam. I wondered if I could set A Dark Room to free for two
+days. Would it reset my app rank? The app dropped to number 11 the
+next day. It was dropping again.... that evening I made the app
+free... for two days.
+
+#Postmortem
+
+A deep dive into pricing changes is in the chapter:
 
 **Feb 15, 2014: A Dark Room Is Free For Two Days** <a href="#free"><small>permalink</small></a>
 
@@ -1622,3 +2153,28 @@ There you go. You can either go to school, graduate from college, and (over a 7 
 But, what have I learned about myself? I've learned that I have grit. I've done interviews with companies and they usually are unimpressed with my algorithmic/code related problem solving skills. But I have an endless reserve of sheer determination, intuition about software development, and the ability to _lead_... all of which is impossible to show in a couple of phone interviews and a one hour pairing session. I've learned that even though I can be _happy_, I will never, ever be _content_ (more on that in my Rebooting Life Part 3 entry).
 
 As for what I've learned about the App Store... not a god damn thing. I still don't understand how [A Dark Room went viral in the UK](#minecraft). I don't understand how it became the [#1 app in the US](#number1us). I still don't understand how [A Dark Room got 1 million downloads when it went free](#million) (especially since I made it free again in the first week of November 2014, and didn't see that kind of download rate). I don't understand why A Dark Room is going viral _again_ in the UK _right now_ (yes, it's getting [one star reviews again](#topappday2)).
+
+_What's Next_
+
+This will be my last post here (unless something really amazing happens). I want nothing more than to be able to create worlds you can escape to. I don't think I'll stop building games anytime soon... nor will I stop writing and blogging. Subscribing below will be for my main blog. May the fire burn brightly for you. May it keep you warm.
+
+<hr /> <!-- put next entry above this line -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"/>
+
+<div id="mc_embed_signup">
+  <form action="http://amirrajan.us8.list-manage.com/subscribe/post?u=61936e0179df5da623ee7cdb7&amp;id=f44fb947df"
+      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+    <label for="mce-EMAIL">Subscribe to Amir Rajan's Blog</label>
+
+    <div>Subscribe to get high signal, low noise entries with regards to software development, doing what you love, and never being content with where you are.</div>
+
+    <div><br/></div>
+
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="required" />
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" /> <small>powered by MailChimp</small></div>
+  </form>
+</div>
+
+<script src="/assets/themes/jquery.js"> </script>
+<script src="/assets/themes/rank.js"> </script>
