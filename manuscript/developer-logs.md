@@ -12,6 +12,10 @@ screenshots can only do the game so much justice (no different than
 cliffnotes for a book). A Dark Room will take anywhere from an hour
 and half to three hours to complete. So, take the time and do so :-).
 
+Guys and gals, as indie game developers, we're in this together. We
+have to support eachother (so thank you for buying this book and my
+games). If you ever have a question, email me at ar@amirrajan.net.
+
 #Day 1 - Jul 1, 2013: Picking the Development Environment
 
 Starting off, I knew I didn't want to write an app in Objective C and
@@ -392,7 +396,7 @@ game. You built 3 games and stitched them together in a brilliant
 way. The ship scene was the next thing to tackle. There was an end in
 sight. The largest part of the game (The Dusty Path) was done.
 
-#Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.
+#Day 141 - Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.
 
 I couldn't believe it. I had a fully functioning game from beginning
 to end. I knew I had a number of things to polish. But the game was
@@ -428,7 +432,7 @@ it's a good thing that Michael took an active role in the
 development. He now handles all the legal and copyright infringment
 stuff (so I can concentrate on marketing and the relathioship with Apple).
 
-#Oct 31, 2013: My Wife's Final Playtest
+#Day 149 - Oct 31, 2013: My Wife's Final Playtest
 
 The game is in its final form. My wife sits down and plays the game
 for the 50th time. A number of my friends playtested the game. But I
@@ -456,7 +460,7 @@ asked... well she grumbled a little bit. But she know how important it
 was to me and obliged. Have people that can support you in building
 your games.
 
-#Nov 1, 2013: Submitted to the App Store at $1.99
+#Day 150 - Nov 1, 2013: Submitted to the App Store at $1.99
 
 I submitted the game to the App Store. The description of the game was
 set to "a text based journey... awake. head throbbing. vision blurry."
@@ -474,7 +478,7 @@ for a weekend straight on a Div Kick clone. We used Html/Javascript
 and Canvas controls. You can check out the fruits of our labor at
 [http://github.com/amirrajan/node-kick](http://github.com/amirrajan/node-kick).
 
-#Nov 8, 2013: One of the Worst Days of My Life
+#Day 157 - Nov 8, 2013: One of the Worst Days of My Life
 
 It took a full 7 days. But A Dark Room was finally in the App Store. I
 downloaded the release version of the game on my iPhone 5 and was able
@@ -526,7 +530,7 @@ Also, watch the Indie Game: The Movie on Netflix. It's a great look at
 some of the struggles indie game devs go through (hits really close to
 home, expecially after this day one crash).
 
-#Nov 9, 2013: The Crash Fix Shipped
+#Day 158 - Nov 9, 2013: The Crash Fix Shipped
 
 Over the weekend (during the NodeJS competition), I received an email
 saying that version 1.1 of A Dark Room was ready for sale. That
@@ -543,7 +547,7 @@ Our Node Knockout 2013 team: Team Us - As in "us" not "them", ended up
 placing 15th overall and placed 6th in the fun/utility category.
 Awesome experience.
 
-#Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins
+#Day 159 - Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins
 
 I created the @ADarkRoomiOS Twitter handle and started tweeting in the
 persona of the game. The plan was to interact with anyone and everyone
@@ -572,7 +576,7 @@ something out (even if it's just a simple landing page with
 information on how to get in contact with you). Read the chapter: Tips
 on a Public Presence.
 
-#Nov 15, 2013: A Ray of Hope
+#Day 164 - Nov 15, 2013: A Ray of Hope
 
 I've spent 5 days putting up daily tweets about A Dark Room. Reached
 out to a few people on Twitter in the persona of the game. It was
@@ -610,7 +614,7 @@ I was lucky in this area primarily becuase there was already a "sales
 funnel" for me to leverage. Check out the following chapter for some
 tips: Finding Your Community.
 
-#Nov 16, 2013: A Rude Awakening
+#Day 165 - Nov 16, 2013: A Rude Awakening
 
 I woke up the next morning, awake, head throbbing, vision blurry. In a
 sleepy stupor, I logged into iTunes Connect and saw the number of
@@ -625,7 +629,7 @@ start.
 
 []()
 
-#Nov 18, 2013: Additional Notable Interactions
+#Day 167 - Nov 18, 2013: Additional Notable Interactions
 
 Using the @ADarkRoomiOS Twitter account, I interacted with Leigh
 Alexander (@leighalexander), an editor at Gamasutra and Kotaku, about
@@ -643,7 +647,7 @@ you'll see through this developer log. For more information about how
 to approach editors/reviewers read the chapter: How To Contact
 People That Can Help You
 
-#Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
+#Day 170 - Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
 
 I added "search on Google for any mention of A Dark Room" to my
 routine. I came accross this:
@@ -653,7 +657,14 @@ of A Dark Room iOS that I had come across. How freaking cool is that?
 Unsolicited reviews are starting to come up. A spike to 30 downloads
 happened that day.
 
-#Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade
+#Postmortem
+
+When you see an onsilicited review. Be sure to reach
+out to them in some way and let them know you noticed. Keep these
+contacts warm. You have no idea when one of these small connections
+could lead to something bigger.
+
+#Day 171 - Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade
 
 I received an email from a random person this day. The game was listed
 in the Touch Arcade forums, and one of the members emailed me to get
@@ -671,7 +682,7 @@ visibility to your game. Developers are allowed a single forum thread
 dedicated to their game. Be sure to keep a close eye on your forum
 thread and post updates about your game here to continue to get visibility.
 
-#Nov 24, 2013: The First One Star Review
+#Day 172 - Nov 24, 2013: The First One Star Review
 
 The game up to this point has had 245 downloads over an 18 day period
 (that's 13 downloads a day). I had a few 5 star reviews from friends
@@ -703,12 +714,14 @@ point, he'll re-rate the game.
 
 One star reviews are inevitable. Try not to let it get to
 you. Eventually you'll get used to a few bad reviews here and
-there. The good news is that everytime you do a new release of your
+there (at times many).
+
+The good news is that everytime you do a new release of your
 game old reviews get archived. The review system is very important to
 indie developers. Read the following chapter for deep insight on
 techniques for getting your game reviewed: The Review System's Ins and Outs
 
-#Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News** <a href="#hackernews"><small>permalink</small></a>
+#Day 174 - Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News
 
 I updated the support page for A Dark Room to include some back
 story. The name of the section is "A letter to the fans of A Dark
@@ -729,7 +742,10 @@ Christmas, New Years, Spring Break, July 4th, Memorial Day.. pretty
 much all holidays have this side effect. Do not run sales during these
 time periods. There are your best days for a good amount of revenue.
 
-#Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.
+The download spike I saw probably wasn't because of the post to Hacker
+News or Reddit. It was probably because it was the day before Thanksgiving.
+
+#Day 175 - Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.
 
 Cassandra Khaw (@casskhaw), an editor at USGamer, tweets about A Dark
 Room on iOS. Again because of an interaction from @ADarkRoomiOS. I'm
@@ -747,7 +763,7 @@ help me get through each disappointment in the number of downloads.
 
 #Postmortem
 
-Any time an editor/reviewer gives you an unsolicited
+Again, Any time an editor/reviewer gives you an unsolicited
 review. Immediately email them and thank them. Any time you do a
 non-trivial update, send an email to them letting them know. Keep
 these relationships warm how ever small of a reach that person has. As
@@ -757,7 +773,11 @@ it. Your main goal during this time period is to show these people
 edge you have against all the AAA companies out there. Because they
 won't go through this effort.
 
-#Dec 10, 2013: Blind Gamers Are Playing A Dark Room
+With regards to Cassandra Khaw, she doesn't have an iPhone, but
+believe me I'm going to reach out to here as soon as the Android
+version is released.
+
+#Day 188 - Dec 10, 2013: Blind Gamers Are Playing A Dark Room
 
 Blind gamers reached out to @ADarkRoomiOS: Orinks (a member of
 AppleVis.com) and Aaron (a member of AudioGames.net). I was in
@@ -777,7 +797,7 @@ recommend my games to their friends and family. Simply because I took
 the time to understand how they were playing the game, and enhanced
 ADR to be playable via VoiceOver.
 
-#Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/)
+#Day 194 - Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/)
 
 Cara Ellison, a writer for a number of online gaming website,
 mentioned that she was considering A Dark Room for her 2013 Game of
@@ -793,10 +813,10 @@ Dark Room to finally make it into the lime lite.
 Leigh Alexander and Cara Ellison are my champions. They help me out
 and recommend my games becuase I went above and beyond to make sure
 they are in the know. Additionally I make a concious effort to retweet
-their articles and promotions on ADarkRoomiOS's Twitter. You want to
+their articles and promotions on @ADarkRoomiOS's Twitter. You want to
 empower those that empower you.
 
-#Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room
+#Day 195 - Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room
 
 Another "search on Google everyday" result: Indie Mega Booth did a
 full length podcast on A Dark Room. It's hard to believe 4 people can
@@ -808,7 +828,17 @@ downloads. I took the time to thank Indie Mega Booth for doing the
 podcast and personally thanked Maddy Myers (@samusclone) on
 Twitter.... such an awesome Twitter handle by the way.
 
-#Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
+#Postmortem
+
+At this point it finally sunk in that A Dark Room won't be an
+overnight smash hit. After so many forms of media coverage, and A Dark
+Rooms sales continue to be lukewarm.
+
+Here's the graph so far:
+
+[]()
+
+#Day 196 - Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
 
 Maddy Myers was part of the discussion on the Indie Mega Booth
 podcast. She's an editor for Paste Magazine. Another important voice
@@ -955,7 +985,7 @@ Dark Room, I changed the App Store description too:
 #Postmortem
 
 For a deep dive on how to present your game in the App Store read the
-chapter: Tips for Creating a Compelling App Page in the App Store
+chapter: Tips for Creating an App Page in the App Store
 
 #Jan 5, 2014: Changes in Routine
 
@@ -1183,21 +1213,18 @@ following:
 >popularity. Posting on forums, facilitating giveaways, and blogging
 >about A Dark Room is exhausting... but, my efforts have gotten some
 >results. The game is ranked in the top 10, on the iTunes App Store,
->under the RPG category
->(took 3 months to get there).
+>under the RPG category (took 3 months to get there).
 >
 >I just don't know what to do now... I'm down to my last 10 promo
 >codes and I've exhausted all of the connections I have through
 >community, friends, and family. I've tried reaching out to a number
->of online review sites,
->but haven't received any responses.
+>of online review sites, but haven't received any responses.
 >
 >I found you on Twitter (Kotaku follows you) and then I saw that
 >you're the chairman of the Indie Game Festival. So I decided to throw
 >a Hail Mary. I have a promo code for you if you want to try the
 >mobile version of the game out (iPhone/iOS 7). Just reply with
->anything,
->and I'll send it over.
+>anything, and I'll send it over.
 >
 >I'm sure you've heard this story many time before.... but I really do
 >feel that A Dark Room is something amazing.
@@ -1271,7 +1298,7 @@ free... for two days.
 
 #Postmortem
 
-A deep dive into pricing changes is in the chapter:
+A deep dive into pricing changes is in the chapter: How to Price Your App.
 
 **Feb 15, 2014: A Dark Room Is Free For Two Days** <a href="#free"><small>permalink</small></a>
 
