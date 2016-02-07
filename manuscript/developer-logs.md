@@ -17,7 +17,7 @@ Guys and gals, as indie game developers, we're in this together. We
 have to support eachother (so thank you for buying this book and my
 games). If you ever have a question, email me at ar@amirrajan.net.
 
-#Day 1 - Jul 1, 2013: Picking the Development Environment
+##Day 1 - Jul 1, 2013: Picking the Development Environment
 
 Starting off, I knew I didn't want to write an app in Objective C and
 XCode again. During my time off, I had already built apps using
@@ -57,7 +57,7 @@ for a complex physics and modeling system is a sure fire way to never
 have a game built. You may even want to start with just wrapping a web
 page in your app and just use Html and JavaScript. Start small.
 
-#Day 7 - Jul 7, 2013: A Week Later. First Playtest by a "Non-Gamer"
+##Day 7 - Jul 7, 2013: A Week Later. First Playtest by a "Non-Gamer"
 
 I got huts working and had implemented population growth. The game was
 far from complete. But I took the chance and showed it to a non
@@ -116,7 +116,7 @@ A couple of tips when beta testing:
    feedback when you make updates. So just release the game to one or
    two people at a time, ramping up as you get closer to completion.
 
-#Day 12 - Jul 12, 2013: Road Blocks
+##Day 12 - Jul 12, 2013: Road Blocks
 
 I hit my first road block. When I reached out to Michael about porting
 the game to iOS, I actually hadn't finished playing the web version. I
@@ -155,7 +155,7 @@ side by side with the iOS version.
 As for building games for mobile read the chapter titled: Build Games
 for Mobile.
 
-#Day 21 - Jul 21, 2013: I Want to Stab Cocoa UI In the Face
+##Day 21 - Jul 21, 2013: I Want to Stab Cocoa UI In the Face
 
 I settled on a "follow the player" implementation where the map would
 center when the player moved on the map. You could scroll around the
@@ -165,14 +165,14 @@ to represent landmarks and terrain (Cocoa UILabels can only have one
 format/font). It took 5 days to get the labels lined up and scrolling
 correctly. Fifteen days, just gone on trying to display a map.
 
-#Postmortem
+##Postmortem
 
 Nothing really to add here that wasn't covered in Day 12. But here is
 a screenshot of the Dusty Path as it existed then and now.
 
 [Todo]()
 
-#Day 26 - Jul 26, 2013: Making the iOS Version My Own
+##Day 26 - Jul 26, 2013: Making the iOS Version My Own
 
 At this point I needed to take a break from the Dusty Path and do some
 polish and playtesting. The pacing in the game was an issue. It was
@@ -208,7 +208,7 @@ read:
 
 >hope she's okay, have to keep the fire going.
 
-#Postmortem
+##Postmortem
 
 The "flashes of events" was an incredibly important turning point for
 the game. It's where I took the world Michael created and put my own
@@ -242,7 +242,7 @@ after effects created from spending so many days with wrestling the
 map had worn off. I started specing out the battle sequences
 now.
 
-#Postmortem
+##Postmortem
 
 For the business/non technical people reading this, I can't stress
 enough how difficult this time period was. It's not fun hitting
@@ -266,7 +266,7 @@ parts of the code base. Just be someone they can talk to outloud
 with. That's the best way for you to help the dev team when their in
 this kind of situation.
 
-#Day 33 - Aug 2, 2013: Had to Take Another Break
+##Day 33 - Aug 2, 2013: Had to Take Another Break
 
 Development on A Dark Room started to slow down a bit (I hit a bit of
 a low point in motivation). Combat was working at a cursory
@@ -279,7 +279,7 @@ a canvas... kind of felt weird about that. But it worked.
 came up after you won a battle). Pixel pushing labels and buttons. At
 this point I dread any kind of UI work in iOS.
 
-#Postmortem
+##Postmortem
 
 For those that are just getting into game development. The explanation
 above is important. I was making a game out of buttons, labels, ascii
@@ -290,7 +290,7 @@ getting started/deciding what to use. Start with a simple idea/game
 mechanic and use the most primitive means necessary to get your idea
 on a digital medium.
 
-#Day 58 - Aug 25, 2013: Taking a Break to Scratch a NodeJS Itch
+##Day 58 - Aug 25, 2013: Taking a Break to Scratch a NodeJS Itch
 
 I've spent the last 8 days on the Dusty Path. Adding the Iron Mine,
 Coal Mine, Sulfur Mine, working through road creation, and working
@@ -298,7 +298,7 @@ through unlocking Workshop items. I needed another break. I spent the
 next week working on a Twitter mashup written in NodeJS among other
 things. You can finde the projects here: [http://amirrajan.net/nodejs-by-example/](http://amirrajan.net/nodejs-by-example/).
 
-#Postmortem
+##Postmortem
 
 If you want to make an Html and Javascript game, take a look at
 Pixi.js. It's my go to game engine for web games.
@@ -322,7 +322,7 @@ Final Game Size:
 - comment: 291
 - code: 16,506
 
-#Day 108 - Sep 19, 2013: The Slog Continues
+##Day 108 - Sep 19, 2013: The Slog Continues
 
 Development of the game continues. Play testing and tweaking the Dusty
 Path. I was just a grumpy person this month in general with all the
@@ -331,7 +331,7 @@ different things I've done on my sabbatical. A Dark Room had been my
 primary "work" throughout this time. But I continued to spend time
 working with other stacks.
 
-#Postmortem
+##Postmortem
 
 Dealing with stress is difficult. Dealing with the ups and downs of
 any type of creative work is difficult. You generally feel alone
@@ -339,7 +339,7 @@ because no one understands what you are truly going through. And when
 you try to explain it to people, you end up feeling belittled. Read
 this chapter for a deeper dive into this topic: Dealing With Stress.
 
-#Day 119 - Oct 1, 2013: The Play Testing Grind... This is Not Fun
+##Day 119 - Oct 1, 2013: The Play Testing Grind... This is Not Fun
 
 All of September went to the Dusty Path (and being a grumpy
 developer). I made sure all the different city and town events showed
@@ -352,7 +352,7 @@ creating an automated test suite. It tested all the different random
 paths the events could take. Glad I did that. Even with all the manual
 testing, I still had a number of bugs.
 
-#Day 137 - Oct 19, 2013: A Dusty Path Complete
+##Day 137 - Oct 19, 2013: A Dusty Path Complete
 
 The Dusty Path is finally to a point where all the events work and the
 spaceship can be unlocked. I have saving working too. A number of my
@@ -397,7 +397,7 @@ game. You built 3 games and stitched them together in a brilliant
 way. The ship scene was the next thing to tackle. There was an end in
 sight. The largest part of the game (The Dusty Path) was done.
 
-#Day 141 - Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.
+##Day 141 - Oct 23, 2013: Space Sequence Complete. The Meeting With Michael.
 
 I couldn't believe it. I had a fully functioning game from beginning
 to end. I knew I had a number of things to polish. But the game was
@@ -423,7 +423,7 @@ that most of the game could have been played without any villagers if
 iron, coal and sulphur could be mined by the player. Michael said
 "Hey, why don't you add that? Add a solo mode with an alternate ending?"
 
-#Postmortem
+##Postmortem
 
 If you're going to build a game and try to survive the App
 Store. Bring on a partner, even if they play a small role/own only a
@@ -433,7 +433,7 @@ it's a good thing that Michael took an active role in the
 development. He now handles all the legal and copyright infringment
 stuff (so I can concentrate on marketing and the relathioship with Apple).
 
-#Day 149 - Oct 31, 2013: My Wife's Final Playtest
+##Day 149 - Oct 31, 2013: My Wife's Final Playtest
 
 The game is in its final form. My wife sits down and plays the game
 for the 50th time. A number of my friends playtested the game. But I
@@ -452,7 +452,7 @@ at 10 pm that night. And she played the game non stop, all the way to
 the end. It was 2 am when she completed the play through.
 Thank you my dear.
 
-#Postmortem
+##Postmortem
 
 Find someone that will play your game to the very end at a drop of a
 hat. My wife received that task (she is married to me after all). I'd
@@ -461,7 +461,7 @@ asked... well she grumbled a little bit. But she knew how important it
 was to me and obliged. Have people that can support you in building
 your games.
 
-#Day 150 - Nov 1, 2013: Submitted to the App Store at $1.99
+##Day 150 - Nov 1, 2013: Submitted to the App Store at $1.99
 
 I submitted the game to the App Store. The description of the game was
 set to "a text based journey... awake. head throbbing. vision blurry."
@@ -472,14 +472,14 @@ game in 90 to 100 minutes without even thinking too hard. Now I just
 have to wait. This was a good week. I shipped A Dark Room for iOS. And
 I was now preparing for a NodeJS competition: Node Knockout 2013!
 
-#Postmortem
+##Postmortem
 
 For Node Knockout 2013, I teamed up with three other devs and coded
 for a weekend straight on a Div Kick clone. We used Html/Javascript
 and Canvas controls. You can check out the fruits of our labor at
 [http://github.com/amirrajan/node-kick](http://github.com/amirrajan/node-kick).
 
-#Day 157 - Nov 8, 2013: One of the Worst Days of My Life
+##Day 157 - Nov 8, 2013: One of the Worst Days of My Life
 
 It took a full 7 days. But A Dark Room was finally in the App Store. I
 downloaded the release version of the game on my iPhone 5 and was able
@@ -517,7 +517,7 @@ release. I pushed up version 1.1 of the app. Then I just had to
 wait... nothing really I could do. I was taking part in a NodeJS
 competition at the time. So that helped keep my mind off of it.
 
-#Postmortem
+##Postmortem
 
 For all that is good in the world. Do a beta build of your game
 distributed through iTunesConnect/Test Flight. Doing this would have
@@ -531,7 +531,7 @@ Also, watch the Indie Game: The Movie on Netflix. It's a great look at
 some of the struggles indie game devs go through (hits really close to
 home, expecially after this day one crash).
 
-#Day 158 - Nov 9, 2013: The Crash Fix Shipped
+##Day 158 - Nov 9, 2013: The Crash Fix Shipped
 
 Over the weekend (during the NodeJS competition), I received an email
 saying that version 1.1 of A Dark Room was ready for sale. That
@@ -548,7 +548,7 @@ Our Node Knockout 2013 team: Team Us - As in "us" not "them", ended up
 placing 15th overall and placed 6th in the fun/utility category.
 Awesome experience.
 
-#Day 159 - Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins
+##Day 159 - Nov 10, 2013: My Obsession with Twitter and @ADarkRoomiOS Begins
 
 I created the @ADarkRoomiOS Twitter handle and started tweeting in the
 persona of the game. The plan was to interact with anyone and everyone
@@ -559,7 +559,7 @@ Twitter search for "adarkroom" and began combing through all the
 tweets... replying to anyone who mentioned the game. Letting them know
 that there was an iOS version.
 
-#Postmortem
+##Postmortem
 
 I'd say at a minimum, have a website for your game and a Twitter
 handle where people can reach you at. I created my website a bit late
@@ -577,7 +577,7 @@ something out (even if it's just a simple landing page with
 information on how to get in contact with you). Read the chapter: Tips
 on a Public Presence.
 
-#Day 164 - Nov 15, 2013: A Ray of Hope
+##Day 164 - Nov 15, 2013: A Ray of Hope
 
 I've spent 5 days putting up daily tweets about A Dark Room. Reached
 out to a few people on Twitter in the persona of the game. It was
@@ -599,7 +599,7 @@ of the game take a full day to get published in iTunes Connect. Seeing
 this kind of tweet and not knowing the impact right away is nerve
 wracking.
 
-#Postmortem
+##Postmortem
 
 My approach to tweeting was unique. I spoke in the persona of the
 game, it didn't come off as spammy. I searched for anyone that tweeted
@@ -615,7 +615,7 @@ I was lucky in this area primarily becuase there was already a "sales
 funnel" for me to leverage. Check out the following chapter for some
 tips: Finding Your Community.
 
-#Day 165 - Nov 16, 2013: A Rude Awakening
+##Day 165 - Nov 16, 2013: A Rude Awakening
 
 I woke up the next morning, awake, head throbbing, vision blurry. In a
 sleepy stupor, I logged into iTunes Connect and saw the number of
@@ -623,14 +623,14 @@ downloads caused by Courtney's tweet. It spiked to 30. Thirty
 downloads... a tweet sent to over 3,000 people... and it led to only
 30 downloads.
 
-#Postmortem
+##Postmortem
 
 Here is a screenshot of my sales to date. Not that great, but it's a
 start.
 
 [Todo]()
 
-#Day 167 - Nov 18, 2013: Additional Notable Interactions
+##Day 167 - Nov 18, 2013: Additional Notable Interactions
 
 Using the @ADarkRoomiOS Twitter account, I interacted with Leigh
 Alexander (@leighalexander), an editor at Gamasutra and Kotaku, about
@@ -640,7 +640,7 @@ version. There was no noticeable difference in downloads the next
 day. A meager 5 downloads on the 19th. I'm glad I was able to have a
 meaningful interaction with Leigh however.
 
-#Postmortem
+##Postmortem
 
 It takes an immense amount of work creating this small connections. My
 reltionship with Leigh Alexander was one of these concerted efforts as
@@ -648,7 +648,7 @@ you'll see through this developer log. For more information about how
 to approach editors/reviewers read the chapter: How To Contact
 People That Can Help You
 
-#Day 170 - Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
+##Day 170 - Nov 22, 2013: Pocket Gamers writes an Entry on A Dark Room
 
 I added "search on Google for any mention of A Dark Room" to my
 routine. I came accross this:
@@ -658,14 +658,14 @@ of A Dark Room iOS that I had come across. How freaking cool is that?
 Unsolicited reviews are starting to come up. A spike to 30 downloads
 happened that day.
 
-#Postmortem
+##Postmortem
 
 When you see an unsolicited review. Be sure to reach
 out to them in some way and let them know you noticed. Keep these
 contacts warm. You have no idea when one of these small connections
 could lead to something bigger.
 
-#Day 171 - Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade
+##Day 171 - Nov 23, 2013: A Dark Room Forum Entry on Touch Arcade
 
 I received an email from a random person this day. The game was listed
 in the Touch Arcade forums, and one of the members emailed me to get
@@ -676,14 +676,14 @@ Touch Arcade forums. Every week afterwards, I have emailed a promo
 code to Touch Arcade for an official review. I have yet to hear back
 from them.
 
-#Postmortem
+##Postmortem
 
 The Touch Arcade forums are a great place to get some initial
 visibility to your game. Developers are allowed a single forum thread
 dedicated to their game. Be sure to keep a close eye on your forum
 thread and post updates about your game here to continue to get visibility.
 
-#Day 172 - Nov 24, 2013: The First One Star Review
+##Day 172 - Nov 24, 2013: The First One Star Review
 
 The game up to this point has had 245 downloads over an 18 day period
 (that's 13 downloads a day). I had a few 5 star reviews from friends
@@ -711,7 +711,7 @@ understood how frustrating it is to pay for an app and get delivered
 blewis1234 will ever read anything on this page. But I hope at some
 point, he'll re-rate the game.
 
-#Postmortem
+##Postmortem
 
 One star reviews are inevitable. Try not to let it get to
 you. Eventually you'll get used to a few bad reviews here and
@@ -722,7 +722,7 @@ game old reviews get archived. The review system is very important to
 indie developers. Read the following chapter for deep insight on
 techniques for getting your game reviewed: The Review System's Ins and Outs
 
-#Day 174 - Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News
+##Day 174 - Nov 26, 2013: Game Back Story, an Apology, and a Post to Hacker News
 
 I updated the support page for A Dark Room to include some back
 story. The name of the section is "A letter to the fans of A Dark
@@ -735,7 +735,7 @@ better. I got quite a few kind words, which helped heal the wounds of
 my first one star review. The next morning, because of the post to
 Reddit, the game downloads spiked to 27 downloads.
 
-#Postmortem
+##Postmortem
 
 Holiday weeks are absolutely wonderful. They are times when your game
 (all apps for that matter) will get a natural spike. Thanksgiving,
@@ -746,7 +746,7 @@ time periods. There are your best days for a good amount of revenue.
 The download spike I saw probably wasn't because of the post to Hacker
 News or Reddit. It was probably because it was the day before Thanksgiving.
 
-#Day 175 - Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.
+##Day 175 - Nov 27, 2013: Another Notable Tweet. A Stellar Video Review.
 
 Cassandra Khaw (@casskhaw), an editor at USGamer, tweets about A Dark
 Room on iOS. Again because of an interaction from @ADarkRoomiOS. I'm
@@ -762,7 +762,7 @@ the
 was an incredible review, and it truly made my day. These small wins
 help me get through each disappointment in the number of downloads.
 
-#Postmortem
+##Postmortem
 
 Again, Any time an editor/reviewer gives you an unsolicited
 review. Immediately email them and thank them. Any time you do a
@@ -778,7 +778,7 @@ With regards to Cassandra Khaw, she doesn't have an iPhone, but
 believe me I'm going to reach out to here as soon as the Android
 version is released.
 
-#Day 188 - Dec 10, 2013: Blind Gamers Are Playing A Dark Room
+##Day 188 - Dec 10, 2013: Blind Gamers Are Playing A Dark Room
 
 Blind gamers reached out to @ADarkRoomiOS: Orinks (a member of
 AppleVis.com) and Aaron (a member of AudioGames.net). I was in
@@ -787,7 +787,7 @@ Room. I sent out a promise to them that I'd make the game fully
 accessible. I fired up RubyMotion and started researching what it
 would take to make A Dark Room fully playable via VoiceOver.
 
-#Postmortem
+##Postmortem
 
 This is another small community I ended up being known in. Every
 little bit helps. Ever word of mouth recommendation will get more
@@ -798,7 +798,7 @@ recommend my games to their friends and family. Simply because I took
 the time to understand how they were playing the game, and enhanced
 ADR to be playable via VoiceOver.
 
-#Day 194 - Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/)
+##Day 194 - Dec 16, 2013: [Cara Ellison (@Carachan1)](http://caraellison.co.uk/)
 
 Cara Ellison, a writer for a number of online gaming website,
 mentioned that she was considering A Dark Room for her 2013 Game of
@@ -809,7 +809,7 @@ these moments are hard to put in words. It's a chance for all the hard
 work Michael and I have put into the game to possibly pay off. For A
 Dark Room to finally make it into the lime lite.
 
-#Postmortem
+##Postmortem
 
 Leigh Alexander and Cara Ellison are my champions. They help me out
 and recommend my games becuase I went above and beyond to make sure
@@ -817,7 +817,7 @@ they are in the know. Additionally I make a concious effort to retweet
 their articles and promotions on @ADarkRoomiOS's Twitter. You want to
 empower those that empower you.
 
-#Day 195 - Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room
+##Day 195 - Dec 17, 2013: Indie Mega Booth Does A Podcast on A Dark Room
 
 Another "search on Google everyday" result: Indie Mega Booth did a
 full length podcast on A Dark Room. It's hard to believe 4 people can
@@ -829,7 +829,7 @@ downloads. I took the time to thank Indie Mega Booth for doing the
 podcast and personally thanked Maddy Myers (@samusclone) on
 Twitter.... such an awesome Twitter handle by the way.
 
-#Postmortem
+##Postmortem
 
 At this point it finally sunk in that A Dark Room won't be an
 overnight smash hit. After so many forms of media coverage, and A Dark
@@ -839,7 +839,7 @@ Here's the graph so far:
 
 [Todo]()
 
-#Day 196 - Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
+##Day 196 - Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
 
 Maddy Myers was part of the discussion on the Indie Mega Booth
 podcast. She's an editor for Paste Magazine. Another important voice
@@ -849,7 +849,7 @@ an independent game developer or writer) is struggling in some
 form. And all I can say is that I'll do what I can to make sure those
 people who have supported A Dark Room, have my support in turn.
 
-#Day 199 - Dec 22, 2013: Someone Stopped Playing Because of Slaves
+##Day 199 - Dec 22, 2013: Someone Stopped Playing Because of Slaves
 
 The first public comment about the slaves in the mobile version was
 posted on Michael's blog. My biggest fear is the vengeful 1 star
@@ -872,14 +872,14 @@ game. I also gave him a hint on how to unlock the alternate ending
 where his villagers wouldn't become slaves. He was happy to receive
 the email and I felt like I dodged a bullet.
 
-#Postmortem
+##Postmortem
 
 Be responsive to players that you can reach. Email/tweet them if you can
 find their info online. If someone emails you, reply to them fast,
 even if it's to say "Hey, I got your email and will reply in full as
 soon I get the chance." This shows that you care (which you genuinly should).
 
-#Day 204 - Dec 27, 2013: A Dark Room, 2013 GOTY Lists, and Zoe Quinn
+##Day 204 - Dec 27, 2013: A Dark Room, 2013 GOTY Lists, and Zoe Quinn
 
 I was holding my breath for this day. A number of online gaming
 websites posted their 2013 Games of the Year. A Dark Room (the web and
@@ -911,14 +911,14 @@ I waited till the next day. I woke up in the morning and checked the
 downloads... there were 54. It's the highest thus far... but that was
 all the downloads that were generated... soul crushing I tell you.
 
-#Postmortem
+##Postmortem
 
 In retrospect, the spike I got in downloads was probably because it
 was during Christmas week. Here is a graph of sales:
 
 [Todo]()
 
-#Day 205 - Dec 28, 2013: [Elizabeth Simins (@ElizSimins)](http://cargocollective.com/eliz) and Patreon
+##Day 205 - Dec 28, 2013: [Elizabeth Simins (@ElizSimins)](http://cargocollective.com/eliz) and Patreon
 
 After seeing her art work on Bygon Bureau, I reached out to Elizabeth
 and asked if I could put her piece on A Dark Room's support page. She
@@ -931,7 +931,7 @@ how technology has given a means for artists to showcase their works
 and making it easy for artists to promote their own works is a big
 deal.
 
-#Postmortem
+##Postmortem
 
 Patreon is another means of how I support those that support me. It's
 such a simple token of support to give to things they care
@@ -939,7 +939,7 @@ about. There are creative minds out there that want to make a living
 with what they enjoy doing. Contrinbuting to their Patreon is a means
 for you to do that.
 
-#Day 209 - Jan 1, 2014: First Check From Apple
+##Day 209 - Jan 1, 2014: First Check From Apple
 
 First check comes in. The grand totals for the month of November:
 
@@ -950,7 +950,7 @@ First check comes in. The grand totals for the month of November:
 - Overall Rank: 1,479th for two days (metrics below the 1500th
   placement aren't kept in AppAnnie)
 
-#Postmortem
+##Postmortem
 
 Honestly, if your game can make more than $10 in the first month, it's a
 massive success. It means that at least a few people are downloading
@@ -965,7 +965,7 @@ to A Dark Room's.
 
 [Todo]()
 
-#Day 212 - Jan 4, 2014: The Accessible Version of A Dark Room Is Released
+##Day 212 - Jan 4, 2014: The Accessible Version of A Dark Room Is Released
 
 I worked through the holidays to get the accessible version of A Dark
 Room completed. It spent about 5 days in the approval process and then
@@ -993,12 +993,12 @@ Dark Room, I changed the App Store description too:
 
 >Giant Bomb, Cara Eillison: Top 10 Games of 2013 (honorable mention)
 
-#Postmortem
+##Postmortem
 
 For a deep dive on how to present your game in the App Store read the
 chapter: Tips for Creating an App Page in the App Store
 
-#Day 213 - Jan 5, 2014: Changes in Routine
+##Day 213 - Jan 5, 2014: Changes in Routine
 
 The iOS version of the game is solid. I still get a little antsy
 releasing updates and brace for insta-crashes on my iPad Air. It
@@ -1018,13 +1018,13 @@ game. I accepted them for what they were. But I still meticulously
 observed impact to the number and correlated them to what I did
 online.
 
-#Postmortem
+##Postmortem
 
 This would be one of the happiest times in my life. I _shipped_ a
 freaking game. Don't down play the time after a solid release, relish
 in these small wins. Celebrate. Be happy with what you've accomplished.
 
-#Day 218 - Jan 10, 2014: Tweets Sent to 6k People
+##Day 218 - Jan 10, 2014: Tweets Sent to 6k People
 
 A notable individual in the iOS community @ScottStevenson mentioned A
 Dark Room. I replied with a few humorous tweets:
@@ -1037,7 +1037,7 @@ I got some retweets because of these interactions :-). Downloads
 spiked to 40 for a couple of days. Thank you for the support
 Scott.
 
-#Postmortem
+##Postmortem
 
 Have fun with what you tweet. I could have tweeted: "Hi! There is now
 a mobile version of A Dark Room. Check it out at: blah blah
@@ -1050,7 +1050,7 @@ mistake early on and only tweeted about A Dark Room. Now, the tweets
 that @ADarkRoomiOS sends out covers a broader list of interests
 (mobile gaming, art, indie development, etc).
 
-#Day 223 - Jan 15, 2014: Tweets Sent to 18k People
+##Day 223 - Jan 15, 2014: Tweets Sent to 18k People
 
 A notable individual in the game community @RobertAshley interacted
 with @ADarkRoomiOS too. I sent Robert to this page and told him about
@@ -1059,7 +1059,7 @@ was kind enough to craft a tweet telling his followers about the web
 and mobile version of the game. Downloads spiked again to 40 downloads
 for a couple of days.
 
-#Postmortem
+##Postmortem
 
 I think this was a genuine spike correlated to a tweet. It wasn't
 within a holiday week and I wasn't being featured by Apple
@@ -1067,7 +1067,7 @@ within a holiday week and I wasn't being featured by Apple
 download... so if someone with 10k followers tweeted about your game,
 you can expect around ten downloads.
 
-#Day 224 - Jan 16, 2014: Pocket Tactics and Owen Faraday
+##Day 224 - Jan 16, 2014: Pocket Tactics and Owen Faraday
 
 Another wonderful interaction for @ADarkRoomiOS. This time, a random
 follower mentioned @ADarkRoomiOS and @PocketTactics in the same
@@ -1084,14 +1084,14 @@ good balance between the two. A review hasn't gone up yet... but after
 another release of the game I'll be sure to follow up with Owen. I
 hope he doesn't take offense to my persistence.
 
-#Postmortem
+##Postmortem
 
 This is me pouncing again on an interaction. Stay vigilent with your
 own interactions, they can pan out to be something more!
 
 Again, for a deeper dive, read: How To Contact People That Can Help You
 
-#Day 227 - Jan 19, 2014: Apple Vis Promo Code Give Away
+##Day 227 - Jan 19, 2014: Apple Vis Promo Code Give Away
 
 The blog post I wrote about accessibility received some buzz in the
 blind community. The AppleVis editorial team reached out to me. They
@@ -1106,7 +1106,7 @@ the game.
 Downloads spiked to 50 during the contest period. I'm burning through
 my promo codes, but they are generating results.
 
-#Postmortem
+##Postmortem
 
 I've included the blog entry under the chapter: Raising Awareness, The
 Blind Us iPhones
@@ -1152,7 +1152,7 @@ right way and the wrong way. There is so much causaility here:
   away in a suboptimal way, making poor connections with the
   communities I want to be a part of.
 
-#Day 234 - Jan 26, 2014: Promo Code Give Away on Touch Arcade
+##Day 234 - Jan 26, 2014: Promo Code Give Away on Touch Arcade
 
 I took Apple Vis' idea and gave away 20 promo codes across two
 separate contests at Touch Arcade. The interactions I had with the
@@ -1160,14 +1160,14 @@ fans (old and new) was great. A lot kind words and genuine support.
 
 The downloads for the last four days of January stayed at a steady 40.
 
-#Postmortem
+##Postmortem
 
 Here is a graph of January. More related info on how to do promo code
 give aways in: Finding Your Community
 
 [Todo]()
 
-#Day 240 - Feb 1, 2014: Check #2 Comes in From Apple
+##Day 240 - Feb 1, 2014: Check #2 Comes in From Apple
 
 The second check comes in. The grand totals for the month of December:
 
@@ -1177,7 +1177,7 @@ The second check comes in. The grand totals for the month of December:
 - RPG Rank: 201st at its low point, 33rd at its height
 - Overall Rank: 1428th at its low point, 486th at its height (fell below the 1500 cut off for only 3 days)
 
-#Postmortem
+##Postmortem
 
 Again, looking back. Almost _one thousand_ dollars. Think about
 it. You're an indie developer, hopefully with some sort of full time
@@ -1193,7 +1193,7 @@ As soon as I get the Android release out (hopefully before the year
 2045), I'll add a chapter about revenue numbers. From what I've heard,
 premium apps bring in a fraction of the revenue they bring in on iOS.
 
-#Day 241 - Feb 2, 2014: Another Person Stopped Playing Because of Slaves
+##Day 241 - Feb 2, 2014: Another Person Stopped Playing Because of Slaves
 
 So a bit of background about the iOS version and its ending game
 sequence. The starship represents the end of the game. It is only
@@ -1257,12 +1257,12 @@ with). You get a small message "need to gather wood, the forest
 beckons". This will hopefully help guide
 future gamers.
 
-#Postmortem
+##Postmortem
 
 See what I mean with being responsive to emails? It helps. Also,
 incorporate feedback and make your games better if you see a recurring pattern.
 
-#Day 244 - Feb 5, 2014: Promo Code Give Away on Reddit
+##Day 244 - Feb 5, 2014: Promo Code Give Away on Reddit
 
 I'm burning through my promo codes at this point. The Apple Vis
 approach to giving away promo codes leads to a much deeper connection
@@ -1272,12 +1272,12 @@ Reddit.
 
 Downloads spiked to 40 those days.
 
-#Postmortem
+##Postmortem
 
 More related info on how to do promo code
 give aways in: Finding Your Community
 
-#Day 246 - Feb 7, 2014: A Hail Mary to Cara Ellison
+##Day 246 - Feb 7, 2014: A Hail Mary to Cara Ellison
 
 I was down to my last 15 codes. I reached out to Cara Ellison on
 Twitter about getting A Dark Room in front of people that may write
@@ -1289,7 +1289,7 @@ games. I'm just glad that I have someone that can advocate for me. She
 continues to be a ray of hope for A Dark Room. Unsolicited mentions of
 the game and always responds to my emails. Thank you... thank you Cara.
 
-#Postmortem
+##Postmortem
 
 At this point, I was out of ideas with regards to promotion. I spent
 _a lot_ of time giving away promocodes. It is an immense amout of work
@@ -1327,7 +1327,7 @@ following:
 >Thanks for reading,
 >Amir
 
-#Day 250 - Feb 11, 2014: A Hail Mary to Brandon Boyer
+##Day 250 - Feb 11, 2014: A Hail Mary to Brandon Boyer
 
 I'm getting more cautions at this point (I'm down to 9 codes). I'm
 scouring Twitter for connections... people to reach out to... people
@@ -1346,7 +1346,7 @@ I end up emailing Brandon Boyer. I tried not to send him a wall of
 text (it happened anyways). But Brandon replied after a few days
 (yay!). I sent over a promo code. Now I just have to wait T_T.
 
-#Day 251 - Feb 12, 2014: Appcessible Podcast
+##Day 251 - Feb 12, 2014: Appcessible Podcast
 
 Around this same time Jonathan Mosen reached out to me. He is another
 individual from the blind community and came across the blog entry I
@@ -1354,14 +1354,14 @@ did on adding accessibility enhancements to A Dark Room. He wanted to
 have me on a new podcast he was launching for the blind community. I
 said yes (of course), [here is a link to the podcast](http://www.appcessible.net/talking-apps-podcast-episode-2-amir-rajan/).
 
-#Postmortem
+##Postmortem
 
 This is a testament to being present in small communities. Out of no
 where I received a request to be interviewed on a podcast. If you ever
 get a request like this. Say yes and do it. Don't be picky. At this
 stage it is always worth your time.
 
-#Day 252 - Feb 13, 2014: Price Dropped on Game to $0.99 (50% off Sale)
+##Day 252 - Feb 13, 2014: Price Dropped on Game to $0.99 (50% off Sale)
 
 A Dark Room is now hovering near the top 10 under the RPG Category. I
 didn't want the ranking to drop. I'm down to 6 promo codes, I have a
@@ -1374,13 +1374,13 @@ unsolicited Reddit post on the price drop. There was an unsolicited
 post on Touch Arcade. I woke up the next day I look at the downloads.
 They spiked to 351 in one day.
 
-#Postmortem
+##Postmortem
 
 Here's another graph of sales at this time periods.
 
 [Todo]()
 
-#Day 253 - Feb 14, 2014: A Dark Room Makes it Into the Top 10 under the RPG Category
+##Day 253 - Feb 14, 2014: A Dark Room Makes it Into the Top 10 under the RPG Category
 
 A Dark Room in now number 8 in the App Store under the RPG
 category. Downloads have dropped to 100 after the initial spike from
@@ -1389,7 +1389,7 @@ days. Would it reset my app rank? The app dropped to number 11 the
 next day. It was dropping again.... that evening I made the app
 free... for two days.
 
-#Postmortem
+##Postmortem
 
 Making the game free was a mistake. Don't change the price of your app
 as it climbs, change the price of your app as it falls. I shouldn't
@@ -1401,7 +1401,7 @@ million downloads can't keep a consistent rank in a niche subcategory.
 
 A deep dive into pricing changes is in the chapter: How to Price Your App.
 
-#Day 254 - Feb 15, 2014: A Dark Room Is Free For Two Days
+##Day 254 - Feb 15, 2014: A Dark Room Is Free For Two Days
 
 A number of unsolicited posts went up again about the app being
 free... over the weekend, A Dark Room got ~8,900 downloads and ~10 new
@@ -1411,19 +1411,19 @@ but made it's way back to the ranking list. A Dark Room now hovers
 around 30 in the RPG Rankings. To this day I still wonder if it was a
 mistake to make the app free for two days.
 
-#Postmortem
+##Postmortem
 
 In general, free games get _ten times_ as many downloads as paid
 games.
 
-#Day 260 - Feb 21, 2014: A Hail Mary to Leigh Alexander
+##Day 260 - Feb 21, 2014: A Hail Mary to Leigh Alexander
 
 I reached out to Leigh via email... and let her know via Twitter that
 I sent her an email :-D. After a few days, she replied back with some
 interview questions for me and Michael! Hopefully a publication by
 Leigh will bring some visibility to A Dark Room.
 
-#Postmortem
+##Postmortem
 
 My first interaction with Leigh was back on day 167 (that's over 3
 months ago). Some of these connections (especially with high profile
@@ -1431,7 +1431,7 @@ individuals) take a large amount of time to cultivate. If you aren't
 going to be genuine with them, you'll get filed away under all the
 other people that "pitch" their games.
 
-#Day 263 - Feb 24, 2014: Reaching Out to RubyMotion
+##Day 263 - Feb 24, 2014: Reaching Out to RubyMotion
 
 I Talked to Karthik Hariharan about the viability of releasing A Dark
 Room's source (with an e-book). Trying to think of additional ways to
@@ -1448,12 +1448,12 @@ the game had so far. It was incredible getting a response back so
 quickly from Laurent and then a tweet that reached a number of
 developers.
 
-#Postmortem
+##Postmortem
 
 Two years later and I'm finally writing the book... better late than
 never I guess.
 
-#Day 266 - Feb 27, 2013: Another Release of A Dark Room, The Review Me Button
+##Day 266 - Feb 27, 2013: Another Release of A Dark Room, The Review Me Button
 
 There is always a side effect to releasing a new version of the app to
 the App Store. The first side effect: you lose all the reviews for the
@@ -1474,12 +1474,12 @@ game. The app is currently in the App Store's review process. I'll
 update this log as soon as I get the results/side effects from making
 these changes.
 
-#Postmortem
+##Postmortem
 
 Holy crap. Adding a review button to your game is important. Read the
 chapter: The Review System's Ins and Outs.
 
-#Day 270 - Mar 3, 2014: 12k Lines of RubyMotion
+##Day 270 - Mar 3, 2014: 12k Lines of RubyMotion
 
 A lot is still up in the air at this point. Version 1.4 is waiting for
 release. I've permanently dropped the price of A Dark Room to $0.99 (I
@@ -1493,12 +1493,12 @@ hoping that my first presentation at a Ruby user group goes well. I'm
 hoping the new review button generates more reviews. Lots of
 hope... few answers at this point.
 
-#Postmortem
+##Postmortem
 
 Pricing the app at $0.99 works well for A Dark Room. More info in the
 chapter: How to Price Your App.
 
-#Day 271 - Mar 4, 2014: The Review Button in A Dark Room
+##Day 271 - Mar 4, 2014: The Review Button in A Dark Room
 
 The pending release to A Dark Room hit the App Store. As expected all
 the reviews from the previous version get removed from the "current"
@@ -1516,7 +1516,7 @@ That day I received 20 reviews. A small success to be celebrated. I'm
 hoping to have an influx of reviews every few days given how long it
 takes to beat the game... I'll probably be dissapointed... but we'll see.
 
-#Day 272 - Mar 5, 2014: Check Number 3 From Apple
+##Day 272 - Mar 5, 2014: Check Number 3 From Apple
 
 The third check comes in. The grand totals for the month of January:
 
@@ -1546,12 +1546,12 @@ attention, but none of the review are fake... all 20 of them (the
 grand total at the time this review was written) are genuine,
 through and through.
 
-#Postmortem
+##Postmortem
 
 I use App Annie to keep an eye on rankings and download splits across
 countries. iTunes graphs could learn a lot from App Annie.
 
-#Day 273 - Mar 6, 2014: Leigh Alexander Publishes Her Interview on Gamasutra
+##Day 273 - Mar 6, 2014: Leigh Alexander Publishes Her Interview on Gamasutra
 
 Leigh, thank you for this. Thank you for taking the time to interview
 Michael and me. Thank you for skillfully writing about the journey
@@ -1573,7 +1573,7 @@ historical data I have now... I'll report back after a few days have
 passed). Regardless, thank you Leigh Alexander. Thank you for this
 small win I can celebrate.
 
-#Day 274 - Mar 8, 2014: Two Days After the Gamasutra Publication
+##Day 274 - Mar 8, 2014: Two Days After the Gamasutra Publication
 
 Leigh's article stayed on Gamasutra's Top Articles for two days.
 
@@ -1589,7 +1589,7 @@ changes were in line with my expectations. I wanted to keep the
 momentum going, so I decided to spend the next 4 days promoting the
 game on Reddit, Twitter, and Touch Arcade.
 
-#Day 278 - Mar 12, 2014: Four Days of Promotion
+##Day 278 - Mar 12, 2014: Four Days of Promotion
 
 I posted this write up on /r/IndieGaming and /r/GameDev. To share what
 I've been through so far.. and yes, to help with visibility... two
@@ -1632,13 +1632,13 @@ the downloads for that day, it didn't seem like they were all redeemed
 however. There was no spike in sales either. My downloads (and
 revenue) is flatlining now.
 
-#Postmortem
+##Postmortem
 
 Here I end up trying to combine an editorial release, and promocode
 giveaways to keep A Dark Room's rank high. Coincidentially, all this
 is happening around Spring Break, which was also helping downloads.
 
-#Day 279 - Mar 13, 2014: Back in the Top 10, iPad Release
+##Day 279 - Mar 13, 2014: Back in the Top 10, iPad Release
 
 I woke up this morning. Awake, head throbbing, vision blurry
 ;-). Checked my app rank... A Dark Room made it into the top 10
@@ -1646,7 +1646,7 @@ RPGs... and finally cracked the top 200 in the overall Games
 category. Back to testing the iPad/Universal version of the
 game.
 
-#Postmortem
+##Postmortem
 
 Build universal apps from the beginning. A little over 10% of my sales
 comes from iPad downloads. Unfortunately, iPhone and iPad rankings are
@@ -1654,7 +1654,7 @@ completely independent. Also, you have no chance in hell getting
 featured by Apple if you don't make apps that run on all of their
 devices in their native resolutions. See the chapter: Pitching to Apple.
 
-#Day 281 - Mar 15, 2014: A Dark Room is Ranked 6th Under RPGs
+##Day 281 - Mar 15, 2014: A Dark Room is Ranked 6th Under RPGs
 
 For the past two days, A Dark Room has gotten ~200 downloads. I
 haven't done any recent marketing of the game to result in that kind
@@ -1695,7 +1695,7 @@ Twitter won't bring in numbers like what happend in the last two
 days. So I guess I'll geek out on something else for a while, and take
 a break for the next few days :-).
 
-#Day 284 - Mar 18, 2014: The Spike is Over. iPad Version Release
+##Day 284 - Mar 18, 2014: The Spike is Over. iPad Version Release
 
 The unexplained spike is over. Downloads are coming back down to
 "normal" levels. This morning I received an email that the iPad
@@ -1715,7 +1715,7 @@ iDevices. This was a huge relief for me, and possibly something I can
 put behind me now... I'd be lying if I said I slept well these past
 few nights.
 
-#Day 285 - Mar 19, 2014: Mystery of the Week Long Spike Solved
+##Day 285 - Mar 19, 2014: Mystery of the Week Long Spike Solved
 
 [Last week there was a spike in A Dark Room's download numbers that I couldn't explain](#top6). Kevin
 Wade of OrgSync figured it out. It was because of Spring Break. A
@@ -1740,13 +1740,13 @@ Thankfully, the trusty review button in the game pulled through
 again. I got twelve 5-star, and one 4-star review yesterday.
 
 
-#Postmortem
+##Postmortem
 
 Here is a graph of the time around spring break.
 
 [TODO]()
 
-#Day 290 - Mar 24, 2014: What Happened When A Dark Room Was Free for Two Days
+##Day 290 - Mar 24, 2014: What Happened When A Dark Room Was Free for Two Days
 
 Spring Break (and the spike that came with it) was over... A Dark
 Room's ranking was falling. Part of this fall was related to the new
@@ -1805,14 +1805,14 @@ period when the app was free (a risk I was well aware of). Today, A
 Dark Room's iPhone and iPad ranks are 16 and 40 respectively (and
 rising... so far). I'd say the two day sale was a success.
 
-#Postmortem
+##Postmortem
 
 If you have a review converstion rate above 3%. That's pretty freaking
 amazing. Currently, A Noble Circle is my only app that is commanding
 3%+ converstion rate. I give some indept information in review
 techniques in: The Review System's Ins and Outs.
 
-#Hold on to Your Butts
+##Hold on to Your Butts
 
 This concludes the first part of my developer logs (before A Dark
 Room) went viral across 5 countries. Hope your ready for the next part
