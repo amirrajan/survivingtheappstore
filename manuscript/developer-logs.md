@@ -75,19 +75,27 @@ what it looks like today.
 
 Room Screen Before/After
 
-[Todo]()
+![Room Before](images/d9-room.png)
+
+![Room After](images/current-room.png)
 
 Supplies Screen Before/After
 
-[Todo]()
+![Supplies Before](images/d9-supplies.png)
+
+![Supplies After](images/current-supplies.png)
 
 Buy Screen Before/After
 
-[Todo]()
+![Buy Screen Before](images/d9-build.png)
+
+![Buy Screen After](images/current-build.png)
 
 Outside Screen Before/After
 
-[Todo]()
+![Outside Before](images/d9-outside.png)
+
+![Outside After](images/current-outside.png)
 
 Aside from adding a bit more symmetry to all the screens (and making
 buttons bigger for larger fingers), the general look and feel of the
@@ -170,7 +178,10 @@ correctly. Fifteen days, just gone on trying to display a map.
 Nothing really to add here that wasn't covered in Day 12. But here is
 a screenshot of the Dusty Path as it existed then and now.
 
-[Todo]()
+![Dusty Path before](images/d21-world.png)
+
+![Dusty Path now](images/current-world.png)
+
 
 ##Day 26 - Jul 26, 2013: Making the iOS Version My Own
 
@@ -624,7 +635,8 @@ downloads... a tweet sent to over 3,000 people... and it led to only
 Here is a screenshot of my sales to date. Not that great, but it's a
 start.
 
-[Todo]()
+![Day 165 Sales](images/d165-graph.png)
+
 
 ##Day 167 - Nov 18, 2013: Additional Notable Interactions
 
@@ -833,7 +845,8 @@ Rooms sales continue to be lukewarm.
 
 Here's the graph so far:
 
-[Todo]()
+![Sales Day 195](images/d195-graph.png)
+
 
 ##Day 196 - Dec 18, 2013: [Maddy Myers (@samusclone)](http://metroidpolitan.com/)
 
@@ -912,7 +925,8 @@ all the downloads that were generated... soul crushing I tell you.
 In retrospect, the spike I got in downloads was probably because it
 was during Christmas week. Here is a graph of sales:
 
-[Todo]()
+![Sales Day 204](images/d204-graph.png)
+
 
 ##Day 205 - Dec 28, 2013: [Elizabeth Simins (@ElizSimins)](http://cargocollective.com/eliz) and Patreon
 
@@ -959,7 +973,11 @@ even that with your first game, consider it a success and
 celebrate. Here is graph of A Noble Circle's first month's sales next
 to A Dark Room's.
 
-[Todo]()
+![ADR First Month Sales](images/ADRfirstmonth.png)
+
+![ANC First Month Sales](images/ANCfirstmonth.png)
+
+
 
 ##Day 212 - Jan 4, 2014: The Accessible Version of A Dark Room Is Released
 
@@ -1158,7 +1176,8 @@ The downloads for the last four days of January stayed at a steady 40.
 Here is a graph of January. More related info on how to do promo code
 give aways in: Finding Your Community
 
-[Todo]()
+![Promo Code Sales](images/d235-graph.png)
+
 
 ##Day 240 - Feb 1, 2014: Check #2 Comes in From Apple
 
@@ -1371,7 +1390,8 @@ They spiked to 351 in one day.
 
 Here's another graph of sales at this time periods.
 
-[Todo]()
+![Sales Day 252](images/d252-graph.png)
+
 
 ##Day 253 - Feb 14, 2014: A Dark Room Makes it Into the Top 10 under the RPG Category
 
@@ -1737,7 +1757,8 @@ again. I got twelve 5-star, and one 4-star review yesterday.
 
 Here is a graph of the time around spring break.
 
-[TODO]()
+![Spring Break Sales](images/d285-graph.png)
+
 
 ##Day 290 - Mar 24, 2014: What Happened When A Dark Room Was Free for Two Days
 
