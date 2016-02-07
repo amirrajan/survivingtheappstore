@@ -1112,7 +1112,7 @@ I've included the blog entry under the chapter: Raising Awareness, The
 Blind Us iPhones
 
 Also by doing this promocode giveaway, I saw how to do promocodes the
-write way and the wrong way. There is so much causaility here:
+right way and the wrong way. There is so much causaility here:
 
 - If I didn't build a game using buttons and labels, it wouldn't have
   had some default voice over support.
@@ -1365,8 +1365,7 @@ Here's another graph of sales at this time periods.
 
 A Dark Room in now number 8 in the App Store under the RPG
 category. Downloads have dropped to 100 after the initial spike from
-the previous day. I didn't want it to lose steam. I didn't want it to
-lose steam. I wondered if I could set A Dark Room to free for two
+the previous day. I didn't want it to lose steam. I wondered if I could set A Dark Room to free for two
 days. Would it reset my app rank? The app dropped to number 11 the
 next day. It was dropping again.... that evening I made the app
 free... for two days.
@@ -1407,7 +1406,7 @@ Leigh will bring some visibility to A Dark Room.
 
 #Postmortem
 
-My first iteraction with Leigh was back on day 167 (that's over 3
+My first interaction with Leigh was back on day 167 (that's over 3
 months ago). Some of these connections (especially with high profile
 individuals) take a large amount of time to cultivate. If you aren't
 going to be genuine with them, you'll get filed away under all the
