@@ -186,7 +186,7 @@ read through the slower points in the game). This didn't make it into
 the final release, but were in the game for a while. I had accumulated
 200 quotes and felt that it was inline with the atmosphere of the game.
 
-#Day 28 - Jul 28, 2013: Creativity is a Drug
+##Day 28 - Jul 28, 2013: Creativity is a Drug
 
 I don't know what it was about these Nietzsche quotes. I think it was
 my first attempt at doing something different and
@@ -235,14 +235,10 @@ Final Game Size:
 - comment: 291
 - code: 16,506
 
-#Back to Battle the Dusty Path
-
 The quotes were in place. I had random Room events working too. The
 after effects created from spending so many days with wrestling the
 map had worn off. I started specing out the battle sequences
 now.
-
-##Postmortem
 
 For the business/non technical people reading this, I can't stress
 enough how difficult this time period was. It's not fun hitting
