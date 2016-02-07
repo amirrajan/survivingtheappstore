@@ -1109,7 +1109,7 @@ my promo codes, but they are generating results.
 ##Postmortem
 
 I've included the blog entry under the chapter: Raising Awareness, The
-Blind Us iPhones
+Blind Use iPhones
 
 Also by doing this promocode giveaway, I saw how to do promocodes the
 right way and the wrong way. There is so much causaility here:
