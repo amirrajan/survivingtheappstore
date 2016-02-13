@@ -1,4 +1,4 @@
-#Developer Logs - Building A Dark Room
+#Building A Dark Room
 
 These are detailed developer logs that I've kept from the beginning of
 A Dark Rooms inception though its climb the the number one spot. I

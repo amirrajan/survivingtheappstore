@@ -20,7 +20,7 @@ Some highlights:
 
 - Image recognition apps. Tells you what object you are "looking" at based on image recognition.
 
-##Some Help if You're Developing iOS Apps
+**Some Help if You're Developing iOS Apps**
 
 I found [this library called SSAccessibility](https://github.com/splinesoft/SSAccessibility) extremely helpful. It provides a facade over iOS's accessibility apis and does a great job of managing/queueing VoiceOver notifications (something that you'd have to build yourself... since the core libraries simply interrupt what's currently being spoken, if another notification comes in).
 
@@ -35,7 +35,7 @@ There are already plenty of resources out there that will help you with the api,
 - screen curtain iPhone
 - accessibilityPerformMagicTap
 
-##A List of Undocumented Edge Cases That You Definitely Want to Look Out For
+**A List of Undocumented Edge Cases That You Definitely Want to Look Out For**
 
 - There are plenty of people over at [AppleVis](http://applevis.com) that will beta test your app and give you feedback.
 
@@ -49,7 +49,7 @@ There are already plenty of resources out there that will help you with the api,
 
 - If you choose _not_ to use SSAccessibility, you'll need to implement your own VoiceOver queueing mechanism to handle back to back update notifications. You can save yourself a lot of pain by just using the library. If you still insist on doing it yourself, good luck.
 
-##Make Mobile a Better Place for the Blind, Because We've Broken the Web
+**Make Mobile a Better Place for the Blind, Because We've Broken the Web**
 
 I know many of us feel that having an app for something that can just be a website is silly. I myself get extremely annoyed every time I visit a web page and I get a nag screen telling me to download the iPhone app. **But, we've pretty much broken the web for the blind. Our websites aren't linear, top to bottom. We have "like" buttons, and sidebars, and modals with tiny pngs for close buttons (with no alt-text), and partial async page rendering all over the place.** All of which is nightmarish for a screen reader that is taking a two-dimensional medium, and shoving it into a one-dimensional voice over. Native iOS apps are extremely, extremely valuable to the blind... just something to be aware of next time you get a download-the-app nag screen.
 

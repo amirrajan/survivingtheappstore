@@ -1,4 +1,4 @@
-#Developer Logs - Marketing A Dark Room
+#Marketing A Dark Room
 
 At this point, the major brunt of development is complete for A Dark
 Room is complete. Approximately six months earlier, the web version of
