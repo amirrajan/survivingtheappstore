@@ -1,4 +1,5 @@
 developer-logs.md
+developer-logs-part-2.md
 build-games-for-mobile.md
 small-money.md
 pitching-to-apple.md
