@@ -1,6 +1,14 @@
 #I'd Give Anything
 
-I've been on a sabbatical for the past 15 months and I've found one of the most precious resources we overlook: time.
+With all the:
+
+- quitting my high paying corporate job
+- taking a sabbatical
+- ups and downs of game development
+- going back to work after ADR fizzled
+- taking some more time out to write this book
+
+I've found one of the most precious resources we overlook: time.
 
 Figure out what's meaningful to you, and put all your effort into making time to pursue it. Here is the short story, hope you enjoy.
 

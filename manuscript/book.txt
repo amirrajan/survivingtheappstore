@@ -1,7 +1,7 @@
-developer-logs.md
-developer-logs-part-2.md
+dev-logs.md
+dev-logs-part-2.md
 build-games-for-mobile.md
 small-money.md
 pitching-to-apple.md
-bind.md
+blind.md
 id-give-anything.md

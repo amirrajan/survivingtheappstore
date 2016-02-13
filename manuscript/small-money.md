@@ -1,6 +1,6 @@
 #Making Small, Sustainable Income
 
-##tl;dr;
+**tl;dr;**
 
 _These tips are for the one-man/two-man/three-man shops. If you have a
 team of people, then these things may not be applicable to you (in
@@ -15,7 +15,7 @@ out. There are few techniques in increasing sales, like creating a
 (and generating revenue off of it) is an uphill battle. Build niche
 games that you'd be proud to say you built._
 
-##Know the Quality of Your Target Category
+**Know the Quality of Your Target Category**
 
 Decide on what two categories you want to deploy your game to. Done?
 
@@ -48,7 +48,7 @@ the few things that keeps me trying to make A Noble Circle the best
 premium Music game, and why I'll eventually dominate the Go game
 market with Beautiful Go (more on this later).
 
-##Know Your Target Download Numbers
+**Know Your Target Download Numbers**
 
 _3D Fashion Girl Mall Runner Race Game By Awesome_ employs
 a frowned upon tactic of "if you give me a 5 star review I will give
@@ -64,7 +64,7 @@ Min downloads formula: number of reviews * 50
 This is based on what I've observed with my own games. Here are the
 results for applying the formula.
 
-###Projected vs Actual
+**Projected vs Actual**
 
 A Dark Room review count: 27,745
 
@@ -95,7 +95,7 @@ A Noble Circle review count: 1,238<br/>
 - Projected min downloads: 61,900
 - Actual downloads world wide: 24,000
 
-###Applying the Formula
+**Applying the Formula**
 
 So now that we know "the review formula", let's take a look at
 _3D Fashion Girl Mall Runner Game By Awesome_ and _Frozen Princess Run
@@ -121,7 +121,7 @@ that devs have no idea if the customer actually did the review (nor
 what rating it was given). You're misleading people by doing this and
 artificially inflating your rating.
 
-###An Example of How I'm Using It
+**An Example of How I'm Using It**
 
 As I mentioned earlier, I'm working on a smaller game: Beautiful Go.
 Let's apply this thought process to my target game type and see how
@@ -153,7 +153,7 @@ financially viable it is to _go_ after the game of Go market (pun intended).
    revenue across the board... I should probably do this at some
    point... right after I figure out how to clone myself.
 
-##Niche Apps
+**Niche Apps**
 
 Build niche apps. As a small time developer (one, maybe two
 people), making $10 a month on an app really is great (that's almost a
@@ -180,7 +180,7 @@ keywords to focus in on these niche "seo words" too. Take advantage of
 this beautiful virtually small world we live in. Ask for feedback. Be
 _known_ in these communities and they'll support you.
 
-###Baby Steps
+**Baby Steps**
 
 Alright so I hope I've given you some food for thought. Here is a list
 of steps to take when building your awesome game.

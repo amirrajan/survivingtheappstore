@@ -1,14 +1,14 @@
 #Raising Awareness, The Blind Use iPhones
 
-##tl;dr;
+**tl;dr;**
 
 _If you are building a native iOS app, consider making it accessible to the blind. The out of the box accessibility features of iOS devices are pretty damn impressive. The API's are simple. Use them. **You'll be surprised at how little you have to do to make your app better for the visually impaired.** I don't have any experience with accessibility on Android (yet), but from what I've read, the accessibility features are good. As of the publish date of this blog entry, Windows Phone has no out of the box screen readers or assisted navigation, though it is something they are working on (part of the Windows Phone 8.1 release maybe)._
 
-##Let's Paint a Picture
+**Let's Paint a Picture**
 
 Think of your favorite blog, the one that you just love to read while sitting on the can (admit it, you know you do it). So you're sitting in the dark. On the _toilette_ (saying it in French help?), about to do your thing. You don't need to turn on the lights in the bathroom. Cause you're blind. Not _blind-without-your-glasses_ blind, but **NLP (no light perception)** blind. You have your pants down to your ankles, your phone is in your hand. **Can you navigate to your favorite blog using the phone's browser, find the latest blog entry, and have your phone read it to you?** If you have an iOS device, the answer is a definite _yes_ (it's also a yes for Android phones).
 
-##How The Blind Use Mobile Devices
+**How The Blind Use Mobile Devices**
 
 [This slide deck](http://www.slideshare.net/AdrianoMartino/ruby-motion-andiosaccessibility) by [Austin Seraphin (a blind software developer)](http://austinseraphin.com/about/) goes into details about how the blind use mobile devices.
 
@@ -19,22 +19,6 @@ Some highlights:
 - Money reader apps. You have cash in your wallet. You pull out a bill. Are you holding a $1 bill or a $100 bill? Hold your phone up to the bill and it'll tell you.
 
 - Image recognition apps. Tells you what object you are "looking" at based on image recognition.
-
-Here is a video that **you** can **watch**, and the blind will **never, ever, ever** see (yes, I'm trying to make you teary eyed here):
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/Cd4SPDUfJ-A" frameborder="0" allowfullscreen="allowfullscreen">tap, tap, see</iframe>
-
-Here is a short video about Austin Seraphin a blind software developer:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/-h_Xi0id1NM" frameborder="0" allowfullscreen="allowfullscreen">Austin Seraphin</iframe>
-
-Here is a podcast about another blind software developers, Aaron Cannon:
-
-[NerdCast #45: Programming In The Dark – A Developers Tale](http://blog.nerdery.com/2013/09/nerdcast-45-programming-in-the-dark-a-developers-tale/)
-
-And a presentation on web accessibility by him:
-
-<iframe src="//player.vimeo.com/video/34968569" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">Aaron Cannon</iframe>
 
 ##Some Help if You're Developing iOS Apps
 

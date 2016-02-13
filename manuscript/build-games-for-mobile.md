@@ -1,6 +1,6 @@
 #Build Games for Mobile
 
-##tl;dr;
+**tl;dr;**
 
 _These list of tips are for the one-man/two-man/three-man shops. If you
 have a team of people, then some of these things may not be applicable
@@ -16,7 +16,7 @@ as opposed to just a game. So find your style and stay consistent
 with that. You'll find an audience (even if it's a small one)
 who will continue to support you and buy your games._
 
-##Buy Other Indie Games/IAP
+**Buy Other Indie Games/IAP**
 
 Commit to spending some amount of money per month on indie games and IAP. If an indie
 game gets featured by Apple, buy it and see what they are doing right. You have to
@@ -24,7 +24,7 @@ understand the market. If you've never bought a game or IAP, how do you know if 
 yourself are doing a good job? So, buy games, learn from them, support your fellow
 indie developers for fuck's sake.
 
-##Build Games That Can Be Played in Short Sessions
+**Build Games That Can Be Played in Short Sessions**
 
 You want to build "snack-sized" experiences for mobile. I play my mobile
 games on the can (you do it too, don't deny it), during commercial breaks
@@ -35,7 +35,7 @@ three times). It also doesn't mean you can't build "sit down" games like
 Transistor (they are just less likely to succeed given the nature of this
 platform).
 
-##Build Games for Mobile
+**Build Games for Mobile**
 
 You don't have a controller. You have a touch device. Build games that
 are optimized for simple input/touch. You can still make games that are really
@@ -46,7 +46,7 @@ You may also want to consider games that are played in portrait mode,
 one handed. It's one of the reasons why Flappy Bird did well (imho). Other good
 vertical games are Hoplite, Threes, You Must Build a Boat, 0h h1, and 0h n0.
 
-##Build Games You Can Finish Coding in a Short Period of Time
+**Build Games You Can Finish Coding in a Short Period of Time**
 
 You have to build games that can be completed in two to three months (part time).
 I use the term "completed" loosely however. There is nothing stopping you from
@@ -67,7 +67,7 @@ I can't stress this "first release" enough. You need to get something out there.
 Honestly, you probably won't get any downloads... but life of the app in the
 App Store does influence rank, so why not get a head start on this?
 
-##Release Every Six Weeks Until You're "Done"
+**Release Every Six Weeks Until You're "Done"**
 
 Assuming you took the advice above, you'll still be working on your game while
 it's in the store. You'll want to schedule a nice six week rhythm. This accomplishes
@@ -97,7 +97,7 @@ You generally don't want to release more often than six weeks for this same reas
 overloading the editorial and review teams at this point... so don't do it unless you have a
 nasty game breaking bug).
 
-##Report Inflammatory Reviews
+**Report Inflammatory Reviews**
 
 Reviews that are just plain negative (to you or other people) should be reported.
 Long negative rants aren't great to see on your review page, and frankly Apple
@@ -157,7 +157,7 @@ Nor this one:
 
 Goes without saying that the take down process is subjective.
 
-##If You Must Do Ads, Do Them Well
+**If You Must Do Ads, Do Them Well**
 
 There are good ways to do ads, and then there are stupid ways. Take a look at how
 Geometry Dash, Crossy Road, and Threes Free do ads. Each one takes a tasteful approach to.
@@ -166,7 +166,7 @@ With regards to an IAPs that remove ads, give the player something additional. T
 novel a tower defense game called Bardbarin. It has an IAP that removes ads,
 but also gives you a special item that buffs gold generation.
 
-##IAP's
+**IAP's**
 
 I'm not a big fan of IAP's (or ads). So really the only thing I can say with regards
 to them is play League of Legends and see how they monetize. I've spent $100+ dollars
@@ -174,7 +174,7 @@ on LoL and never have they presented a pop up to get me to buy something. I had
 a brief moment of weakness when Trials Frontier presented a pop up, so study how they
 entice you to buy IAP (they do a pretty good job).
 
-##Add a Review Button
+**Add a Review Button**
 
 Add a review button to your games. If you don't ask for reviews, you won't get them.
 You don't want to do a nag review screen. I've seen too many apps that ask for a review
@@ -183,7 +183,7 @@ and your conversion rate will significantly increase. Geometry Dash and Duet do 
 great job of this. I'd say my games A Dark Room, The Ensign, and A Noble Circle
 do a pretty damn good job too.
 
-##Endless Games
+**Endless Games**
 
 You don't have to make an endless game. You want to build games that people finish
 (as opposed to playing a little and deleting). There are games out there that do
@@ -195,7 +195,7 @@ Regardless, you want your games to leave the player satisfied. Great examples
 of satisfying games (that aren't endless) are Prune, Monument Valley,
 Game Dev Story, and (personal plug) A Dark Room.
 
-##Screenshots
+**Screenshots**
 
 Have screenshots and if at all possible an App Preview Video. The guy that I used
 is pretty reasonable about pricing, you can email him at Rule2 Productions:
@@ -207,7 +207,7 @@ the description of your app. Having a screenshot that says "No IAP's, No Ads"
 will get noticed significantly more than having it in the description. Take a look
 at Blek's screenshots. They do a great job of pairing screenshots with words.
 
-##Promotion Codes
+**Promotion Codes**
 
 Give them away like candy (especially since you're releasing so often).
 If you reach out to editors or reviewers, just send redemption codes with
@@ -215,7 +215,7 @@ the initial email you send out. The worst thing you can do is say "email me
 back and I'll send you codes." They won't email you back, and they won't
 take a look at your game.
 
-##Cloning Other Games
+**Cloning Other Games**
 
 Create derivative works. Study games you like and recreate
 it with your style. Geometry Dash is a great example of a derivative work.
@@ -223,7 +223,7 @@ You can tell that it's heavily inspired by Impossible Game, but simply
 does a better job. Another game that (imho) does a better job than the "original"
 game is Sword of Xolan (which "copied" Goblin Sword).
 
-##Free Versions
+**Free Versions**
 
 Geometry Dash has a free version and a paid versions. Having this kind of offering
 keeps cloners from trying to capitalize on your success. See what I've done
@@ -236,7 +236,7 @@ It's also worth noting that the App Store customer base is simply divided. There
 that buy games and those that don't. It doesn't seem like they cross over much.
 So it may be beneficial to provide both versions if that's something that your game can work with.
 
-##Have An Identity
+**Have an Identity**
 
 You will (hopefully, eventually) find your style. I know exactly what kind
 of game I will get when I get a game from Bossa Studios (the guys that made
@@ -258,7 +258,7 @@ One game won't make you rich. The App Store is extremely volatile and fickle,
 so you'll need multiple assets to have a good, consistent income. Having an
 identity that is more than just a game will help with that sustainability.
 
-##Do it for Love
+**Do it for Love**
 
 Guys and gals, we're lucky. We have the ability to release a game that can
 be something special to someone living on the other side of the world
