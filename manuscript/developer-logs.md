@@ -1,4 +1,4 @@
-#Developer Logs With Postmortems - Part 1
+#Developer Logs With Postmortems - Building A Dark Room
 
 These are detailed developer logs that I've kept from the beginning of
 A Dark Rooms inception though its climb the the number one spot. I
@@ -17,7 +17,7 @@ Guys and gals, as indie game developers, we're in this together. We
 have to support each other (so thank you for buying this book and my
 games). If you ever have a question, email me at ar@amirrajan.net.
 
-##Day 1 - Jul 1, 2013: Picking the Development Environment
+*Day 1 - Jul 1, 2013: Picking the Development Environment*
 
 Starting off, I knew I didn't want to write an app in Objective C and
 XCode again. During my time off, I had already built apps using
@@ -36,7 +36,7 @@ started building the app in RubyMotion instead.
 I coded for 12 hours straight on the game. I haven't had this feeling
 in a very long time... losing track of time like that.
 
-##Postmortem
+*Postmortem*
 
 Picking an environment to work in becomes pretty important. Assuming
 you are a one-man/two-man shop, I feel it's important to actually
@@ -68,7 +68,7 @@ white background images to the game that would change as the player
 progressed... but I wanted to have a complete game before adding my
 own creativity to it.
 
-##Postmortem
+*Postmortem*
 
 Here is a screenshot of what the game looked like at this point vs
 what it looks like today.
@@ -140,7 +140,7 @@ techniques, scrolling techniques, "follow the player" techniques, and
 skeuomorphic stuff. Before this day I thought I was so close to
 finishing the implementation of game...
 
-##Postmortem
+*Postmortem*
 
 I still to this day deal with Imposter Syndrome. A Dark Room was an
 amazing success, but was it because of my complete redesign or am I
@@ -173,7 +173,7 @@ to represent landmarks and terrain (Cocoa UILabels can only have one
 format/font). It took 5 days to get the labels lined up and scrolling
 correctly. Fifteen days, just gone on trying to display a map.
 
-##Postmortem
+*Postmortem*
 
 Nothing really to add here that wasn't covered in Day 12. But here is
 a screenshot of the Dusty Path as it existed then and now.
@@ -219,7 +219,7 @@ read:
 
 >hope she's okay, have to keep the fire going.
 
-##Postmortem
+*Postmortem*
 
 The "flashes of events" was an incredibly important turning point for
 the game. It's where I took the world Michael created and put my own
@@ -286,7 +286,7 @@ a canvas... kind of felt weird about that. But it worked.
 came up after you won a battle). Pixel pushing labels and buttons. At
 this point I dread any kind of UI work in iOS.
 
-##Postmortem
+*Postmortem*
 
 For those that are just getting into game development. The explanation
 above is important. I was making a game out of buttons, labels, ascii
@@ -305,7 +305,7 @@ through unlocking Workshop items. I needed another break. I spent the
 next week working on a Twitter mashup written in NodeJS among other
 things. You can find the projects here: [http://amirrajan.net/nodejs-by-example/](http://amirrajan.net/nodejs-by-example/).
 
-##Postmortem
+*Postmortem*
 
 If you want to make an Html and Javascript game, take a look at
 Pixi.js. It's my go to game engine for web games.
@@ -338,7 +338,7 @@ different things I've done on my sabbatical. A Dark Room had been my
 primary "work" throughout this time. But I continued to spend time
 working with other stacks.
 
-##Postmortem
+*Postmortem*
 
 Dealing with stress is difficult. Dealing with the ups and downs of
 any type of creative work is difficult. You generally feel alone
@@ -430,7 +430,7 @@ that most of the game could have been played without any villagers if
 iron, coal and sulphur could be mined by the player. Michael said
 "Hey, why don't you add that? Add a solo mode with an alternate ending?"
 
-##Postmortem
+*Postmortem*
 
 If you're going to build a game and try to survive the App
 Store. Bring on a partner, even if they play a small role/own only a
@@ -459,7 +459,7 @@ at 10 pm that night. And she played the game non stop, all the way to
 the end. It was 2 am when she completed the play through.
 Thank you my dear.
 
-##Postmortem
+*Postmortem*
 
 Find someone that will play your game to the very end at a drop of a
 hat. My wife received that task (she is married to me after all). I'd
@@ -479,7 +479,7 @@ game in 90 to 100 minutes without even thinking too hard. Now I just
 have to wait. This was a good week. I shipped A Dark Room for iOS. And
 I was now preparing for a NodeJS competition: Node Knockout 2013!
 
-##Postmortem
+*Postmortem*
 
 For Node Knockout 2013, I teamed up with three other devs and coded
 for a weekend straight on a Div Kick clone. We used Html/Javascript
@@ -524,7 +524,7 @@ release. I pushed up version 1.1 of the app. Then I just had to
 wait... nothing really I could do. I was taking part in a NodeJS
 competition at the time. So that helped keep my mind off of it.
 
-##Postmortem
+*Postmortem*
 
 For all that is good in the world. Do a beta build of your game
 distributed through iTunesConnect/Test Flight. Doing this would have
@@ -566,7 +566,7 @@ Twitter search for "adarkroom" and began combing through all the
 tweets... replying to anyone who mentioned the game. Letting them know
 that there was an iOS version.
 
-##Postmortem
+*Postmortem*
 
 I'd say at a minimum, have a website for your game and a Twitter
 handle where people can reach you at. I created my website a bit late
@@ -606,7 +606,7 @@ of the game take a full day to get published in iTunes Connect. Seeing
 this kind of tweet and not knowing the impact right away is nerve
 wracking.
 
-##Postmortem
+*Postmortem*
 
 My approach to tweeting was unique. I spoke in the persona of the
 game, it didn't come off as spammy. I searched for anyone that tweeted
@@ -630,7 +630,7 @@ downloads caused by Courtney's tweet. It spiked to 30. Thirty
 downloads... a tweet sent to over 3,000 people... and it led to only
 30 downloads.
 
-##Postmortem
+*Postmortem*
 
 Here is a screenshot of my sales to date. Not that great, but it's a
 start.
@@ -648,7 +648,7 @@ version. There was no noticeable difference in downloads the next
 day. A meager 5 downloads on the 19th. I'm glad I was able to have a
 meaningful interaction with Leigh however.
 
-##Postmortem
+*Postmortem*
 
 It takes an immense amount of work creating this small connections. My
 relationship with Leigh Alexander was one of these concerted efforts as
@@ -666,7 +666,7 @@ of A Dark Room iOS that I had come across. How freaking cool is that?
 Unsolicited reviews are starting to come up. A spike to 30 downloads
 happened that day.
 
-##Postmortem
+*Postmortem*
 
 When you see an unsolicited review. Be sure to reach
 out to them in some way and let them know you noticed. Keep these
@@ -684,7 +684,7 @@ Touch Arcade forums. Every week afterwards, I have emailed a promo
 code to Touch Arcade for an official review. I have yet to hear back
 from them.
 
-##Postmortem
+*Postmortem*
 
 The Touch Arcade forums are a great place to get some initial
 visibility to your game. Developers are allowed a single forum thread
@@ -719,7 +719,7 @@ understood how frustrating it is to pay for an app and get delivered
 blewis1234 will ever read anything on this page. But I hope at some
 point, he'll re-rate the game.
 
-##Postmortem
+*Postmortem*
 
 One star reviews are inevitable. Try not to let it get to
 you. Eventually you'll get used to a few bad reviews here and
@@ -743,7 +743,7 @@ better. I got quite a few kind words, which helped heal the wounds of
 my first one star review. The next morning, because of the post to
 Reddit, the game downloads spiked to 27 downloads.
 
-##Postmortem
+*Postmortem*
 
 Holiday weeks are absolutely wonderful. They are times when your game
 (all apps for that matter) will get a natural spike. Thanksgiving,
@@ -770,7 +770,7 @@ the
 was an incredible review, and it truly made my day. These small wins
 help me get through each disappointment in the number of downloads.
 
-##Postmortem
+*Postmortem*
 
 Again, Any time an editor/reviewer gives you an unsolicited
 review. Immediately email them and thank them. Any time you do a
@@ -795,7 +795,7 @@ Room. I sent out a promise to them that I'd make the game fully
 accessible. I fired up RubyMotion and started researching what it
 would take to make A Dark Room fully playable via VoiceOver.
 
-##Postmortem
+*Postmortem*
 
 This is another small community I ended up being known in. Every
 little bit helps. Ever word of mouth recommendation will get more
@@ -817,7 +817,7 @@ these moments are hard to put in words. It's a chance for all the hard
 work Michael and I have put into the game to possibly pay off. For A
 Dark Room to finally make it into the lime lite.
 
-##Postmortem
+*Postmortem*
 
 Leigh Alexander and Cara Ellison are my champions. They help me out
 and recommend my games because I went above and beyond to make sure
@@ -837,7 +837,7 @@ downloads. I took the time to thank Indie Mega Booth for doing the
 podcast and personally thanked Maddy Myers (@samusclone) on
 Twitter.... such an awesome Twitter handle by the way.
 
-##Postmortem
+*Postmortem*
 
 At this point it finally sunk in that A Dark Room won't be an
 overnight smash hit. After so many forms of media coverage, and A Dark
@@ -881,7 +881,7 @@ game. I also gave him a hint on how to unlock the alternate ending
 where his villagers wouldn't become slaves. He was happy to receive
 the email and I felt like I dodged a bullet.
 
-##Postmortem
+*Postmortem*
 
 Be responsive to players that you can reach. Email/tweet them if you can
 find their info online. If someone emails you, reply to them fast,
@@ -920,7 +920,7 @@ I waited till the next day. I woke up in the morning and checked the
 downloads... there were 54. It's the highest thus far... but that was
 all the downloads that were generated... soul crushing I tell you.
 
-##Postmortem
+*Postmortem*
 
 In retrospect, the spike I got in downloads was probably because it
 was during Christmas week. Here is a graph of sales:
@@ -941,7 +941,7 @@ how technology has given a means for artists to showcase their works
 and making it easy for artists to promote their own works is a big
 deal.
 
-##Postmortem
+*Postmortem*
 
 Patreon is another means of how I support those that support me. It's
 such a simple token of support to give to things they care
@@ -960,7 +960,7 @@ First check comes in. The grand totals for the month of November:
 - Overall Rank: 1,479th for two days (metrics below the 1500th
   placement aren't kept in AppAnnie)
 
-##Postmortem
+*Postmortem*
 
 Honestly, if your game can make more than $10 in the first month, it's a
 massive success. It means that at least a few people are downloading
@@ -1004,7 +1004,7 @@ recent media coverage for A Dark Room, I changed the App Store description too:
 
 >Giant Bomb, Cara Eillison: Top 10 Games of 2013 (honorable mention)
 
-##Postmortem
+*Postmortem*
 
 For a deep dive on how to present your game in the App Store read the
 chapter: Tips for Creating an App Page in the App Store
@@ -1029,7 +1029,7 @@ game. I accepted them for what they were. But I still meticulously
 observed impact to the number and correlated them to what I did
 online.
 
-##Postmortem
+*Postmortem*
 
 This would be one of the happiest times in my life. I _shipped_ a
 freaking game. Don't down play the time after a solid release, relish
@@ -1048,7 +1048,7 @@ I got some retweets because of these interactions :-). Downloads
 spiked to 40 for a couple of days. Thank you for the support
 Scott.
 
-##Postmortem
+*Postmortem*
 
 Have fun with what you tweet. I could have tweeted: "Hi! There is now
 a mobile version of A Dark Room. Check it out at: blah blah
@@ -1070,7 +1070,7 @@ was kind enough to craft a tweet telling his followers about the web
 and mobile version of the game. Downloads spiked again to 40 downloads
 for a couple of days.
 
-##Postmortem
+*Postmortem*
 
 I think this was a genuine spike correlated to a tweet. It wasn't
 within a holiday week and I wasn't being featured by Apple
@@ -1095,7 +1095,7 @@ good balance between the two. A review hasn't gone up yet... but after
 another release of the game I'll be sure to follow up with Owen. I
 hope he doesn't take offense to my persistence.
 
-##Postmortem
+*Postmortem*
 
 This is me pouncing again on an interaction. Stay vigilant with your
 own interactions, they can pan out to be something more!
@@ -1117,7 +1117,7 @@ the game.
 Downloads spiked to 50 during the contest period. I'm burning through
 my promo codes, but they are generating results.
 
-##Postmortem
+*Postmortem*
 
 I've included the blog entry under the chapter: Raising Awareness, The
 Blind Use iPhones
@@ -1171,7 +1171,7 @@ fans (old and new) was great. A lot kind words and genuine support.
 
 The downloads for the last four days of January stayed at a steady 40.
 
-##Postmortem
+*Postmortem*
 
 Here is a graph of January. More related info on how to do promo code
 give aways in: Finding Your Community
@@ -1189,7 +1189,7 @@ The second check comes in. The grand totals for the month of December:
 - RPG Rank: 201st at its low point, 33rd at its height
 - Overall Rank: 1428th at its low point, 486th at its height (fell below the 1500 cut off for only 3 days)
 
-##Postmortem
+*Postmortem*
 
 Again, looking back. Almost _one thousand_ dollars. Think about
 it. You're an indie developer, hopefully with some sort of full time
@@ -1269,7 +1269,7 @@ with). You get a small message "need to gather wood, the forest
 beckons". This will hopefully help guide
 future gamers.
 
-##Postmortem
+*Postmortem*
 
 See what I mean with being responsive to emails? It helps. Also,
 incorporate feedback and make your games better if you see a recurring pattern.
@@ -1284,7 +1284,7 @@ Reddit.
 
 Downloads spiked to 40 those days.
 
-##Postmortem
+*Postmortem*
 
 More related info on how to do promo code
 give aways in: Finding Your Community
@@ -1301,7 +1301,7 @@ games. I'm just glad that I have someone that can advocate for me. She
 continues to be a ray of hope for A Dark Room. Unsolicited mentions of
 the game and always responds to my emails. Thank you... thank you Cara.
 
-##Postmortem
+*Postmortem*
 
 At this point, I was out of ideas with regards to promotion. I spent
 _a lot_ of time giving away promo codes. It is an immense amount of work
@@ -1366,7 +1366,7 @@ did on adding accessibility enhancements to A Dark Room. He wanted to
 have me on a new podcast he was launching for the blind community. I
 said yes (of course), [here is a link to the podcast](http://www.appcessible.net/talking-apps-podcast-episode-2-amir-rajan/).
 
-##Postmortem
+*Postmortem*
 
 This is a testament to being present in small communities. Out of no
 where I received a request to be interviewed on a podcast. If you ever
@@ -1386,7 +1386,7 @@ unsolicited Reddit post on the price drop. There was an unsolicited
 post on Touch Arcade. I woke up the next day I look at the downloads.
 They spiked to 351 in one day.
 
-##Postmortem
+*Postmortem*
 
 Here's another graph of sales at this time periods.
 
@@ -1402,7 +1402,7 @@ days. Would it reset my app rank? The app dropped to number 11 the
 next day. It was dropping again.... that evening I made the app
 free... for two days.
 
-##Postmortem
+*Postmortem*
 
 Making the game free was a mistake. Don't change the price of your app
 as it climbs, change the price of your app as it falls. I shouldn't
@@ -1424,7 +1424,7 @@ but made it's way back to the ranking list. A Dark Room now hovers
 around 30 in the RPG Rankings. To this day I still wonder if it was a
 mistake to make the app free for two days.
 
-##Postmortem
+*Postmortem*
 
 In general, free games get _ten times_ as many downloads as paid
 games.
@@ -1436,7 +1436,7 @@ I sent her an email :-D. After a few days, she replied back with some
 interview questions for me and Michael! Hopefully a publication by
 Leigh will bring some visibility to A Dark Room.
 
-##Postmortem
+*Postmortem*
 
 My first interaction with Leigh was back on day 167 (that's over 3
 months ago). Some of these connections (especially with high profile
@@ -1461,7 +1461,7 @@ the game had so far. It was incredible getting a response back so
 quickly from Laurent and then a tweet that reached a number of
 developers.
 
-##Postmortem
+*Postmortem*
 
 Two years later and I'm finally writing the book... better late than
 never I guess.
@@ -1487,7 +1487,7 @@ game. The app is currently in the App Store's review process. I'll
 update this log as soon as I get the results/side effects from making
 these changes.
 
-##Postmortem
+*Postmortem*
 
 Holy crap. Adding a review button to your game is important. Read the
 chapter: The Review System's Ins and Outs.
@@ -1506,7 +1506,7 @@ hoping that my first presentation at a Ruby user group goes well. I'm
 hoping the new review button generates more reviews. Lots of
 hope... few answers at this point.
 
-##Postmortem
+*Postmortem*
 
 Pricing the app at $0.99 works well for A Dark Room. More info in the
 chapter: How to Price Your App.
@@ -1559,7 +1559,7 @@ attention, but none of the review are fake... all 20 of them (the
 grand total at the time this review was written) are genuine,
 through and through.
 
-##Postmortem
+*Postmortem*
 
 I use App Annie to keep an eye on rankings and download splits across
 countries. iTunes graphs could learn a lot from App Annie.
@@ -1645,7 +1645,7 @@ the downloads for that day, it didn't seem like they were all redeemed
 however. There was no spike in sales either. My downloads (and
 revenue) is flatlining now.
 
-##Postmortem
+*Postmortem*
 
 Here I end up trying to combine an editorial release, and promo code
 giveaways to keep A Dark Room's rank high. Coincidentally, all this
@@ -1659,7 +1659,7 @@ RPGs... and finally cracked the top 200 in the overall Games
 category. Back to testing the iPad/Universal version of the
 game.
 
-##Postmortem
+*Postmortem*
 
 Build universal apps from the beginning. A little over 10% of my sales
 comes from iPad downloads. Unfortunately, iPhone and iPad rankings are
@@ -1753,7 +1753,7 @@ Thankfully, the trusty review button in the game pulled through
 again. I got twelve 5-star, and one 4-star review yesterday.
 
 
-##Postmortem
+*Postmortem*
 
 Here is a graph of the time around spring break.
 
@@ -1819,7 +1819,7 @@ period when the app was free (a risk I was well aware of). Today, A
 Dark Room's iPhone and iPad ranks are 16 and 40 respectively (and
 rising... so far). I'd say the two day sale was a success.
 
-##Postmortem
+*Postmortem*
 
 If you have a review conversion rate above 3%. That's pretty freaking
 amazing. Currently, A Noble Circle is my only app that is commanding
