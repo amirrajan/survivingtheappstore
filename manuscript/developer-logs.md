@@ -1,4 +1,4 @@
-#Developer Logs With Postmortems - Building A Dark Room
+#Developer Logs - Building A Dark Room
 
 These are detailed developer logs that I've kept from the beginning of
 A Dark Rooms inception though its climb the the number one spot. I
@@ -36,7 +36,7 @@ started building the app in RubyMotion instead.
 I coded for 12 hours straight on the game. I haven't had this feeling
 in a very long time... losing track of time like that.
 
-*Postmortem*
+_Postmortem_
 
 Picking an environment to work in becomes pretty important. Assuming
 you are a one-man/two-man shop, I feel it's important to actually
