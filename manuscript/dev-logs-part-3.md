@@ -70,7 +70,7 @@ a chapter specifically for disecting what happend: Analyzing Spikes.
 
 [TODO: Zara]()
 
-**Apr 1, 2014: Day Two, at the Number One Spot, in the UK App Store**
+**Day 302 - Apr 1, 2014: Day Two, at the Number One Spot, in the UK App Store**
 
 A Dark Room has managed to stay number 1 in the UK App Store for March
 30th and 31st (so far). Here are my observations:
@@ -229,6 +229,11 @@ And Geometry Dash:
 - United States: 185,618 (89%) to 1,798 (1%)
 - United Kingdom: 20,198 (89%) to 173 (1%)
 
+And Alto's Adventure:
+
+- United States: 4,919 (83%) to 116 (2%)
+- United Kingdom: 1,197 (80%) to 33 (2%)
+
 And Lifeline:
 
 - United States: 15,765 (81%) to 644 (3%)
@@ -238,7 +243,7 @@ Yep... the United Kingdom doesn't like A Dark Room for some
 reason. One tiny deviation would be that of Lifeline, which is another
 "text based" game.
 
-**Apr 2, 2014: Day Three, at the Number One Spot, in the UK App Store**
+**Day 303 - Apr 2, 2014: Day Three, at the Number One Spot, in the UK App Store**
 
 A Dark Room has been in the top spot in the UK App Store for 3 days
 now. Downloads have fallen 56% from day two, but A Dark Room's rank
@@ -453,7 +458,8 @@ Me:
 >frustrate anyone to a level where they'd lost faith in my love for
 >the craft.
 
->I played The Ensign all morning and these are the changes I decided to make. What do you think?
+>I played The Ensign all morning and these are the changes I decided
+>to make. What do you think?
 
 >- Accuracy for both player and baddies set to 100%.
 >- Precision artifact removed (cause you don't need it any more).
@@ -553,51 +559,49 @@ Me:
 >
 >Thanks again for the feedback.
 
-**Apr 4, 2014: The Fall From the \#1 Spot in the UK App Store. Here Are the Final Numbers**
+**Day 305 - Apr 4, 2014: The Fall From the \#1 Spot in the UK App Store. Here Are the Final Numbers**
 
 After five days in the top spot of the UK App Store, A
-Dark Room finally dropped to the #2 spot.  Observations:
+Dark Room finally dropped to the #2 spot. Observations:
 
 - You either love A Dark Room or hate it.
-- Once you make it to the top 5 of your category, things begin to pick up.
-- There doesn't seem to be any correlation between the UK and US App Stores.
+- Once you make it to the top 5 of your category, things begin to pick
+  up.
+- There doesn't seem to be any correlation between the UK and US App
+  Stores.
 - The US App Store is _definitely_ larger than the UK App Store.
 
 Here are the final numbers leading up to the \#1 spot in the UK:
 
-Date | Downloads (UK) | RPG Rank (UK) | Overall Rank (UK)
-:--- | -------------: | ------------: | ----------------:
-3/22 |             40 |            10 |               403
-3/23 |             58 |             6 |               333
-3/24 |             38 |             6 |               337
-3/25 |             36 |             5 |               277
-3/26 |             47 |             3 |               211
-3/27 |            108 |             1 |               100
-3/28 |            296 |             1 |                29
-3/29 |           1088 |             1 |                 5
-3/30 |           5959 |             1 |                 1
-3/31 |           5037 |             1 |                 1
-4/01 |           2812 |             1 |                 1
-4/02 |           2654 |             1 |                 1
-4/03 |           2195 |             1 |                 1
+- 3/22 -   40 downloads, rank 403
+- 3/23 -   58 downloads, rank 333
+- 3/24 -   38 downloads, rank 337
+- 3/25 -   36 downloads, rank 277
+- 3/26 -   47 downloads, rank 211
+- 3/27 -  108 downloads, rank 100
+- 3/28 -  296 downloads, rank 29
+- 3/29 - 1088 downloads, rank 5
+- 3/30 - 5959 downloads, rank 1
+- 3/31 - 5037 downloads, rank 1
+- 4/01 - 2812 downloads, rank 1
+- 4/02 - 2654 downloads, rank 1
+- 4/03 - 2195 downloads, rank 1
 
 Here are the US numbers:
 
-Date | Downloads (US) | RPG Rank (US) | Overall Rank (US)
-:--- | -------------: | ------------: | ----------------:
-3/22 |            125 |            21 |               636
-3/23 |            109 |            20 |               573
-3/24 |             83 |            20 |               643
-3/25 |             88 |            20 |               605
-3/26 |            106 |            19 |               604
-3/27 |             82 |            22 |               774
-3/28 |            100 |            21 |               637
-3/29 |            117 |            24 |               719
-3/30 |            140 |            20 |               623
-3/31 |            103 |            16 |               560
-4/01 |            127 |            12 |               468
-4/02 |            181 |             7 |               314
-4/03 |            176 |             6 |               242
+- 3/22 - 125 downloads, rank 636
+- 3/23 - 109 downloads, rank 573
+- 3/24 -  83 downloads, rank 643
+- 3/25 -  88 downloads, rank 605
+- 3/26 - 106 downloads, rank 604
+- 3/27 -  82 downloads, rank 774
+- 3/28 - 100 downloads, rank 637
+- 3/29 - 117 downloads, rank 719
+- 3/30 - 140 downloads, rank 623
+- 3/31 - 103 downloads, rank 560
+- 4/01 - 127 downloads, rank 468
+- 4/02 - 181 downloads, rank 314
+- 4/03 - 176 downloads, rank 242
 
 During the 5 days at the top spot, users of the UK App Store gave A
 Dark Room the following ratings:
@@ -678,7 +682,7 @@ Here are graphs of the US climb to this point:
 
 [TODO: Zara]()
 
-**Apr 15, 2014: \#1 in the App Store**
+**Day 316 - Apr 15, 2014: \#1 in the App Store**
 
 A Dark Room iOS finally clawed its way to the \#1 spot. It happened on
 April 13, 2014. It took seven, very long days to make it there from
@@ -719,7 +723,7 @@ Here's the graph to the \#1 spot:
 
 [TODO: Zara]()
 
-**Apr 29, 2014: Waiting for the New Normal**
+**Day 330 - Apr 29, 2014: Waiting for the New Normal**
 
 A Dark Room has been \#1 in the App Store for 17 days now. During that
 17 day period, the game has gotten 241,494 downloads. Every trend and
@@ -808,14 +812,51 @@ your life forever. The lottery commission hasn't revealed the 6th
 number yet, they haven't even told me when they'll show the 6th
 number. So I'm stuck in this weird limbo, where others see success and
 all I can do is temper expectations, be "responsible", and move
-forward as if that 6th number will be wrong.... still number 1, just
+forward as if that 6th number will be wrong... still number 1, just
 checked.
 
 *Postmortem*
 
-TODO
+A few things worth covering through this time period (and some advice
+I should follow myself now that I'm writing it down):
 
-**May 6, 2014: The Fall from the US Top Spot** <a href="#thefall"><small>permalink</small></a>
+- A Dark Room's downloads spiked a second time on 4/20 because it was
+  Easter (two holidays if you observe the Smoking Holiday
+  also). Holidays are a wonderful time for sales, so don't go dropping
+  your prices or making your games free during these time periods.
+
+- Touch Arcade gave coverage to A Dark Room. Apple started giving A Dark
+  Room minor features. These are important because only a relative
+  handful of games ever make it to this point. Surviving the App Store
+  comes down to these two entities noticing you. See chapter: How
+  Getting Featured Impacts Sales.
+
+- Fourteen days of barely sleeping is not good for your health. Also,
+  the App Store refreshes app rankings every 3 to 4 hours. Stop
+  sleeping with your phone at your bedside. Get an alarm clock to wake
+  you up and leave your phone far far away. See chapter: Dealing With
+  Stress.
+
+- Excersice is extremely important. It's one of the few things that
+  left me tired enough to get some sleep. And I don't mean taking
+  leasure walks. For me it was going to the brink of passing out (not
+  saying you should do that, but find something that lets you take you
+  mind off of X completely).
+
+- Celebrate milestones and successes (both large and small). As I'm
+  writing this, A Dark Room is \#2 overall in Australia and I'm not
+  losing any sleep over it (nor am I celebrating because I'm "used" to
+  this now).
+
+- Wayward Souls and Leo's Fortune are awesome games. You should
+  download them (out of childish spite, I haven't played Blek to this
+  day).
+
+- I don't know how Heads Up! is still ranked so highly. Warner
+  Brothers as released a number of variants (all endorsed by Ellen),
+  yet all of them have essentially tanked.
+
+**Day 336 - May 6, 2014: The Fall from the US Top Spot**
 
 It finally happened. On April 30th, around 5pm, A Dark Room lost the
 \#1 spot in the US App Store to Blek. I knew ADR would lose the spot at
@@ -861,7 +902,8 @@ Singapore.
 
 - In Singapore, ADR got 161 downloads at the top spot and fell soon after.
 - It took only a day to get there after becoming \#1 under RPGs.
-- In Austrialia, ADR got 1300 downloads, but _rose_ for another 3 days, before starting its plummet.
+- In Austrialia, ADR got 1300 downloads, but _rose_ for another 3
+  days, before starting its plummet.
 - It took 7 days to get to the top after being \#1 under RPGs.
 - Reviews have been mostly positive in both countries.
 
@@ -894,7 +936,22 @@ review conversion rates to _significantly_ increase for those that
 have beaten the game. Regardless... I feel that A Dark Room's time at
 \#1 has passed, and I won't see that spot again.
 
-**May 26, 2014: A Dark Room's Second Wind**
+**Postmortem**
+
+The volatility of the App Store is why you can't rely on just one
+title. A Dark Room has been able to hold its own for a while, but now
+my other two games bring in 30 - 40% of my overall revenue. See
+chapter: Lifetime Revenue
+
+If you start seeing a large spike in your games (like going viral in a
+small country), this is the best time to reach out to Apple and Touch
+Arcade. They will take notice and help you keep that snowball going.
+
+After this roller coaster, the lack of sleep, the dreaming of never
+having to work again, and the 1-star reviews/hateful emails, I decided
+to start looking for a job again.
+
+**Day 356 - May 26, 2014: A Dark Room's Second Wind**
 
 Twenty four days ago, A Dark Room fell from the \#1 spot. This fall
 gave me the opportunity to release an updated version of the
@@ -1054,7 +1111,24 @@ To summarize my summary:
 - There's an incredibly complex symbiotic relationship with other ranked apps.
 - It's too soon to tell how ADR will perform in the long run.
 
-**Jun 20, 2014: Taxes, Negative Reviews, Clones, and Open Source** <a href="#grrr"><small>permalink</small></a>
+**Postmortem**
+
+As an indie game developer, cultivating a strong connection with those
+that play your game is the best weapon you have against AAA
+companies. The developer commentary I added strengthed that connection
+and was one of the best moves I could have made. The Ensign and A
+Noble Circle both have developer commentary. All three of my games
+have a very high rating/high rating converstion rate. See chapter: The
+Review System's Ins and Outs.
+
+A Dark Room is a bit unique with regards to pricing (pimarily because
+it's so secretive about what the game is about). After looking at
+other games like Bleck and You Must Build a Boat, set your price to
+$0.99 or $2.99. It seems that the price elasticity for $1.99 and $2.99
+is about the same. Above $2.99 and that's when downloads drop
+significantly.
+
+**Day 381 - Jun 20, 2014: Taxes, Negative Reviews, Clones, and Open Source**
 
 Alrighty, this one has been on my mind for a while. It's going to be
 difficult to exercise empathy and be tactful within this post, but
@@ -1154,7 +1228,8 @@ you insight on what needs to be fixed.
 >with the thieves. I hope they'll go away soon, and the second they do
 >ill rate it 5 stars. Thank you.
 
-In this case though, I've already nerfed the thieves once, I'm not doing it again.
+In this case though, I've already nerfed the thieves once, I'm not
+doing it again.
 
 The _Just Plain Mean_ Review:
 
@@ -1245,18 +1320,33 @@ trademark violations, but that'll be a whole-nother entry). Morally,
 however, this goes against the grain of what open source is all
 about. And that, is truly heart breaking.
 
-**Aug 11, 2014: One Million Downloads in Seven Days**
+**Postmortem**
 
-It's been over a month since I've posted. I've slowly watched the rank
-and downloads of A Dark Room fall day over day. I thought there was a
-point where ADR's daily downloads would level out, but there really
-wasn't. By the end of July, A Dark Room was bringing in approximately
-200 downloads a day. This is a level I haven't seen since
-[February where I did a 50% off sale](#pricedrop). Isn't that insane?
-A game that took the \#1 spot for 18 days straight was now averaging
-downloads as if it were a game that just hit the App Store. I guess
-this shows again that you can't count on a consistent income from the
-App Store.
+It took Michael a little over a year to get an international trademark
+for A Dark Room. During this time period, I spent a lot of time
+battling clones using the Common Law Trademark as weapon.
+
+Don't worry about trademarking your stuff until you've hit the big
+time. Oh, and don't make your IP open source. Both Michael and I have
+learned our lesson. The Ensign nor A Noble Circle are open
+source. Michael's Gridland is also not open source.
+
+It's infuriating that there are small time game developers out there
+that take advantage of their own like this. But that's the nature of
+the situation, and giving that all my future works will be propritery
+with copyrights owned soley by the creators.
+
+**Day 402 - Aug 11, 2014: One Million Downloads in Seven Days**
+
+I've slowly watched the rank and downloads of A Dark Room fall day
+over day. I thought there was a point where ADR's daily downloads
+would level out, but there really wasn't. By the end of July, A Dark
+Room was bringing in approximately 200 downloads a day. This is a
+level I haven't seen since February where I did a 50% off sale. Isn't
+that insane? A game that took the \#1 spot for 18 days straight was
+now averaging downloads as if it were a game that just hit the App
+Store. I guess this shows again that you can't count on a consistent
+income from the App Store.
 
 One thing was different however with these downloads. I was slowly
 increasing the price of ADR to $3.99. At this point, it was safe to
@@ -1267,34 +1357,29 @@ are some download numbers at each price point. You'll notice that
 there is _very little_ inelasticity in price (even for top ranking
 apps).
 
-[ Date ] | [ Downloads ] | [ Price Point ] | [ Revenue\* ] | [ RPG Rank ] |
-:------- | ------------: | --------------: | ----------:   | -----------: |
-7/14     |           756 |            0.99 |         756   |            1 |
-7/15     |           713 |            0.99 |         713   |            1 |
-7/16     |           648 |            0.99 |         648   |            2 |
-7/17     |           503 |            1.99 |       1,006   |            2 |
-7/18     |           339 |            1.99 |         678   |            2 |
-7/19     |           373 |            1.99 |         746   |            2 |
-7/20     |           432 |            1.99 |         864   |            2 |
-7/21     |           321 |            1.99 |         642   |            2 |
-7/22     |           246 |            1.99 |         492   |            2 |
-7/23     |           241 |            1.99 |         482   |            3 |
-7/24     |           230 |            1.99 |         460   |            3 |
-7/25     |           221 |            1.99 |         442   |            3 |
-7/26     |           195 |            2.99 |         585   |            3 |
-7/27     |           275 |            2.99 |         825   |            4 |
-7/28     |           237 |            2.99 |         711   |            4 |
-7/29     |           142 |            3.99 |         568   |            4 |
-7/30     |           145 |            3.99 |         580   |            6 |
+- 7/14 - 756 downloads at 0.99 with category rank of 1
+- 7/15 - 713 downloads at 0.99 with category rank of 1
+- 7/16 - 648 downloads at 0.99 with category rank of 2
+- 7/17 - 503 downloads at 1.99 with category rank of 2
+- 7/18 - 339 downloads at 1.99 with category rank of 2
+- 7/19 - 373 downloads at 1.99 with category rank of 2
+- 7/20 - 432 downloads at 1.99 with category rank of 2
+- 7/21 - 321 downloads at 1.99 with category rank of 2
+- 7/22 - 246 downloads at 1.99 with category rank of 2
+- 7/23 - 241 downloads at 1.99 with category rank of 3
+- 7/24 - 230 downloads at 1.99 with category rank of 3
+- 7/25 - 221 downloads at 1.99 with category rank of 3
+- 7/26 - 195 downloads at 2.99 with category rank of 3
+- 7/27 - 275 downloads at 2.99 with category rank of 4
+- 7/28 - 237 downloads at 2.99 with category rank of 4
+- 7/29 - 142 downloads at 3.99 with category rank of 4
+- 7/30 - 145 downloads at 3.99 with category rank of 6
 
-_\*Revenue before Apple's cut and before taxes take out a huge chunk of the earnings (made the math easier)_
-
-You'll notice that while revenue stayed about level, my rank
-dropped. This is in line with what I've seen in the past (download
-count is king). So here I am sitting at the #6 spot, exactly where I
-was five months ago before the game ever went viral. Looking through
-my dev logs, I decided to do exactly what I did back then: I made the
-game free to bring in "new blood".
+Revenue stayed about level, my rank dropped. This is in line with what
+I've seen in the past (download count is king). So here I am sitting
+at the #6 spot, exactly where I was five months ago before the game
+ever went viral. Looking through my dev logs, I decided to do exactly
+what I did back then: I made the game free to bring in "new blood".
 
 Then, the impossible happened. On day one of being free, ADR received
 36,831 downloads. Day two, A Dark Room sky rocketed to 111,209
@@ -1322,3 +1407,10 @@ wrote about this sale. Extra Credits was kind enough to tweet about it
 too (they rock). It's hard to say how much of an impact they really
 had to the download numbers given that media coverage in the past
 really hasn't helped ADR (but I may be wrong).
+
+*Postmortem*
+
+It took A Dark Room a little over 400 days to conquer the paid and
+free App Stores. The rest of the chapters in this book take deeper
+dives through out this _exhausting_ journey. Here are some graphs
+showing different points during this roller coaster ride.
