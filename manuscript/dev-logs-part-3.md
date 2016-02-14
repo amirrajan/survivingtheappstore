@@ -29,18 +29,18 @@ downloads, but very few good reviews.
 Is the Minecraft "franchise" simply that popular? Here is a list of
 Minecraft based games that are high ranking right now:
 
-- Skyblock - Survival Game Mission Flying Island (#1 spot, 2-star
+- Skyblock - Survival Game Mission Flying Island (\#1 spot, 2-star
   average)
 - Hunt Games - Mine Mini Survival Game with Blocks (#9 spot, 2-star
   average)
-- Skyblock - Mini Survival Game in Block Sky World (#10 spot, 2-star
+- Skyblock - Mini Survival Game in Block Sky World (\#10 spot, 2-star
   average)
-- Minecraft Skin Studio - Official Skins Creator for Minecraft (#12
+- Minecraft Skin Studio - Official Skins Creator for Minecraft (\#12
   spot, 4.5-star average)
 - Adventure With Companions - 3D Online Multiplayer Block Building
-  Sandbox With Creative (#17 spot, 4-star average)
-- Minecraft Explorer Pro (#18 spot, 3.5-star average)
-- World Explorer - Made for MineCraft (#19 spot, 2.5-star average)
+  Sandbox With Creative (\#17 spot, 4-star average)
+- Minecraft Explorer Pro (\#18 spot, 3.5-star average)
+- World Explorer - Made for MineCraft (\#19 spot, 2.5-star average)
 
 A Dark Room is currently ranked 20, with 220 reviews, average 5-star
 rating... in the United States.
@@ -51,8 +51,8 @@ downloads. This got my attention. I tried to make sense of why this
 spike existed. App Annie, a site I use to track this stuff, showed a
 disproportionate number of downloads in the United Kingdom App
 Store. After looking at rankings, I saw that A Dark Room was recently
-promoted to the #1 spot in the UK App Store. Not #1 RPG, not #1 Game,
-**A Dark Room is currently the #1 app _overall_.**
+promoted to the \#1 spot in the UK App Store. Not \#1 RPG, not \#1 Game,
+**A Dark Room is currently the \#1 app _overall_.**
 
 I don't have any details (yet) about what impacted this, or how many
 downloads this will translate to in the long run. One thing I've
@@ -209,7 +209,7 @@ ratings, and highest 1 star ratings from there.
 Here is a list of "love/hate" ratings. Below is the number of 5 star
 ratings, 1 star ratings, and percentage of the total ratings (4, 3,
 and 2 star ratings excluded). These are rating breakdowns for each
-country A Dark Room has hit the #1 spot in.
+country A Dark Room has hit the \#1 spot in.
 
 - United States: 24,710 (93%) to 1,079 (4%)
 - Singapore: 252 (90%) to 6 (2%)
@@ -242,7 +242,7 @@ reason. One tiny deviation would be that of Lifeline, which is another
 
 A Dark Room has been in the top spot in the UK App Store for 3 days
 now. Downloads have fallen 56% from day two, but A Dark Room's rank
-still remains #1. From what I've observed so far, the rankings are
+still remains \#1. From what I've observed so far, the rankings are
 heavily determined by the number of downloads you get (not the
 reviews). Given that the downloads are falling, this rank position may
 not last much longer.
@@ -307,9 +307,255 @@ her. I'm glad I did. Conversation follows:
 >her - haha thanks! Maybe I should reinstall the app and uninstall my
 >ignorance
 
-**Apr 4, 2014: The Fall From the #1 Spot in the UK App Store. Here Are the Final Numbers** <a href="#topappday5"><small>permalink</small></a>
+**Postmortem**
 
-After <s>four</s> five days in the top spot of the UK App Store, A
+Approach every negative outcry with a calm and collected mind. Read
+what ever was posted, go work out and let off that negative eneergy,
+let it simmer, sleep on it, cool off, and then reply. Try to come at
+these negative comments without emotion.
+
+Here is another example of me trying my best to reply to someone who's
+played one of my games. This one is for prequel to ADR called The
+Ensign. I got the email after I added poison to the game:
+
+Them:
+
+>I'm done with playing Ensign.  Your update made a punishingly hard
+>game that rewards patience, repetition, and strategy, into a crippled
+>mess that will kill an experienced player within 60 seconds,
+>randomly.  I shouldn't, after countless hours of gameplay sunk into
+>the game, be capable of being killed less than 60 seconds into the
+>game.  And due to the nature of mobile app updates, I don't even have
+>the option of going back to the version of the game I ENJOYED
+>playing, enjoyed losing even, because I could see where I'D made a
+>mistake, and learned from it.  From everything I've read or heard you
+>say, I'm sure you're smiling about this message, if you're even
+>bothering to read this far.  And I'm sure I'm not the first to send
+>you a message like this.  And I'm sure this next part won't matter,
+>but I mean it sincerely:  You've lost a customer for any future game
+>you create, and you've made me regret giving you money for a game I
+>used to enjoy playing.
+
+Me:
+
+>First of all I'm glad you reached out to me. Believe me I am. The
+>recent updates to The Ensign primarily revolved around balancing the
+>punch level. They were too overpowered and took away from the
+>strategy with regards to refusing food. Before I released the updated
+>version, I made sure that I could consistently beat the game with
+>refusing food. I sunk countless hours into play testing the game to
+>make sure it was balanced and far.
+
+>I'm not smiling about bring this kind of frustration. The general
+>theme of The Ensign is to be sadistically soul crushing at times. But
+>it should definitely rewards persistence and experience.  Would you
+>mind telling me where you felt the deaths were unfair? I plan to work
+>on it more this weekend. Maybe I can get you beta access to the
+>update and you can give me some early feedback?
+
+>Building games is my dream job. I wish I could do it full time as
+>opposed to nights and weekends. The last thing I want is to lose you
+>as a customer.
+
+Them:
+
+>When I say the first 60 seconds, I mean that pretty literally.  On
+>multiple occasions, on entering the first house, I encountered a
+>hostile and died, despite punching as fast as possible.  In general,
+>it's so much easier now to die not because of lack of preparedness,
+>but just a long string of bad dice rolls in combat.  I kept missing,
+>they kept hitting, and because I had refused food, I had no means of
+>healing.
+
+>And fighting the guards of the tannery is now nearly impossible.
+>Fighting ANY enemy with more than 5 health with only level 1 fists
+>has a strong chance of being a death sentence, especially if food is
+>low.  A weapon helps...but now a knife often goes from 100 to 0 in a
+>single battle since they degrade even faster, so I often can't hold
+>on to them long enough to have one in hand for the entire tannery
+>battle set.  The bigger weapons degrade slower, but even presuming I
+>can survive a cave and get a steel or iron sword with a fairly high
+>percentage of life left on it, I don't have enough inventory to keep
+>one AND enough food to heal through ONE battle, often, let alone all
+>three.  And on top of it all, I can't enter into any encounter with
+>full health, because poison air.  Since updating, I have died over
+>and over at or before the third enemy in the tannery, or exhausted
+>all my food beating them, only to hit another encounter before I can
+>return to another previously visited waystation and stock up enough
+>food to heal.  And I've only gotten through the ironworks twice,
+>total.
+
+>I can still beat the game taking the food.  But unless I'm missing
+>something, or just keep not quite hitting a milestone that would have
+>ticked the right box, NOTHING improves with subsequent playthrough
+>anymore when you refuse food, aside from knowing that I need to get
+>through the tannery as soon as possible if I want to have a hope in
+>hell of consistently beating anything with more than 5 health when my
+>weapons break.  The game used to be a merciless drill instructor who
+>eased up JUST a little, JUST at the moment when you started to get
+>too frustrated to go on.  But now it just feels like a bully,
+>spitting in my face repeatedly.  I beat the previous version of the
+>game multiple times without the food, but only after a lot of
+>practice, days and days of playing, dying, playing again, dying
+>again, rinse, wash, repeat.  But every once in awhile it gave me
+>small signs that I was improving, that pieces of the experience were
+>leveling up (the punching, mainly), so I stuck with it.  I've given
+>this new version lots of my time, with far, FAR less result, with the
+>exception of a few extra red texts haranguing me.
+
+Me:
+
+>I hear ya man. When I was playing it again with refusing food, I was
+>furious at myself with decreasing accuracy and remove punch powers
+>(and adding poison).
+
+>The way I beat my own monstrosity of a game was make a B-line for the
+>houses that are two spaces away (the RNG for the house very very
+>rarely puts a baddy in there). Any house further than 2 spaces is a
+>complete dice roll. After getting a knife, head immediately back for
+>the swamp to get a the location of the tannery. From here you have to
+>be a bit more careful with the health and water. But stay out of the
+>caves and just replenish with H's or cook the meat you get back at
+>the swamp. Once you find the tannery (it's never more than 7 moves
+>away from the swamp), stay on top of your healing and you should be
+>able to get through. Believe it or not, your accuracy is at 80% while
+>the accuracy of the baddies are at 70%. I was thinking about adding
+>logic that would guarantee a hit after X misses in a row, but felt
+>that would be a form of coddling.
+
+>After the tannery, this is where past experience hurt me the most. I
+>tried to head straight for the caves and then straight for the iron
+>mine. Here is where you have to slow down and explore more. Leverage
+>the weaker defectors at the beginning and get the laser rifle. You
+>have to find an M and get the sight upgrade. So, slowly make your way
+>around and farm/cook meat. Once you have a laser rifle or sword/bolas
+>from the caves, use your best judgement to try the iron mine.
+
+>It isn't easy, but I promise you that I can make it to the ship a
+>large portion of the time. I made sure I could do this before
+>releasing. The most difficult part was unlearning everything I've
+>learned with the lvl 15 punches, you just can't rely on that or
+>katana's any more.
+
+>I'll play a few more times this weekend and make sure that I'm not
+>lying to myself. And I promise (from the bottom of my heart) that
+>I'll do a release if I feel that parts of it are still too "luck
+>based". I want luck to be a component, but it shouldn't feel like
+>that's the only way to win. Would you like beta access if I do decide
+>to change some things?
+
+>I don't want to lose someone that has put their faith in me as a game
+>developer. That's the last thing I'd ever want (regardless of what
+>that evil red text says). Especially being such an odd ball game/dev
+>in the App Store. Every one of you who have given my games a chance
+>is important. It's you who I rely on to recommend my games to others
+>(Apple certainly doesn't). So believe me brother, I never wanted to
+>frustrate anyone to a level where they'd lost faith in my love for
+>the craft.
+
+>I played The Ensign all morning and these are the changes I decided to make. What do you think?
+
+>- Accuracy for both player and baddies set to 100%.
+>- Precision artifact removed (cause you don't need it any more).
+>- Evasion artifact was still kept as a way to decrease the enemies precision.
+>- Moved melee artifact out of the occultist to the wandering master.
+>- Decreased encounter rate from 20% down to 10% for the houses nearest the swamp.
+>- Lowered the DPS for tannery men from 6 to 5.
+>- Doubled the durability of knifes.
+>- Moved wandering master further out (harder to find).
+
+Them:
+
+>Well, now that my blood is down a bit, I'm feeling a bit embarrassed,
+>both for my tone, and for the idea of being consulted, especially
+>since as much as I enjoy PLAYING games, I'm hardly an expert on how
+>to build, let alone balance them.
+>
+>I think reducing the likelihood of that initial encounter is good.  I
+>may have just a long string of rotten luck, because I actually kept a
+>log this morning, and it was roughly a third of all inital encounters
+>that came up with a baddie, and a good half of them that resulted in
+>my death.  I WAS able to get further a bit more often, after
+>following your advice (though I had already known about Always Choose
+>Right, figured that out after a bit of trail and error very early
+>on...although it seemed to me that the other paths resulted in an
+>extra monster, which was useful if you were trying to stock up to go
+>see the occultist/wandering master?)  Also, correct me if I'm wrong,
+>but the compass wasn't available at the ship in the previous version
+>of food refusal, was it?  Overlooking that in previous playthroughs
+>was another thing that probably hamstrung me pretty substantially.
+>Similarly, dropping the degradation rate of the knife sounds good to
+>me, although twice as long would put it as a slower degradation rate
+>than some of the more advanced weapons, wouldn't it?
+>
+>I don't know that you need to remove precision as a factor entirely,
+>and consequently the precision trinkets, since there IS a valuable
+>emotional heft to being in a fight and the terror of your hit not
+>landing/the relief of being spared an enemy's blow.  Not to mention,
+>it pretty much guarantees a player's death if in the later stages
+>they find themselves suddenly short on weapons or low on health and,
+>say, have the bad fortune to encounter a sniper.  I just think that
+>in the early stage of a session, removing the levelling punch results
+>in a much higher chance of just randomly dying no matter HOW good you
+>get at the game, which is what got me so angry that I sent that
+>initial e-mail.
+>
+>A lot of your proposed changes would seem to have bigger effects on
+>what I mentally refer to as the middle stage of the game, which is
+>everrything between the tannery and the armory. And the changes
+>there, while frustrating, don't bother me in a fundamental,
+>write-the-developer-an-angry-email-way as how murderous the opening
+>stage of the game became.
+>
+>I don't know if it's possible in the game's architecture, but would
+>it be possible to step the precision down incrementally as the game
+>progresses?  Like, when you first venture out, for that first
+>encounter or two it's simple Everybody Hits.  By the next several
+>encounters, you've at least got a knife and some food, so the
+>precision drops.  Not all the way to its worst, but enough to make
+>things harrowing, especially if you;re not managing your
+>food/inventory.  And once you've gotten past, say, the tannery (or
+>the radius the tannery is within), well now you've got enough
+>inventory that you SHOULD be able to carry several weapons (and
+>trinkets when you find a master/occultist) at which point precision
+>fully drops to the point where it's a good idea to find that D symbol
+>on the map...but then, maybe that's not possible, or is holding the
+>gamer's hand more than you want to, or makes some other thing easier
+>than you're looking for.
+>
+>I don't know.  You're being very generous in addressing me and asking
+>my opinion, so I'm just trying to give as considered an answer in
+>reply as I can.  I'm trying to think of how I'd address my specific
+>frustrations (how unremittingly lethal the first 5-10 minutes
+>becomes) without undercutting the problems you saw that led you to
+>these changes.  Not to mention as a sometime artist myself (in a
+>different field) I'm suddenly sensitive about not wanting to step on
+>your toes in creating the work YOU wanted to make, regardless of what
+>I or anyone else thinks.  I don't often go in for super-punishing
+>games, but yours really did managed to grab me.  I think it's just
+>that the update felt like it literally ripped the game I'd enjoyed
+>and had intended to revisit out of my hands, and replaced it with
+>something I didn't understand or seem capable of making progress in.
+
+Me:
+
+>No need to feel embarrassed :-) Just know that as much as the game
+>trolls you, it was simply the emotions I wanted to convey in this
+>experience (and definitely not how I feel towards the players). I
+>agree with the accuracy thing. I think I'll drop it (for both player
+>and enemy) to 85 - 90% as opposed to keep it always at 100% and add
+>the trinket back.
+>
+>And yes, to balance a bit of the difficulty I added the compass to
+>the swamp. So at least you get a vague idea of where things are. I
+>felt that helped balance the upped difficulty (risk/reward of going
+>back to the swamp).
+>
+>Thanks again for the feedback.
+
+**Apr 4, 2014: The Fall From the \#1 Spot in the UK App Store. Here Are the Final Numbers**
+
+After five days in the top spot of the UK App Store, A
 Dark Room finally dropped to the #2 spot.  Observations:
 
 - You either love A Dark Room or hate it.
@@ -317,7 +563,7 @@ Dark Room finally dropped to the #2 spot.  Observations:
 - There doesn't seem to be any correlation between the UK and US App Stores.
 - The US App Store is _definitely_ larger than the UK App Store.
 
-Here are the final numbers leading up to the #1 spot in the UK:
+Here are the final numbers leading up to the \#1 spot in the UK:
 
 Date | Downloads (UK) | RPG Rank (UK) | Overall Rank (UK)
 :--- | -------------: | ------------: | ----------------:
@@ -382,30 +628,30 @@ scam artist. For those that find themselves in this situation, all I
 can really say is that you get used to it, and it won't hurt/annoy you
 anymore. It just takes a while to get to that point.
 
-**Apr 9, 2014: #1 RPG, #5 Game, #10 App, in the US**
+**Apr 9, 2014: \#1 RPG, \#5 Game, \#10 App, in the US**
 
-Here we are. Ten days after A Dark Room made it to the #1 spot in the
-UK. This morning, A Dark Room is ranked #1 in the RPG category, #5 in
-the Games category, and is the #10 app, _overall_. I still have no
+Here we are. Ten days after A Dark Room made it to the \#1 spot in the
+UK. This morning, A Dark Room is ranked \#1 in the RPG category, #5 in
+the Games category, and is the \#10 app, _overall_. I still have no
 idea what's happening. I don't know definitively whether the buzz in
 the United Kingdom somehow caused the same kind of viral outbreak in
 the United States.
 
-But (so far) the trends are holding. As soon as A Dark Room hit the #1
+But (so far) the trends are holding. As soon as A Dark Room hit the \#1
 spot in the RPG category, a snowball effect occurred (similar to what
 I saw in the UK). If you look at the rank progression in the UK,
-you'll notice that A Dark Room hit the #1 spot overall, three days
-after it became #1 in the RPG category. A Dark Room hit the #1 RPG
+you'll notice that A Dark Room hit the \#1 spot overall, three days
+after it became \#1 in the RPG category. A Dark Room hit the \#1 RPG
 spot, in the US, late on April 6th... which makes day number 3,
 today. I doubt it'll jump 10 spots in one day, but it's worth noting
 how similar the trends are.
 
-Outside of impacts associated with being #1 in the UK. The following
+Outside of impacts associated with being \#1 in the UK. The following
 _may_ have given A Dark Room more steam in the United States.
 
-As soon as A Dark Room hit the #1 spot in the UK I reposted what I
+As soon as A Dark Room hit the \#1 spot in the UK I reposted what I
 wrote here on /r/gamedev:
-[What happens when your iOS game goes viral and becomes the #1 app in the UK App Store](http://www.reddit.com/r/gamedev/comments/220quk/what_happens_when_your_ios_game_goes_viral_and/). The
+[What happens when your iOS game goes viral and becomes the \#1 app in the UK App Store](http://www.reddit.com/r/gamedev/comments/220quk/what_happens_when_your_ios_game_goes_viral_and/). The
 post received 200 up votes, and there were many good conversations to
 be had.
 
@@ -426,11 +672,17 @@ off. Positive reviews out score negative reviews 3 to 1. Given what
 I've seen in the UK, if A Dark Room does indeed hit the top spot, it
 won't stay there for long.
 
-**Apr 15, 2014: #1 in the App Store**
+*Postmortem*
 
-A Dark Room iOS finally clawed its way to the #1 spot. It happened on
+Here are graphs of the US climb to this point:
+
+[TODO: Zara]()
+
+**Apr 15, 2014: \#1 in the App Store**
+
+A Dark Room iOS finally clawed its way to the \#1 spot. It happened on
 April 13, 2014. It took seven, very long days to make it there from
-the #1 RPG spot. I was in shock when it passed Mine Craft in the
+the \#1 RPG spot. I was in shock when it passed Mine Craft in the
 rankings. I literally gasped out loud when it passed Monument
 Valley. I laughed sinisterly when it took down RBI Baseball 14 (an
 officially licensed game of the MLB). This marks the third day at the
@@ -443,11 +695,11 @@ will happen in the US. Here are some observations and predictions:
 - iPad sales have been insignificant relative to iPhone.
 - Not a single major gaming website has done a piece about A Dark Room (yet).
 - The reviews in the US have been overall positive! (a ratio of 9 to 1 as opposed to UK's 3 to 1)
-- A Dark Room will fall out of the #1 US spot _very_ soon.
+- A Dark Room will fall out of the \#1 US spot _very_ soon.
 - It'll see a 20% drop in downloads, day over day, until it levels out.
 - It'll take ~25 days for this "leveling" to occur.
 
-In the UK, A Dark Room is currently ranked #12. It _seems_ that the
+In the UK, A Dark Room is currently ranked \#12. It _seems_ that the
 game has finally leveled out (or at least the fall has slowed down
 considerably). A Dark Room is averaging 400 downloads a day over
 there.
@@ -461,16 +713,22 @@ tl;dr; I won't be able to retire on the revenue A Dark Room is
 generating (not by a _long_ shot), but it'll definitely extend my
 sabbatical.
 
+*Postmortem*
+
+Here's the graph to the \#1 spot:
+
+[TODO: Zara]()
+
 **Apr 29, 2014: Waiting for the New Normal**
 
-A Dark Room has been #1 in the App Store for 17 days now. During that
+A Dark Room has been \#1 in the App Store for 17 days now. During that
 17 day period, the game has gotten 241,494 downloads. Every trend and
 projection I've made against what I saw in the UK has been broken:
 
-1. In the UK, it took 3 days to make it to the #1 spot overall, from
-   the #1 RPG spot. In the US, this took 7 _long_ days.
+1. In the UK, it took 3 days to make it to the \#1 spot overall, from
+   the \#1 RPG spot. In the US, this took 7 _long_ days.
 
-2. In the UK, A Dark Room was taken out of the #1 spot by an Apple
+2. In the UK, A Dark Room was taken out of the \#1 spot by an Apple
    Editor's Choice pick (Monument Valley). In the US, A Dark Room has
    survived _two_ Editor's Choice picks (Hitman GO and Leo's
    Fortune).
@@ -483,13 +741,13 @@ projection I've made against what I saw in the UK has been broken:
    the critical reviews in the US are valid (they found the game
    boring, over hyped, incomplete, etc).
 
-4. In the UK, A Dark Room stayed at the #1 spot for 6 days. I thought
-   to myself "Okay, it took twice as long to get to #1 in the US, I
-   can expect to stay at #1 twice as long." A Dark Room is going on to
+4. In the UK, A Dark Room stayed at the \#1 spot for 6 days. I thought
+   to myself "Okay, it took twice as long to get to \#1 in the US, I
+   can expect to stay at \#1 twice as long." A Dark Room is going on to
    the 18th day now.
 
 5. In the UK, A Dark Room's downloads dropped 20% day over day after
-   the initial days at #1. In the US, the downloads are _level_ and
+   the initial days at \#1. In the US, the downloads are _level_ and
    spiked _again_ on 4/20 and 4/27. None of this makes sense.
 
 Every day has been a bit stressful. Which app will take me out of the top spot?
@@ -497,7 +755,7 @@ Every day has been a bit stressful. Which app will take me out of the top spot?
 1. Goat Rampage: A game "inspired" by the viral hit Goat
    Simulator. How the heck is A Dark Room going to survive a popular
    meme? For four days, I kept a close eye on this game, waiting for
-   it to swap places with me and take the #1 spot. It didn't.
+   it to swap places with me and take the \#1 spot. It didn't.
 
 2. Hitman GO: When this was featured by Apple, I thought I was
    done. Here is a game built by a powerhouse, Square Enix. What
@@ -526,7 +784,7 @@ Every day has been a bit stressful. Which app will take me out of the top spot?
    through the same thing I've been going through. A mix of hope and
    stress. He is eyeing how quickly he gets new reviews, he probably
    wakes up in the middle of the night to see if he's over taken A
-   Dark Room... just like I wake up to see if I'm still #1.
+   Dark Room... just like I wake up to see if I'm still \#1.
 
 Now, all I can do is survive till Tuesday. Tuesday, is a magical
 day. It's the day where the media takes notice of the top apps in the
@@ -553,16 +811,20 @@ all I can do is temper expectations, be "responsible", and move
 forward as if that 6th number will be wrong.... still number 1, just
 checked.
 
+*Postmortem*
+
+TODO
+
 **May 6, 2014: The Fall from the US Top Spot** <a href="#thefall"><small>permalink</small></a>
 
 It finally happened. On April 30th, around 5pm, A Dark Room lost the
-#1 spot in the US App Store to Blek. I knew ADR would lose the spot at
+\#1 spot in the US App Store to Blek. I knew ADR would lose the spot at
 some point, but its still hard to describe what I felt when that
 happened.
 
 I refresh the App Store list on my iPhone and see the two mostly-black
 icons still holding the number one and number two spot (A Dark Room
-and Blek). It takes a split second to realize that the #1 spot isn't A
+and Blek). It takes a split second to realize that the \#1 spot isn't A
 Dark Room anymore. I feel defeated and relieved. The climax of this
 story has passed. I am finally into the falling action and
 dénouement.
@@ -588,19 +850,19 @@ coverage:
 - An article/interview for the Dallas Morning News.
 - That plus a few small independent blogs wrote about the game.
 
-All this, and A Dark Room _still_ fell from #1. It's, in fact,
+All this, and A Dark Room _still_ fell from \#1. It's, in fact,
 struggling to keep the #6 spot now. US downloads have dropped 80% from
 the weeks before. On the bright side, being out of the top spot gave
 me the window to push out a crucial release of the game. The reviews
 will reset, but it's (now) worth the risk.
 
-In other news, on Apr 29th, ADR hit the #1 spot in both Australia and
+In other news, on Apr 29th, ADR hit the \#1 spot in both Australia and
 Singapore.
 
 - In Singapore, ADR got 161 downloads at the top spot and fell soon after.
-- It took only a day to get there after becoming #1 under RPGs.
+- It took only a day to get there after becoming \#1 under RPGs.
 - In Austrialia, ADR got 1300 downloads, but _rose_ for another 3 days, before starting its plummet.
-- It took 7 days to get to the top after being #1 under RPGs.
+- It took 7 days to get to the top after being \#1 under RPGs.
 - Reviews have been mostly positive in both countries.
 
 With regards to reviews, I still wonder why the app was received so
@@ -634,7 +896,7 @@ have beaten the game. Regardless... I feel that A Dark Room's time at
 
 **May 26, 2014: A Dark Room's Second Wind**
 
-Twenty four days ago, A Dark Room fell from the #1 spot. This fall
+Twenty four days ago, A Dark Room fell from the \#1 spot. This fall
 gave me the opportunity to release an updated version of the
 game. With the release, ADR lost its average rating, and all of its
 glowing reviews got archived.
@@ -651,16 +913,16 @@ and providing the developer commentary as an In-App Purchase. I was
 nearing finished with the release of the IAP, but ADR suddenly
 went viral in the UK. Given the risk involved with
 resetting reviews, I decided to hold off on publishing the new
-version. When ADR made it to the #1 spot in the US,
+version. When ADR made it to the \#1 spot in the US,
 Michael and I decided to remove the IAP and release the commentary as
 a free update to the game.
 
 ADR fell. I published that same day. By the time the new release hit
 the App Store (a week later), ADR's rank had fallen to the #7 spot
 over all. The next day, the game fell another spot. But then, two days
-after the release (9 days after falling from #1)... ADR stopped
+after the release (9 days after falling from \#1)... ADR stopped
 falling. It gained one rank day after day. By May 23th (22 days after
-the fall), A Dark Room made it back to the #1 spot.
+the fall), A Dark Room made it back to the \#1 spot.
 
 So many variables were at play during this 22 day rise back to the
 top. I've done my best to summarize what all occurred. Any conclusions
@@ -669,15 +931,15 @@ predictions are proven wrong.
 
 _Variable 1: App price drops_
 
-Blek, the #1 game in the App Store made a smart move. About 4 days
-into their #1 streak, they dropped the price for their game to
+Blek, the \#1 game in the App Store made a smart move. About 4 days
+into their \#1 streak, they dropped the price for their game to
 $0.99. I did something similar back when I was
 struggling to stay relevant in the RPG category. Imagine what kind of
 increase Blek saw when they dropped the price of their game by
 _66%_. From what I've observed, a drop in price leads to an inversely
 proportional increase in downloads (with the added benefit of being
 able to say "I'm running a sale"). This little maneuver solidified
-Blek's #1 spot.... until A Dark Room took it back.
+Blek's \#1 spot.... until A Dark Room took it back.
 
 _Variable 2: Review velocity and quality_
 
@@ -716,21 +978,21 @@ It _does_ seem that the developer commentary helped give a little more
 reason to give a 5 star review (but not by much). Outside of that, it
 doesn't look like the new release significantly impacted ADR's rise.
 
-_Variable 3: Number of downloads before hitting #1_
+_Variable 3: Number of downloads before hitting \#1_
 
-It took a much longer time to get back to #1 from similar "low"
+It took a much longer time to get back to \#1 from similar "low"
 ranks. It took fewer average downloads, but a longer period of time.
 
-Number of downloads from the #15 spot to the #1 spot on version 1.5:
+Number of downloads from the \#15 spot to the \#1 spot on version 1.5:
 
 - 4/08: 2,153
 - 4/09: 4,310
 - 4/10: 6,152
-- 4/11: 7,669 (placed #2, day before #1)
+- 4/11: 7,669 (placed #2, day before \#1)
 - Average: 5,071
 - Total: 20,284
 
-Number of downloads from the #7 spot to the #1 spot on version 1.6:
+Number of downloads from the #7 spot to the \#1 spot on version 1.6:
 
 - 5/07: 2,820
 - 5/08: 2,531
@@ -743,16 +1005,16 @@ Number of downloads from the #7 spot to the #1 spot on version 1.6:
 - 5/15: 6,271
 - 5/16: 6,300
 - 5/17: 6,052
-- 5/18: 5,690 (placed #2 in the US, #1 in Canada!)
+- 5/18: 5,690 (placed #2 in the US, \#1 in Canada!)
 - 5/19: 4,313
 - 5/20: 4,845
-- 5/21: 5,462 (day before #1 in the US)
+- 5/21: 5,462 (day before \#1 in the US)
 - Average: 4,848
 - Total: 72,722
 
 _Variable 4: Relative performance of others in the App Store_
 
-Heads Up! briefly knocked Blek out of its #1 spot (for a few hours),
+Heads Up! briefly knocked Blek out of its \#1 spot (for a few hours),
 but soon fell back to #2 (and then #3). On the 14th, Ellen DeGeneres
 [posted a Heads Up! session with Emily Blunt](http://www.ellentv.com/videos/0-vrobj813/),
 which may have contributed to its very brief bump. But that's how
@@ -769,7 +1031,7 @@ the top 20 _since May of 2012_. That's _two years_ of "top spot" daily
 revenue.
 
 Blek (can I call it my arch nemesis?) did an awesome job with timing
-its sale, making it really hard to take back #1. They _did_ eventually
+its sale, making it really hard to take back \#1. They _did_ eventually
 change the price back to $2.99, which may have contributed to their
 fall.
 
@@ -943,7 +1205,7 @@ I have no words for this person. Here's another:
 
 Here's my reply, again with a lack of empathy:
 
->How do you explain v1.5's 18 day streak at #1? There wasn't any
+>How do you explain v1.5's 18 day streak at \#1? There wasn't any
 >developer commentary in that one asking people to review
 >ADR. Lawyered.
 
@@ -991,7 +1253,7 @@ point where ADR's daily downloads would level out, but there really
 wasn't. By the end of July, A Dark Room was bringing in approximately
 200 downloads a day. This is a level I haven't seen since
 [February where I did a 50% off sale](#pricedrop). Isn't that insane?
-A game that took the #1 spot for 18 days straight was now averaging
+A game that took the \#1 spot for 18 days straight was now averaging
 downloads as if it were a game that just hit the App Store. I guess
 this shows again that you can't count on a consistent income from the
 App Store.
