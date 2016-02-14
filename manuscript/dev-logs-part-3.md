@@ -1414,3 +1414,5 @@ It took A Dark Room a little over 400 days to conquer the paid and
 free App Stores. The rest of the chapters in this book take deeper
 dives through out this _exhausting_ journey. Here are some graphs
 showing different points during this roller coaster ride.
+
+[TODO: Zara]()
