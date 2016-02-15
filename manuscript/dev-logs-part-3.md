@@ -66,7 +66,7 @@ entry as soon as I do.
 
 This climb to the top spot sill puzzles me to this day. Here is a
 graph of sales in the UK vs the US around this time period. I'll have
-a chapter specifically for disecting what happend: Analyzing Spikes.
+a chapter specifically for dissecting what happened: Analyzing Spikes.
 
 [TODO: Zara]()
 
@@ -111,9 +111,9 @@ say the same thing:
 >**;)** - A brilliant game very addictive and interesting concept. I
 >would highly recommend it
 
->**Fantastic** - Really atmospheric, very minimalist: an rpg, a
+>**Fantastic** - Really atmospheric, very minimalist: an RPG, a
 >survivor sim, a text adventure. Absolutely brilliant and shows you
->don't need grafix to make a really absorbing atmospheric game.
+>don't need graphics to make a really absorbing atmospheric game.
 
 I decide to give the game a shot. I _pay_ money for it. Pressing the
 buy button is a very powerful gesture. It doesn't matter if the app I
@@ -190,7 +190,7 @@ something brilliant and unique.
 As a consolation, I've got some chuckles out of the reviews,
 specifically this one:
 
->**Avoid** - To summarise, I would actually rather be in a dark room,
+>**Avoid** - To summarize, I would actually rather be in a dark room,
 >with nothing else is in it, until my untimely death before playing
 >this app again. The endless time that is spent tapping could be spent
 >building a time machine that would take you back to the time you
@@ -203,7 +203,7 @@ specifically this one:
 After having over 25,000 reviews. I can make one conclusion about the UK
 App Store versus ever other country. People in the UK are mean. At
 least when it comes to games that are slow boil minimalist text
-base RPG's. I have received the most viseral responses, lowest 5 star
+base RPG's. I have received the most visceral responses, lowest 5 star
 ratings, and highest 1 star ratings from there.
 
 Here is a list of "love/hate" ratings. Below is the number of 5 star
@@ -270,7 +270,7 @@ _hate_ it. Here are the review number for yesterday:
 
 The reactions in the reviews continue to be visceral. Here are a couple:
 
->**Amazingly bad!** - I lasted 30 seconds. I dont know what's worse,
+>**Amazingly bad!** - I lasted 30 seconds. I don't know what's worse,
 >being charged more than a penny for this rubbish or reading the
 >obviously faked reviews after purchasing or finding the developers
 >epic long long long faked diary in making this 'game' that a 5 year
@@ -315,7 +315,7 @@ her. I'm glad I did. Conversation follows:
 **Postmortem**
 
 Approach every negative outcry with a calm and collected mind. Read
-what ever was posted, go work out and let off that negative eneergy,
+what ever was posted, go work out and let off that negative energy,
 let it simmer, sleep on it, cool off, and then reply. Try to come at
 these negative comments without emotion.
 
@@ -386,7 +386,7 @@ Them:
 >full health, because poison air.  Since updating, I have died over
 >and over at or before the third enemy in the tannery, or exhausted
 >all my food beating them, only to hit another encounter before I can
->return to another previously visited waystation and stock up enough
+>return to another previously visited way-station and stock up enough
 >food to heal.  And I've only gotten through the ironworks twice,
 >total.
 
@@ -501,14 +501,14 @@ Them:
 >it pretty much guarantees a player's death if in the later stages
 >they find themselves suddenly short on weapons or low on health and,
 >say, have the bad fortune to encounter a sniper.  I just think that
->in the early stage of a session, removing the levelling punch results
+>in the early stage of a session, removing the leveling punch results
 >in a much higher chance of just randomly dying no matter HOW good you
 >get at the game, which is what got me so angry that I sent that
 >initial e-mail.
 >
 >A lot of your proposed changes would seem to have bigger effects on
 >what I mentally refer to as the middle stage of the game, which is
->everrything between the tannery and the armory. And the changes
+>everything between the tannery and the armory. And the changes
 >there, while frustrating, don't bother me in a fundamental,
 >write-the-developer-an-angry-email-way as how murderous the opening
 >stage of the game became.
@@ -624,7 +624,7 @@ App Store.
 
 **Postmortem**
 
-Having your baby called ugly really sucks. Having a barage of 1 star
+Having your baby called ugly really sucks. Having a barrage of 1 star
 reviews come at you really sucks. You build something you put your
 heart and soul into, and then without even giving what you created an
 honest shot, they put their 1 star review and delete it calling you a
@@ -837,9 +837,9 @@ I should follow myself now that I'm writing it down):
   you up and leave your phone far far away. See chapter: Dealing With
   Stress.
 
-- Excersice is extremely important. It's one of the few things that
+- Exercise is extremely important. It's one of the few things that
   left me tired enough to get some sleep. And I don't mean taking
-  leasure walks. For me it was going to the brink of passing out (not
+  leisure walks. For me it was going to the brink of passing out (not
   saying you should do that, but find something that lets you take you
   mind off of X completely).
 
@@ -902,7 +902,7 @@ Singapore.
 
 - In Singapore, ADR got 161 downloads at the top spot and fell soon after.
 - It took only a day to get there after becoming \#1 under RPGs.
-- In Austrialia, ADR got 1300 downloads, but _rose_ for another 3
+- In Australia, ADR got 1300 downloads, but _rose_ for another 3
   days, before starting its plummet.
 - It took 7 days to get to the top after being \#1 under RPGs.
 - Reviews have been mostly positive in both countries.
@@ -1115,22 +1115,22 @@ To summarize my summary:
 
 As an indie game developer, cultivating a strong connection with those
 that play your game is the best weapon you have against AAA
-companies. The developer commentary I added strengthed that connection
+companies. The developer commentary I added strengthened that connection
 and was one of the best moves I could have made. The Ensign and A
 Noble Circle both have developer commentary. All three of my games
-have a very high rating/high rating converstion rate. See chapter: The
+have a very high rating/high rating conversion rate. See chapter: The
 Review System's Ins and Outs.
 
-A Dark Room is a bit unique with regards to pricing (pimarily because
+A Dark Room is a bit unique with regards to pricing (primarily because
 it's so secretive about what the game is about). After looking at
-other games like Bleck and You Must Build a Boat, set your price to
+other games like Blek and You Must Build a Boat, set your price to
 $0.99 or $2.99. It seems that the price elasticity for $1.99 and $2.99
 is about the same. Above $2.99 and that's when downloads drop
 significantly.
 
 **Day 381 - Jun 20, 2014: Taxes, Negative Reviews, Clones, and Open Source**
 
-Alrighty, this one has been on my mind for a while. It's going to be
+Alright, this one has been on my mind for a while. It's going to be
 difficult to exercise empathy and be tactful within this post, but
 I'll try. Let's get started.
 
@@ -1222,7 +1222,7 @@ The App Store is actually a great way to get feedback on what's
 broken. Pay attention to these "ransom" reviews. Because they'll give
 you insight on what needs to be fixed.
 
->Magnificent (3 stars): Game but the thieves take too long	Great
+>Magnificent (3 stars): Good game but the thieves take too long	Great
 >game, i read your post about the making of the game and I am very
 >sorry about making a 3 star review, but I spent more than 30 minutes
 >with the thieves. I hope they'll go away soon, and the second they do
@@ -1333,7 +1333,7 @@ source. Michael's Gridland is also not open source.
 
 It's infuriating that there are small time game developers out there
 that take advantage of their own like this. But that's the nature of
-the situation, and giving that all my future works will be propritery
+the situation, and giving that all my future works will be proprietary
 with copyrights owned soley by the creators.
 
 **Day 402 - Aug 11, 2014: One Million Downloads in Seven Days**
