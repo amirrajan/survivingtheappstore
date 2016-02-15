@@ -68,7 +68,8 @@ This climb to the top spot sill puzzles me to this day. Here is a
 graph of sales in the UK vs the US around this time period. I'll have
 a chapter specifically for dissecting what happened: Analyzing Spikes.
 
-[TODO: Zara]()
+![UK vs US Day 301](images/d301-graph.png)
+
 
 **Day 302 - Apr 1, 2014: Day Two, at the Number One Spot, in the UK App Store**
 
@@ -479,7 +480,7 @@ Them:
 >
 >I think reducing the likelihood of that initial encounter is good.  I
 >may have just a long string of rotten luck, because I actually kept a
->log this morning, and it was roughly a third of all inital encounters
+>log this morning, and it was roughly a third of all initial encounters
 >that came up with a baddie, and a good half of them that resulted in
 >my death.  I WAS able to get further a bit more often, after
 >following your advice (though I had already known about Always Choose
@@ -632,7 +633,7 @@ scam artist. For those that find themselves in this situation, all I
 can really say is that you get used to it, and it won't hurt/annoy you
 anymore. It just takes a while to get to that point.
 
-**Apr 9, 2014: \#1 RPG, \#5 Game, \#10 App, in the US**
+**Day 310 -Apr 9, 2014: \#1 RPG, \#5 Game, \#10 App, in the US**
 
 Here we are. Ten days after A Dark Room made it to the \#1 spot in the
 UK. This morning, A Dark Room is ranked \#1 in the RPG category, #5 in
@@ -680,7 +681,8 @@ won't stay there for long.
 
 Here are graphs of the US climb to this point:
 
-[TODO: Zara]()
+![US climb graph](images/d310-graph.png)
+
 
 **Day 316 - Apr 15, 2014: \#1 in the App Store**
 
@@ -721,7 +723,9 @@ sabbatical.
 
 Here's the graph to the \#1 spot:
 
-[TODO: Zara]()
+![US #1 spot](images/d316-graph.png)
+
+
 
 **Day 330 - Apr 29, 2014: Waiting for the New Normal**
 
@@ -905,7 +909,11 @@ Singapore.
 - In Australia, ADR got 1300 downloads, but _rose_ for another 3
   days, before starting its plummet.
 - It took 7 days to get to the top after being \#1 under RPGs.
-- Reviews have been mostly positive in both countries.
+Reviews have been mostly positive in both countries.
+
+![Us, Singapore and Australia 4/29](images/d336-graph.png)
+
+
 
 With regards to reviews, I still wonder why the app was received so
 negatively in the UK. Here are my two working theories:
@@ -1068,6 +1076,9 @@ Number of downloads from the #7 spot to the \#1 spot on version 1.6:
 - 5/21: 5,462 (day before \#1 in the US)
 - Average: 4,848
 - Total: 72,722
+
+![Second wind and comparison to UK,Canada, Singapore and Australia](images/d356-graph.png)
+
 
 _Variable 4: Relative performance of others in the App Store_
 
@@ -1415,4 +1426,8 @@ free App Stores. The rest of the chapters in this book take deeper
 dives through out this _exhausting_ journey. Here are some graphs
 showing different points during this roller coaster ride.
 
-[TODO: Zara]()
+![One Million Downloads in Seven Days](images/d402-graph.png)
+
+![One Million Downloads in Seven Days including US](images/d402-graph2.png)
+
+
