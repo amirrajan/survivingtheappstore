@@ -1,0 +1,6 @@
+how-to-read-this-book.md
+redefining-succes.md
+how-to-get-started-with-gamedev.md
+dev-logs.md
+dev-logs-part-2.md
+dev-logs-part-3.md
