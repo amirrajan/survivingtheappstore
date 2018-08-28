@@ -84,7 +84,7 @@ Yes. You do.
 No. Stop. You need to have a good grasp of fundamentals. You can't
 short cut this process (if you try you'll hit that wonderful brick wall).
 
-##Words of Warning
+## Words of Warning
 
 **Coding Isn't Easy**
 
@@ -118,7 +118,7 @@ find that a new game-changing tech is just over the horizon... sending
 you back to square one. If you don't love doing that, this is the
 wrong profession for you.
 
-##Setting Up Your Environment
+## Setting Up Your Environment
 
 These steps will hopefully get you over the first few hurdles of
 game development. All this is completely free. So don't worry about
@@ -148,7 +148,7 @@ This (and Firefox) are the browsers for developers. The thought of
 supporting Internet Explorer and Safari give me nightmares (the former
 more so than the latter).
 
-##Your First "Games"
+## Your First "Games"
 
 Create a file on your desktop called `index.html`, and
 put the following lines in it:
@@ -205,7 +205,7 @@ name.
 Enhance the webpage so that instead of throwing up an alert box for
 saying hello, text is displayed on the page in green (below the text box).
 
-###"Game" Number Two
+### "Game" Number Two
 
 Write an html page that shows a `table` with 3 rows and 3 columns. When
 a user clicks in any of the table cells, the color of the cell changes from
@@ -241,7 +241,7 @@ the next program until you've built a fully functional Tic Tac Toe
 game with win conditions (you don't have to worry about creating an
 AI, just assume it's two players).
 
-###"Game" Number Three
+### "Game" Number Three
 
 Write an html page that shows a table with 10 rows and 10
 columns. Clicking on a column adds a black square to the _top_ row of
@@ -276,7 +276,7 @@ with no development experience). So power through and finish "drawing
 these circles and lines". It'll put much larger endeavors into
 perspective.
 
-##Learn How To Deploy Your Stuff
+## Learn How To Deploy Your Stuff
 
 Now that you have some familiarity with JavaScript, HTML, and
 CSS, let's deploy some prebuilt apps. Each app comes with a
@@ -286,7 +286,7 @@ codebases line by line and make sure you understand _everything_ that's
 in them. Maybe try to expand these apps and create your own games (all
 of this stuff is released under permissive licenses, so go wild).
 
-##Word Finder
+## Word Finder
 
 This app lets you search the entire English dictionary for words that
 match a specific pattern. It's a great little website that will "help"
@@ -302,7 +302,7 @@ engine called EJS.
 
 [Instructions and source code](https://github.com/amirrajan/word-finder)
 
-##Celebrity Chat
+## Celebrity Chat
 
 A simple chat app. Each person that comes to the page gets assigned
 the name of a celebrity. You can chat with each other. Role play. Keep
@@ -315,7 +315,7 @@ EJS and a websockets library called Socket.io.
 
 [Instructions and source code](https://github.com/amirrajan/nodejs-chat)
 
-##Cards Against Humanities
+## Cards Against Humanities
 
 This is a port of the game Cards Against Humanities. It’s released
 under Creative Commons Non-Commercial.
@@ -328,7 +328,7 @@ called jasmine-node. [Get 3 other friends and play it here](http://nahnahnah.her
 
 [Instructions and source code](https://github.com/amirrajan/nodejs-against-humanity)
 
-##Dive Kick Clone
+## Dive Kick Clone
 
 This is a real time, multiplayer fighting game [currently hosted
 here](http://node-kick.herokuapp.com). This codebase is a cleaned up
@@ -347,7 +347,7 @@ how the app evolved over time.
 
 [Instructions and source code](https://github.com/amirrajan/nodekick)
 
-###Learn Pixi.js
+### Learn Pixi.js
 
 The last app in the list above was created using
 [Pixi.js](http://pixijs.com). Here is where you're pretty much
@@ -355,13 +355,13 @@ on your own. Go through
 [the examples they have on their website](http://pixijs.github.io/examples/), and
 try to build a very simple Tic Tac Toe and Tetris game.
 
-###Learn Some Math
+### Learn Some Math
 
 Knowing a little bit of Trig and Geometry can go a long way. Understanding
 SOHCAHTOA and whether two rectangles intersect was all I needed to
 develop [A Noble Circle](https://www.youtube.com/watch?v=aPzpfDgofu0).
 
-##Tips Moving Forward
+## Tips Moving Forward
 
 If you were able to get through these items. You're to a point where
 you have a cursory grasp of what it takes to build a video
