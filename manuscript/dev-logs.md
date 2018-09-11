@@ -557,7 +557,7 @@ Awesome experience.
 
 **If You Build It, They Will Come is a Complete Utter Lie**
 
-For all the asspiring game developers out there. The sad reality is
+For all the aspiring game developers out there. The sad reality is
 that building your amazing game isn't enough. You then have to spend
 an immense amount of time telling people about it. The next chapter
 shows this slog.
