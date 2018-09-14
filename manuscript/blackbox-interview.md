@@ -70,7 +70,7 @@ the way. I've gotten a lot faster.
 Excluding all 3rd party code and blank lines Blackbox is comprised of
 35,730 lines spread over ~600 Objective-C files (half are headers of
 course). An additional 7,333 lines are comments! I like comments. (The
-entire binary would likely be less than 2MB but online speech
+entire binary would likely be less than 2MB but offline speech
 recognition makes the whole thing swell to around 45MB.)
 
 >How much lifetime revenue (gross) has the game generated on iOS?
