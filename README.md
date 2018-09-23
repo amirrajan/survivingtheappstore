@@ -8,7 +8,7 @@ Creative Commons Non-Commercial.
 
 # Hey You! Support Me Dammit
 
-Yea. You. You're getting this 300+ page book for free. Free in the sense that _if you can't afford to purchase it, then you don't have to_. But, if you _can_ afford to purchase it, you can do so by purchasing my games:
+Yea. You. You're getting this 300+ page book for free. Free in the sense that _if you can't afford to purchase it, then you don't have to_. But, if you _can_ afford to purchase it, you can do so indirectly by purchasing my games (a whopping $10.00 if you buy all of them):
 
 - A Dark Room iOS: https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8
 - A Dark Room Android: https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en
