@@ -18,7 +18,7 @@ Yea. You. You're getting this 300+ page book for free. Free in the sense that _i
 - Beautiful Go: https://itunes.apple.com/us/app/beautiful-go/id955295568?mt=8
 - All my games are built with RubyMotion: http://www.rubymotion.com/download/
 
-**Do it. Support your fellow developers and the open source knowledge they share. This model will never by sustainable if you don't help our own people with your wallet.**
+**Do it. Support your fellow developers and the open source knowledge they share. This model will never by sustainable if you don't help "your own people" with _your_ wallet.**
 
 # Cover
 
