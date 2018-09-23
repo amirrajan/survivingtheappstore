@@ -1,6 +1,26 @@
 # Surviving the App Store
 
-Creative Commons Non-Commercial
+A book on lessons learned in building mobile apps. Written by the indie game dev who built the number one app, A Dark Room.
+
+# License
+
+Creative Commons Non-Commercial.
+
+# Hey You! Support Me Dammit
+
+Yea. You. You're getting this 300+ page book for free. Free in the sense that _if you can't afford to purchase it, then you don't have to_. But, if you _can_ afford to purchase it, you can do so by purchasing my games:
+
+- A Dark Room iOS: https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8
+- A Dark Room Android: https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en
+- The Ensign: https://itunes.apple.com/us/app/the-ensign/id908073488?mt=8
+- A Noble Circle: https://itunes.apple.com/us/app/a-noble-circle/id977865620?mt=8
+- Mildly Interesting RTS: https://itunes.apple.com/us/app/mildly-interesting-rts/id1202710090?mt=8
+- Beautiful Go: https://itunes.apple.com/us/app/beautiful-go/id955295568?mt=8
+- All my games are built with RubyMotion: http://www.rubymotion.com/download/
+
+**Do it. Support your fellow developers and the open source knowledge they share. This model will never by sustainable if you don't help our own people with your wallet.**
+
+# Cover
 
 ![Surviving the App Store](cover.png?raw=true)
 
