@@ -788,7 +788,7 @@ following:
 
 **Day 250 - Feb 11, 2014: A Hail Mary to Brandon Boyer**
 
-I'm getting more cautions at this point (I'm down to 9 codes). I'm
+I'm getting more cautious at this point (I'm down to 9 codes). I'm
 scouring Twitter for connections... people to reach out to... people
 that may respond. @Kotaku follows only 41 people and is followed by
 over three hundred thousand. It looks like the people Kotaku is
